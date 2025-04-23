@@ -1,0 +1,58 @@
+function Safe-Symlink {
+    param (
+        [string]$LinkPath,
+        [string]$TargetPath
+    )
+
+    # Verifica se o destino existe
+    if (-Not (Test-Path $TargetPath)) {
+        Write-Error "ERRO: O caminho de destino NÃO existe: $TargetPath"
+        exit 1
+    }
+
+    # Cria o diretório pai do link, se necessário
+    $LinkParent = Split-Path $LinkPath -Parent
+    if (-Not (Test-Path $LinkParent)) {
+        Write-Host "Diretório pai do link não encontrado. Criando: $LinkParent"
+        New-Item -ItemType Directory -Path $LinkParent -Force | Out-Null
+    }
+
+    # Remove link ou pasta existente no caminho do link
+    if (Test-Path $LinkPath) {
+        Write-Host "Removendo: $LinkPath"
+        Remove-Item -Path $LinkPath -Force -Recurse
+    }
+
+    Write-Host "Criando link: $LinkPath -> $TargetPath"
+    New-Item -ItemType SymbolicLink -Path $LinkPath -Target $TargetPath | Out-Null
+}
+
+
+# Verifica se o script está sendo executado como administrador
+if (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")) {
+    Write-Host "Run as admin"
+    exit
+}
+
+Safe-Symlink "$HOME\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" "$HOME\scripts\windows-terminal\settings.json"
+
+Safe-Symlink "$HOME\AppData\Local\Google\Chrome" "D:\software\chrome-data"
+
+Safe-Symlink "$HOME\AppData\Local\AutoDarkMode" "$HOME\scripts\autodarkmode"
+Safe-Symlink "$HOME\AppData\Roaming\AutoDarkMode" "$HOME\scripts\autodarkmode"
+
+Safe-Symlink "$HOME\AppData\Roaming\mpv\input.conf" "$HOME\scripts\mpv\input.conf"
+Safe-Symlink "$HOME\AppData\Roaming\mpv\mpv.conf" "$HOME\scripts\mpv\mpv.conf"
+
+Safe-Symlink "$HOME\AppData\Roaming\Telegram Desktop\tdata" "D:\software\telegram-data"
+
+Safe-Symlink "$HOME\AppData\Roaming\FlowLauncher" "$HOME\scripts\FlowLauncher"
+
+Safe-Symlink "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\my-software" "D:\software\"
+
+Safe-Symlink "$HOME\.glzr\glazewm\config.yaml" "$HOME\scripts\glazewm\config.yaml"
+
+Safe-Symlink "$HOME\.config\yasb" "$HOME\scripts\yasb"
+
+Safe-Symlink "$HOME\Documents\PowerShell\Microsoft.PowerShell_profile.ps1" "$HOME\scripts\powershell\Microsoft.PowerShell_profile.ps1"
+

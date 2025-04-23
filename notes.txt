@@ -1,0 +1,14 @@
+# continue interrupted download
+wget link -c
+
+curl -C - -O link
+
+
+
+Comparação de Nomenclatura
+Ferramenta	Parâmetro	Nome por Extenso	Origem do Nome
+curl	-c	--cookie-jar	"Cookie" ou "Collect"
+curl	-b	--cookie	"Biscuit" ou "Bearer"
+curl	-j	--junk-session-cookies	"Junk" (descartar lixo)
+wget	--save-cookies	-	Ação direta ("salvar cookies")
+wget	--load-cookies	-	Ação direta ("carregar cookies")
