@@ -171,6 +171,10 @@ keybindings:
   # browser chrome
   - commands: ['shell-exec C:\Program Files\Google\Chrome\Application\chrome.exe']
     bindings: ['alt+shift+b']
+  - commands: ['shell-exec C:\users\user\scripts\windows-themes\light.deskthemepack']
+    bindings: ['alt+shift+t']
+  - commands: ['shell-exec C:\users\user\scripts\windows-themes\dark.deskthemepack']
+    bindings: ['alt+shift+g']
   # Shift focus in a given direction.
   - commands: ['focus --direction left']
     bindings: ['alt+h']

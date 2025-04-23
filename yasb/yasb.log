@@ -258,3 +258,32 @@ pywintypes.error: (1400, 'GetClassName', 'O identificador da janela é inválido.'
 2025-04-22 23:37:07 WARNING weather.py:395: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/116.png: <urlopen error timed out>
 2025-04-22 23:47:05 INFO weather.py:349: Fetched new weather data at 2025-04-22 23:47:05.596788
 2025-04-22 23:57:05 INFO weather.py:349: Fetched new weather data at 2025-04-22 23:57:05.687686
+2025-04-23 16:48:27 INFO log.py:21: Yasb v1.7.0
+2025-04-23 16:48:29 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-23 16:48:35 INFO weather.py:349: Fetched new weather data at 2025-04-23 16:48:35.804209
+2025-04-23 16:48:35 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-23 16:48:38 INFO watcher.py:39: Created file watcher for path C:\Users\USER\.config\yasb
+2025-04-23 16:48:38 INFO event_listener.py:53: Created named pipe yasb-f384a8d3-207b-11f0-968f-103d1c05225f
+2025-04-23 16:48:38 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-23 16:48:38 DEBUG _windows.py:192: Thread started
+2025-04-23 16:58:35 INFO weather.py:349: Fetched new weather data at 2025-04-23 16:58:35.801635
+2025-04-23 17:18:43 INFO weather.py:349: Fetched new weather data at 2025-04-23 17:18:43.872225
+2025-04-23 17:28:43 INFO weather.py:349: Fetched new weather data at 2025-04-23 17:28:43.877318
+2025-04-23 17:38:43 INFO weather.py:349: Fetched new weather data at 2025-04-23 17:38:43.874655
+2025-04-23 17:46:27 INFO log.py:21: Yasb v1.7.0
+2025-04-23 17:46:27 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-23 17:46:28 INFO weather.py:349: Fetched new weather data at 2025-04-23 17:46:28.121932
+2025-04-23 17:46:28 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-23 17:46:29 INFO watcher.py:39: Created file watcher for path C:\Users\USER\.config\yasb
+2025-04-23 17:46:29 INFO event_listener.py:53: Created named pipe yasb-088865a2-2084-11f0-b78a-103d1c05225f
+2025-04-23 17:46:30 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-23 17:46:30 DEBUG _windows.py:192: Thread started
+2025-04-23 17:49:39 INFO log.py:21: Yasb v1.7.0
+2025-04-23 17:49:39 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-23 17:49:39 INFO weather.py:349: Fetched new weather data at 2025-04-23 17:49:39.931424
+2025-04-23 17:49:39 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-23 17:49:41 INFO watcher.py:39: Created file watcher for path C:\Users\USER\.config\yasb
+2025-04-23 17:49:41 INFO event_listener.py:53: Created named pipe yasb-7a8d0384-2084-11f0-8e3c-103d1c05225f
+2025-04-23 17:49:41 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-23 17:49:41 DEBUG _windows.py:192: Thread started
+2025-04-23 17:59:39 INFO weather.py:349: Fetched new weather data at 2025-04-23 17:59:39.931381

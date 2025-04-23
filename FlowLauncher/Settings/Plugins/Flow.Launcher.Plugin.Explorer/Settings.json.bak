@@ -1,19 +1,10 @@
 {
   "MaxResult": 100,
   "QuickAccessLinks": [],
-  "IndexSearchExcludedSubdirectoryPaths": [
-    {
-      "Path": "D:\\$RECYCLE.BIN",
-      "Type": 1
-    },
-    {
-      "Path": "C:\\$Recycle.Bin",
-      "Type": 1
-    }
-  ],
+  "IndexSearchExcludedSubdirectoryPaths": [],
   "EditorPath": "",
   "FolderEditorPath": "",
-  "ShellPath": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+  "ShellPath": "cmd",
   "ExcludedFileTypes": "",
   "UseLocationAsWorkingDir": false,
   "ShowInlinedWindowsContextMenu": false,
