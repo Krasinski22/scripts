@@ -38,21 +38,22 @@ Safe-Symlink "$HOME\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bb
 
 Safe-Symlink "$HOME\AppData\Local\Google\Chrome" "D:\software\chrome-data"
 
-Safe-Symlink "$HOME\AppData\Local\AutoDarkMode" "$HOME\scripts\autodarkmode"
-Safe-Symlink "$HOME\AppData\Roaming\AutoDarkMode" "$HOME\scripts\autodarkmode"
+# Safe-Symlink "$HOME\AppData\Local\AutoDarkMode" "$HOME\scripts\autodarkmode"
+# Safe-Symlink "$HOME\AppData\Roaming\AutoDarkMode" "$HOME\scripts\autodarkmode"
 
 Safe-Symlink "$HOME\AppData\Roaming\mpv\input.conf" "$HOME\scripts\mpv\input.conf"
 Safe-Symlink "$HOME\AppData\Roaming\mpv\mpv.conf" "$HOME\scripts\mpv\mpv.conf"
 
 Safe-Symlink "$HOME\AppData\Roaming\Telegram Desktop\tdata" "D:\software\telegram-data"
 
-Safe-Symlink "$HOME\AppData\Roaming\FlowLauncher" "$HOME\scripts\FlowLauncher"
+Safe-Symlink "$HOME\AppData\Roaming\FlowLauncher\Settings" "$HOME\scripts\FlowLauncher"
 
 Safe-Symlink "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\my-software" "D:\software\"
 
 Safe-Symlink "$HOME\.glzr\glazewm\config.yaml" "$HOME\scripts\glazewm\config.yaml"
 
-Safe-Symlink "$HOME\.config\yasb" "$HOME\scripts\yasb"
+Safe-Symlink "$HOME\.config\yasb\config.yaml" "$HOME\scripts\yasb\config.yaml"
+Safe-Symlink "$HOME\.config\yasb\styles.css" "$HOME\scripts\yasb\styles.css"
 
 Safe-Symlink "$HOME\Documents\PowerShell\Microsoft.PowerShell_profile.ps1" "$HOME\scripts\powershell\Microsoft.PowerShell_profile.ps1"
 
