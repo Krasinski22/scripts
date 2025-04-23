@@ -443,6 +443,22 @@
     {
       "Query": "set",
       "ExecutedDateTime": "2025-04-22T23:55:57.071689-03:00"
+    },
+    {
+      "Query": "se",
+      "ExecutedDateTime": "2025-04-23T00:01:32.0144689-03:00"
+    },
+    {
+      "Query": "hiber",
+      "ExecutedDateTime": "2025-04-23T00:20:10.7649315-03:00"
+    },
+    {
+      "Query": "f light.desk",
+      "ExecutedDateTime": "2025-04-23T18:25:05.9202728-03:00"
+    },
+    {
+      "Query": "\u003E explorer $HOME\\AppData\\Roaming\\",
+      "ExecutedDateTime": "2025-04-23T18:28:31.4509244-03:00"
     }
   ]
 }
