@@ -1,0 +1,448 @@
+{
+  "Items": [
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-04-19T03:42:32.0342457-03:00"
+    },
+    {
+      "Query": "hiber",
+      "ExecutedDateTime": "2025-04-19T03:44:33.3987346-03:00"
+    },
+    {
+      "Query": "ref",
+      "ExecutedDateTime": "2025-04-19T11:49:59.4159372-03:00"
+    },
+    {
+      "Query": "keepass",
+      "ExecutedDateTime": "2025-04-19T11:53:15.6518242-03:00"
+    },
+    {
+      "Query": "ref",
+      "ExecutedDateTime": "2025-04-19T11:53:36.3030384-03:00"
+    },
+    {
+      "Query": "refre",
+      "ExecutedDateTime": "2025-04-19T12:00:25.1446863-03:00"
+    },
+    {
+      "Query": "keepass",
+      "ExecutedDateTime": "2025-04-19T12:00:36.4428186-03:00"
+    },
+    {
+      "Query": "ref",
+      "ExecutedDateTime": "2025-04-19T12:00:48.5635633-03:00"
+    },
+    {
+      "Query": "keepa",
+      "ExecutedDateTime": "2025-04-19T12:00:53.2733743-03:00"
+    },
+    {
+      "Query": "ref",
+      "ExecutedDateTime": "2025-04-19T12:01:00.5900061-03:00"
+    },
+    {
+      "Query": "advanc",
+      "ExecutedDateTime": "2025-04-19T12:01:11.0922113-03:00"
+    },
+    {
+      "Query": "f links.ps1",
+      "ExecutedDateTime": "2025-04-19T12:01:47.7002468-03:00"
+    },
+    {
+      "Query": "f my-software",
+      "ExecutedDateTime": "2025-04-19T12:06:24.9357364-03:00"
+    },
+    {
+      "Query": "f C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\my-software\\",
+      "ExecutedDateTime": "2025-04-19T12:06:27.1206513-03:00"
+    },
+    {
+      "Query": "f tarefas",
+      "ExecutedDateTime": "2025-04-19T12:16:13.5776173-03:00"
+    },
+    {
+      "Query": "f syncthing xml",
+      "ExecutedDateTime": "2025-04-19T12:17:42.4477325-03:00"
+    },
+    {
+      "Query": "sublime",
+      "ExecutedDateTime": "2025-04-19T12:18:10.3801957-03:00"
+    },
+    {
+      "Query": "chrome",
+      "ExecutedDateTime": "2025-04-19T12:22:08.8162628-03:00"
+    },
+    {
+      "Query": "ch",
+      "ExecutedDateTime": "2025-04-19T23:09:55.8150793-03:00"
+    },
+    {
+      "Query": "re",
+      "ExecutedDateTime": "2025-04-19T23:13:36.0720809-03:00"
+    },
+    {
+      "Query": "ch",
+      "ExecutedDateTime": "2025-04-19T23:19:13.0026811-03:00"
+    },
+    {
+      "Query": "hwinfo",
+      "ExecutedDateTime": "2025-04-19T23:22:16.7909315-03:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-04-20T01:44:19.6176943-03:00"
+    },
+    {
+      "Query": "\u003E iconset",
+      "ExecutedDateTime": "2025-04-20T01:45:06.3342026-03:00"
+    },
+    {
+      "Query": "f installer.inf",
+      "ExecutedDateTime": "2025-04-20T01:47:25.2570292-03:00"
+    },
+    {
+      "Query": "s mouse",
+      "ExecutedDateTime": "2025-04-20T01:47:29.9669159-03:00"
+    },
+    {
+      "Query": "hw",
+      "ExecutedDateTime": "2025-04-20T01:54:32.982491-03:00"
+    },
+    {
+      "Query": "ch",
+      "ExecutedDateTime": "2025-04-20T02:18:44.1289814-03:00"
+    },
+    {
+      "Query": "shut",
+      "ExecutedDateTime": "2025-04-20T02:21:37.8515711-03:00"
+    },
+    {
+      "Query": "ch",
+      "ExecutedDateTime": "2025-04-20T11:17:57.8328489-03:00"
+    },
+    {
+      "Query": "hw",
+      "ExecutedDateTime": "2025-04-20T11:18:10.7905035-03:00"
+    },
+    {
+      "Query": "ch",
+      "ExecutedDateTime": "2025-04-20T11:45:47.7132583-03:00"
+    },
+    {
+      "Query": "relo",
+      "ExecutedDateTime": "2025-04-20T12:28:20.9157503-03:00"
+    },
+    {
+      "Query": "sublim",
+      "ExecutedDateTime": "2025-04-20T12:29:24.4686669-03:00"
+    },
+    {
+      "Query": "su",
+      "ExecutedDateTime": "2025-04-20T12:29:42.783867-03:00"
+    },
+    {
+      "Query": "vmware",
+      "ExecutedDateTime": "2025-04-20T12:41:29.1451281-03:00"
+    },
+    {
+      "Query": "bcuninstaller",
+      "ExecutedDateTime": "2025-04-20T12:47:43.7340467-03:00"
+    },
+    {
+      "Query": "teleg",
+      "ExecutedDateTime": "2025-04-20T13:22:29.8400369-03:00"
+    },
+    {
+      "Query": "tel",
+      "ExecutedDateTime": "2025-04-20T13:22:45.3901116-03:00"
+    },
+    {
+      "Query": "t",
+      "ExecutedDateTime": "2025-04-20T13:23:03.8766435-03:00"
+    },
+    {
+      "Query": "tel",
+      "ExecutedDateTime": "2025-04-20T13:23:16.7310163-03:00"
+    },
+    {
+      "Query": "kee",
+      "ExecutedDateTime": "2025-04-20T13:23:35.5186996-03:00"
+    },
+    {
+      "Query": "hwi",
+      "ExecutedDateTime": "2025-04-20T13:44:41.4147048-03:00"
+    },
+    {
+      "Query": "reload",
+      "ExecutedDateTime": "2025-04-20T13:46:13.7667885-03:00"
+    },
+    {
+      "Query": "hw",
+      "ExecutedDateTime": "2025-04-20T14:00:30.8791742-03:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-04-20T14:00:43.5585737-03:00"
+    },
+    {
+      "Query": "hw",
+      "ExecutedDateTime": "2025-04-20T14:03:19.2015091-03:00"
+    },
+    {
+      "Query": "f directx-redis",
+      "ExecutedDateTime": "2025-04-20T14:06:30.4061955-03:00"
+    },
+    {
+      "Query": "f D:\\Downloads\\DirectX-Redist-Jun-2010\\",
+      "ExecutedDateTime": "2025-04-20T14:06:31.4912637-03:00"
+    },
+    {
+      "Query": "f microsoft.windowsterminal_8",
+      "ExecutedDateTime": "2025-04-20T14:32:20.9856799-03:00"
+    },
+    {
+      "Query": "f C:\\Users\\user\\AppData\\Local\\Microsoft\\WindowsApps\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\",
+      "ExecutedDateTime": "2025-04-20T14:32:21.8661551-03:00"
+    },
+    {
+      "Query": "f Microsoft.WindowsTerminal_8w",
+      "ExecutedDateTime": "2025-04-20T14:32:48.2778808-03:00"
+    },
+    {
+      "Query": "f C:\\Users\\user\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\",
+      "ExecutedDateTime": "2025-04-20T14:32:49.684622-03:00"
+    },
+    {
+      "Query": "f python exe",
+      "ExecutedDateTime": "2025-04-20T14:33:58.9263529-03:00"
+    },
+    {
+      "Query": "f vmware exe",
+      "ExecutedDateTime": "2025-04-20T14:50:28.2224812-03:00"
+    },
+    {
+      "Query": "kee",
+      "ExecutedDateTime": "2025-04-20T15:08:56.8717098-03:00"
+    },
+    {
+      "Query": "hw",
+      "ExecutedDateTime": "2025-04-20T15:49:12.355795-03:00"
+    },
+    {
+      "Query": "f mpv.conf",
+      "ExecutedDateTime": "2025-04-20T16:37:06.3793273-03:00"
+    },
+    {
+      "Query": "f adicionar",
+      "ExecutedDateTime": "2025-04-20T16:38:30.0726093-03:00"
+    },
+    {
+      "Query": "f chocolatey",
+      "ExecutedDateTime": "2025-04-20T16:41:59.1116622-03:00"
+    },
+    {
+      "Query": "f C:\\ProgramData\\chocolatey\\",
+      "ExecutedDateTime": "2025-04-20T16:41:59.9805658-03:00"
+    },
+    {
+      "Query": "mpv",
+      "ExecutedDateTime": "2025-04-20T16:50:12.332805-03:00"
+    },
+    {
+      "Query": "relo",
+      "ExecutedDateTime": "2025-04-20T16:50:21.156409-03:00"
+    },
+    {
+      "Query": "mpv",
+      "ExecutedDateTime": "2025-04-20T16:50:27.5879876-03:00"
+    },
+    {
+      "Query": "f azumanga",
+      "ExecutedDateTime": "2025-04-20T16:50:40.6807882-03:00"
+    },
+    {
+      "Query": "f D:\\OneDrive\\media\\anime\\Azumanga Daioh\\",
+      "ExecutedDateTime": "2025-04-20T16:52:41.5869019-03:00"
+    },
+    {
+      "Query": "tel",
+      "ExecutedDateTime": "2025-04-20T19:37:12.9992737-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-04-20T19:52:55.2943059-03:00"
+    },
+    {
+      "Query": "f obsidian",
+      "ExecutedDateTime": "2025-04-20T20:06:56.9942995-03:00"
+    },
+    {
+      "Query": "hw",
+      "ExecutedDateTime": "2025-04-20T20:23:02.9914245-03:00"
+    },
+    {
+      "Query": "kee",
+      "ExecutedDateTime": "2025-04-20T20:26:23.510065-03:00"
+    },
+    {
+      "Query": "qbittor",
+      "ExecutedDateTime": "2025-04-20T21:59:35.8902586-03:00"
+    },
+    {
+      "Query": "f yt-dlp config",
+      "ExecutedDateTime": "2025-04-20T23:02:46.7071237-03:00"
+    },
+    {
+      "Query": "f hotkeys ahk",
+      "ExecutedDateTime": "2025-04-20T23:27:48.9316691-03:00"
+    },
+    {
+      "Query": "relo",
+      "ExecutedDateTime": "2025-04-20T23:27:56.0005235-03:00"
+    },
+    {
+      "Query": "hw",
+      "ExecutedDateTime": "2025-04-21T00:11:26.738156-03:00"
+    },
+    {
+      "Query": "ch",
+      "ExecutedDateTime": "2025-04-21T00:58:08.8959965-03:00"
+    },
+    {
+      "Query": "hiber",
+      "ExecutedDateTime": "2025-04-21T02:20:08.0833982-03:00"
+    },
+    {
+      "Query": "res",
+      "ExecutedDateTime": "2025-04-21T11:44:37.691123-03:00"
+    },
+    {
+      "Query": "\u003E mpv https://twitch.tv/sonicorochi --ytdl-format=\u0022480p\u0022",
+      "ExecutedDateTime": "2025-04-21T18:25:40.1882622-03:00"
+    },
+    {
+      "Query": "f scripts",
+      "ExecutedDateTime": "2025-04-21T20:11:47.5782322-03:00"
+    },
+    {
+      "Query": "f C:\\Users\\user\\scripts\\",
+      "ExecutedDateTime": "2025-04-21T20:11:48.5708016-03:00"
+    },
+    {
+      "Query": "f links.ps1",
+      "ExecutedDateTime": "2025-04-21T21:06:25.4378618-03:00"
+    },
+    {
+      "Query": "f syncthing def",
+      "ExecutedDateTime": "2025-04-21T21:14:45.3267301-03:00"
+    },
+    {
+      "Query": "f D:\\OneDrive\\syncthing-default\\",
+      "ExecutedDateTime": "2025-04-21T21:14:46.2754948-03:00"
+    },
+    {
+      "Query": "f autodarkmode",
+      "ExecutedDateTime": "2025-04-21T21:15:50.8508331-03:00"
+    },
+    {
+      "Query": "autod",
+      "ExecutedDateTime": "2025-04-21T21:16:20.5682819-03:00"
+    },
+    {
+      "Query": "f links.ps",
+      "ExecutedDateTime": "2025-04-21T21:34:20.9659575-03:00"
+    },
+    {
+      "Query": "f subl.e",
+      "ExecutedDateTime": "2025-04-21T21:57:52.421015-03:00"
+    },
+    {
+      "Query": "\u003E iconset",
+      "ExecutedDateTime": "2025-04-21T22:17:55.2728348-03:00"
+    },
+    {
+      "Query": "f input.conf",
+      "ExecutedDateTime": "2025-04-21T22:31:22.5595954-03:00"
+    },
+    {
+      "Query": "telegram",
+      "ExecutedDateTime": "2025-04-21T23:01:59.3103707-03:00"
+    },
+    {
+      "Query": "f process explorer",
+      "ExecutedDateTime": "2025-04-22T01:14:20.3268606-03:00"
+    },
+    {
+      "Query": "f D:\\software\\Windhawk\\UI\\resources\\app\\out\\vs\\code\\electron-sandbox\\processExplorer\\",
+      "ExecutedDateTime": "2025-04-22T01:14:21.1675933-03:00"
+    },
+    {
+      "Query": "\u003E procexp",
+      "ExecutedDateTime": "2025-04-22T01:24:41.6268189-03:00"
+    },
+    {
+      "Query": "audark",
+      "ExecutedDateTime": "2025-04-22T01:36:09.2893258-03:00"
+    },
+    {
+      "Query": "f uup iso",
+      "ExecutedDateTime": "2025-04-22T01:50:06.8242157-03:00"
+    },
+    {
+      "Query": "ch",
+      "ExecutedDateTime": "2025-04-22T02:52:48.62059-03:00"
+    },
+    {
+      "Query": "tel",
+      "ExecutedDateTime": "2025-04-22T02:56:27.6400741-03:00"
+    },
+    {
+      "Query": "ch",
+      "ExecutedDateTime": "2025-04-22T03:14:40.4324603-03:00"
+    },
+    {
+      "Query": "sync",
+      "ExecutedDateTime": "2025-04-22T03:15:01.7102503-03:00"
+    },
+    {
+      "Query": "relo",
+      "ExecutedDateTime": "2025-04-22T03:15:05.9046829-03:00"
+    },
+    {
+      "Query": "syn",
+      "ExecutedDateTime": "2025-04-22T03:15:57.4641901-03:00"
+    },
+    {
+      "Query": "hiber",
+      "ExecutedDateTime": "2025-04-22T03:51:32.8469451-03:00"
+    },
+    {
+      "Query": "ch",
+      "ExecutedDateTime": "2025-04-22T09:25:58.4473603-03:00"
+    },
+    {
+      "Query": "eve",
+      "ExecutedDateTime": "2025-04-22T11:49:31.5448839-03:00"
+    },
+    {
+      "Query": "\u003E iconset",
+      "ExecutedDateTime": "2025-04-22T12:46:40.4649319-03:00"
+    },
+    {
+      "Query": "f config.yaml",
+      "ExecutedDateTime": "2025-04-22T13:32:38.610088-03:00"
+    },
+    {
+      "Query": "ch",
+      "ExecutedDateTime": "2025-04-22T13:33:13.5305562-03:00"
+    },
+    {
+      "Query": "rest",
+      "ExecutedDateTime": "2025-04-22T13:49:03.2644476-03:00"
+    },
+    {
+      "Query": "set",
+      "ExecutedDateTime": "2025-04-22T23:55:57.071689-03:00"
+    }
+  ]
+}

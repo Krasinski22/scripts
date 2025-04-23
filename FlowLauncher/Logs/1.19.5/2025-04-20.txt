@@ -1,0 +1,1207 @@
+00:01:27.7968-03:00 - ERROR - ImageLoader.Load - Failed to get thumbnail for D:\OneDrive\customization\icons\windows_11_folder_icons_by_davidvkimball_denbmxc\Links.ico on first try
+EXCEPTION OCCURS: System.Runtime.InteropServices.COMException (0x80004005): Error while extracting thumbnail for D:\OneDrive\customization\icons\windows_11_folder_icons_by_davidvkimball_denbmxc\Links.ico
+ ---> System.Runtime.InteropServices.COMException (0x8004B205): 0x8004B205
+   at IntPtr Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetHBitmap(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 129
+   at BitmapSource Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetThumbnail(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 120
+   at ImageResult Flow.Launcher.Infrastructure.Image.ImageLoader.GetThumbnailResult(ref string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 248
+   at async ValueTask<ImageResult> Flow.Launcher.Infrastructure.Image.ImageLoader.LoadInternalAsync(string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 170
+
+00:01:27.7968-03:00 - ERROR - ImageLoader.Load - Failed to get thumbnail for D:\OneDrive\customization\icons\windows_11_folder_icons_by_davidvkimball_denbmxc\Links.ico on second try
+EXCEPTION OCCURS: System.Runtime.InteropServices.COMException (0x80004005): Error while extracting thumbnail for D:\OneDrive\customization\icons\windows_11_folder_icons_by_davidvkimball_denbmxc\Links.ico
+ ---> System.Runtime.InteropServices.COMException (0x8004B205): 0x8004B205
+   at IntPtr Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetHBitmap(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 129
+   at BitmapSource Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetThumbnail(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 120
+   at ImageResult Flow.Launcher.Infrastructure.Image.ImageLoader.GetThumbnailResult(ref string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 248
+   at async ValueTask<ImageResult> Flow.Launcher.Infrastructure.Image.ImageLoader.LoadInternalAsync(string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 170
+
+00:01:28.9065-03:00 - ERROR - ImageLoader.Load - Failed to get thumbnail for D:\OneDrive\customization\icons\windows_11_folder_icons_by_davidvkimball_denbmxc\Links.ico on first try
+EXCEPTION OCCURS: System.Runtime.InteropServices.COMException (0x80004005): Error while extracting thumbnail for D:\OneDrive\customization\icons\windows_11_folder_icons_by_davidvkimball_denbmxc\Links.ico
+ ---> System.Runtime.InteropServices.COMException (0x8004B205): 0x8004B205
+   at IntPtr Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetHBitmap(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 129
+   at BitmapSource Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetThumbnail(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 120
+   at ImageResult Flow.Launcher.Infrastructure.Image.ImageLoader.GetThumbnailResult(ref string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 248
+   at async ValueTask<ImageResult> Flow.Launcher.Infrastructure.Image.ImageLoader.LoadInternalAsync(string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 170
+
+00:01:28.9065-03:00 - ERROR - ImageLoader.Load - Failed to get thumbnail for D:\OneDrive\customization\icons\windows_11_folder_icons_by_davidvkimball_denbmxc\Links.ico on second try
+EXCEPTION OCCURS: System.Runtime.InteropServices.COMException (0x80004005): Error while extracting thumbnail for D:\OneDrive\customization\icons\windows_11_folder_icons_by_davidvkimball_denbmxc\Links.ico
+ ---> System.Runtime.InteropServices.COMException (0x8004B205): 0x8004B205
+   at IntPtr Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetHBitmap(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 129
+   at BitmapSource Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetThumbnail(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 120
+   at ImageResult Flow.Launcher.Infrastructure.Image.ImageLoader.GetThumbnailResult(ref string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 248
+   at async ValueTask<ImageResult> Flow.Launcher.Infrastructure.Image.ImageLoader.LoadInternalAsync(string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 170
+
+00:43:33.7025-03:00 - ERROR - ImageLoader.Load - Failed to get thumbnail for D:\OneDrive\customization\icons\windows_11_folder_icons_by_davidvkimball_denbmxc\Links.ico on first try
+EXCEPTION OCCURS: System.Runtime.InteropServices.COMException (0x80004005): Error while extracting thumbnail for D:\OneDrive\customization\icons\windows_11_folder_icons_by_davidvkimball_denbmxc\Links.ico
+ ---> System.Runtime.InteropServices.COMException (0x8004B205): 0x8004B205
+   at IntPtr Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetHBitmap(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 129
+   at BitmapSource Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetThumbnail(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 120
+   at ImageResult Flow.Launcher.Infrastructure.Image.ImageLoader.GetThumbnailResult(ref string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 248
+   at async ValueTask<ImageResult> Flow.Launcher.Infrastructure.Image.ImageLoader.LoadInternalAsync(string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 170
+
+00:43:33.7025-03:00 - ERROR - ImageLoader.Load - Failed to get thumbnail for D:\OneDrive\customization\icons\windows_11_folder_icons_by_davidvkimball_denbmxc\Links.ico on second try
+EXCEPTION OCCURS: System.Runtime.InteropServices.COMException (0x80004005): Error while extracting thumbnail for D:\OneDrive\customization\icons\windows_11_folder_icons_by_davidvkimball_denbmxc\Links.ico
+ ---> System.Runtime.InteropServices.COMException (0x8004B205): 0x8004B205
+   at IntPtr Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetHBitmap(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 129
+   at BitmapSource Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetThumbnail(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 120
+   at ImageResult Flow.Launcher.Infrastructure.Image.ImageLoader.GetThumbnailResult(ref string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 248
+   at async ValueTask<ImageResult> Flow.Launcher.Infrastructure.Image.ImageLoader.LoadInternalAsync(string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 170
+
+01:13:26.9210-03:00 - ERROR - ImageLoader.Load - Failed to get thumbnail for D:\OneDrive\media\photos\takeout-20250105T184319Z-001\Takeout\Google Photos\Trash\makise_kurisu (steins_gate) drawn by suehiroch0.jpg on first try
+EXCEPTION OCCURS: System.Runtime.InteropServices.COMException (0x80004005): Error while extracting thumbnail for D:\OneDrive\media\photos\takeout-20250105T184319Z-001\Takeout\Google Photos\Trash\makise_kurisu (steins_gate) drawn by suehiroch0.jpg
+ ---> System.Runtime.InteropServices.COMException (0x8004B205): 0x8004B205
+   at IntPtr Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetHBitmap(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 129
+   at BitmapSource Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetThumbnail(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 120
+   at ImageResult Flow.Launcher.Infrastructure.Image.ImageLoader.GetThumbnailResult(ref string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 248
+   at async ValueTask<ImageResult> Flow.Launcher.Infrastructure.Image.ImageLoader.LoadInternalAsync(string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 170
+
+01:13:26.9210-03:00 - ERROR - ImageLoader.Load - Failed to get thumbnail for D:\OneDrive\media\photos\takeout-20250105T184319Z-001\Takeout\Google Photos\Trash\makise_kurisu (steins_gate) drawn by suehiroch0.jpg on second try
+EXCEPTION OCCURS: System.Runtime.InteropServices.COMException (0x80004005): Error while extracting thumbnail for D:\OneDrive\media\photos\takeout-20250105T184319Z-001\Takeout\Google Photos\Trash\makise_kurisu (steins_gate) drawn by suehiroch0.jpg
+ ---> System.Runtime.InteropServices.COMException (0x8004B205): 0x8004B205
+   at IntPtr Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetHBitmap(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 129
+   at BitmapSource Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetThumbnail(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 120
+   at ImageResult Flow.Launcher.Infrastructure.Image.ImageLoader.GetThumbnailResult(ref string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 248
+   at async ValueTask<ImageResult> Flow.Launcher.Infrastructure.Image.ImageLoader.LoadInternalAsync(string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 170
+
+01:13:26.9377-03:00 - ERROR - ImageLoader.Load - Failed to get thumbnail for D:\OneDrive\media\photos\takeout-20250105T184319Z-001\Takeout\Google Photos\Photos from 2024\makise_kurisu, okabe_rintarou (steins_gate) dra.jpg on first try
+EXCEPTION OCCURS: System.Runtime.InteropServices.COMException (0x80004005): Error while extracting thumbnail for D:\OneDrive\media\photos\takeout-20250105T184319Z-001\Takeout\Google Photos\Photos from 2024\makise_kurisu, okabe_rintarou (steins_gate) dra.jpg
+ ---> System.Runtime.InteropServices.COMException (0x8004B205): 0x8004B205
+   at IntPtr Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetHBitmap(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 129
+   at BitmapSource Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetThumbnail(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 120
+   at ImageResult Flow.Launcher.Infrastructure.Image.ImageLoader.GetThumbnailResult(ref string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 248
+   at async ValueTask<ImageResult> Flow.Launcher.Infrastructure.Image.ImageLoader.LoadInternalAsync(string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 170
+
+01:13:26.9377-03:00 - ERROR - ImageLoader.Load - Failed to get thumbnail for D:\OneDrive\media\photos\takeout-20250105T184319Z-001\Takeout\Google Photos\Photos from 2024\makise_kurisu, okabe_rintarou (steins_gate) dra.jpg on second try
+EXCEPTION OCCURS: System.Runtime.InteropServices.COMException (0x80004005): Error while extracting thumbnail for D:\OneDrive\media\photos\takeout-20250105T184319Z-001\Takeout\Google Photos\Photos from 2024\makise_kurisu, okabe_rintarou (steins_gate) dra.jpg
+ ---> System.Runtime.InteropServices.COMException (0x8004B205): 0x8004B205
+   at IntPtr Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetHBitmap(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 129
+   at BitmapSource Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetThumbnail(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 120
+   at ImageResult Flow.Launcher.Infrastructure.Image.ImageLoader.GetThumbnailResult(ref string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 248
+   at async ValueTask<ImageResult> Flow.Launcher.Infrastructure.Image.ImageLoader.LoadInternalAsync(string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 170
+
+01:13:27.1336-03:00 - ERROR - ImageLoader.Load - Failed to get thumbnail for D:\OneDrive\media\photos\takeout-20250105T184319Z-001\Takeout\Google Photos\Trash\makise_kurisu (steins_gate) drawn by suehiroch0.jpg on first try
+EXCEPTION OCCURS: System.Runtime.InteropServices.COMException (0x80004005): Error while extracting thumbnail for D:\OneDrive\media\photos\takeout-20250105T184319Z-001\Takeout\Google Photos\Trash\makise_kurisu (steins_gate) drawn by suehiroch0.jpg
+ ---> System.Runtime.InteropServices.COMException (0x8004B205): 0x8004B205
+   at IntPtr Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetHBitmap(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 129
+   at BitmapSource Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetThumbnail(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 120
+   at ImageResult Flow.Launcher.Infrastructure.Image.ImageLoader.GetThumbnailResult(ref string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 248
+   at async ValueTask<ImageResult> Flow.Launcher.Infrastructure.Image.ImageLoader.LoadInternalAsync(string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 170
+
+01:13:27.1336-03:00 - ERROR - ImageLoader.Load - Failed to get thumbnail for D:\OneDrive\media\photos\takeout-20250105T184319Z-001\Takeout\Google Photos\Trash\makise_kurisu (steins_gate) drawn by suehiroch0.jpg on second try
+EXCEPTION OCCURS: System.Runtime.InteropServices.COMException (0x80004005): Error while extracting thumbnail for D:\OneDrive\media\photos\takeout-20250105T184319Z-001\Takeout\Google Photos\Trash\makise_kurisu (steins_gate) drawn by suehiroch0.jpg
+ ---> System.Runtime.InteropServices.COMException (0x8004B205): 0x8004B205
+   at IntPtr Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetHBitmap(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 129
+   at BitmapSource Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetThumbnail(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 120
+   at ImageResult Flow.Launcher.Infrastructure.Image.ImageLoader.GetThumbnailResult(ref string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 248
+   at async ValueTask<ImageResult> Flow.Launcher.Infrastructure.Image.ImageLoader.LoadInternalAsync(string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 170
+
+01:13:27.1336-03:00 - ERROR - ImageLoader.Load - Failed to get thumbnail for D:\OneDrive\media\photos\takeout-20250105T184319Z-001\Takeout\Google Photos\Photos from 2024\makise_kurisu, okabe_rintarou (steins_gate) dra.jpg on first try
+EXCEPTION OCCURS: System.Runtime.InteropServices.COMException (0x80004005): Error while extracting thumbnail for D:\OneDrive\media\photos\takeout-20250105T184319Z-001\Takeout\Google Photos\Photos from 2024\makise_kurisu, okabe_rintarou (steins_gate) dra.jpg
+ ---> System.Runtime.InteropServices.COMException (0x8004B205): 0x8004B205
+   at IntPtr Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetHBitmap(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 129
+   at BitmapSource Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetThumbnail(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 120
+   at ImageResult Flow.Launcher.Infrastructure.Image.ImageLoader.GetThumbnailResult(ref string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 248
+   at async ValueTask<ImageResult> Flow.Launcher.Infrastructure.Image.ImageLoader.LoadInternalAsync(string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 170
+
+01:13:27.1336-03:00 - ERROR - ImageLoader.Load - Failed to get thumbnail for D:\OneDrive\media\photos\takeout-20250105T184319Z-001\Takeout\Google Photos\Photos from 2024\makise_kurisu, okabe_rintarou (steins_gate) dra.jpg on second try
+EXCEPTION OCCURS: System.Runtime.InteropServices.COMException (0x80004005): Error while extracting thumbnail for D:\OneDrive\media\photos\takeout-20250105T184319Z-001\Takeout\Google Photos\Photos from 2024\makise_kurisu, okabe_rintarou (steins_gate) dra.jpg
+ ---> System.Runtime.InteropServices.COMException (0x8004B205): 0x8004B205
+   at IntPtr Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetHBitmap(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 129
+   at BitmapSource Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetThumbnail(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 120
+   at ImageResult Flow.Launcher.Infrastructure.Image.ImageLoader.GetThumbnailResult(ref string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 248
+   at async ValueTask<ImageResult> Flow.Launcher.Infrastructure.Image.ImageLoader.LoadInternalAsync(string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 170
+
+01:43:54.1267-03:00 - INFO  - App.OnStartup - Begin Flow Launcher startup ----------------------------------------------------
+01:43:54.1267-03:00 - INFO  - App.OnStartup - Runtime info:
+Flow Launcher version: 1.19.5
+OS Version: 22631.5189
+IntPtr Length: 8
+x64: True
+01:43:56.7852-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Process Killer> is <53ms>
+01:43:56.7852-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <System Commands> is <72ms>
+01:43:56.7852-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Plugin Indicator> is <40ms>
+01:43:56.7852-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <URL> is <87ms>
+01:43:56.8051-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Shell> is <121ms>
+01:43:56.8051-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Web Searches> is <109ms>
+01:43:56.8051-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Windows Settings> is <156ms>
+01:43:56.9612-03:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://fastly.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@plugin_api_v2/plugins.json
+01:43:56.9612-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Browser Bookmarks> is <264ms>
+01:43:56.9780-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Calculator> is <247ms>
+01:43:56.9780-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - Preload programs cost <14ms>
+01:43:56.9780-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - Number of preload win32 programs <538>
+01:43:56.9780-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - Number of preload uwps <37>
+01:43:56.9936-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Explorer> is <443ms>
+01:43:57.0372-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Program> is <654ms>
+01:43:57.1069-03:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://gcore.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@plugin_api_v2/plugins.json
+01:43:57.1069-03:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@plugin_api_v2/plugins.json
+01:43:57.1069-03:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.PluginsManifest/plugin_api_v2/plugins.json
+01:43:57.2860-03:00 - INFO  - CommunityPluginSource.FetchAsync - Loaded 242 plugins from https://gcore.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@plugin_api_v2/plugins.json
+01:43:57.2893-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Plugins Manager> is <611ms>
+01:43:57.8602-03:00 - INFO  - App.OnStartup - Dependencies Info:
+Python Path: 
+Node Path: 
+01:43:58.2703-03:00 - INFO  - App.OnStartup - End Flow Launcher startup ----------------------------------------------------  
+01:43:58.2759-03:00 - INFO  - App.OnStartup - Startup cost <4692ms>
+01:43:58.2972-03:00 - INFO  - ImageLoader.Initialize - Preload images cost <1305ms>
+01:43:58.2972-03:00 - INFO  - ImageLoader.Initialize - Number of preload images is <150>, Images Number: 150, Unique Items 32
+02:08:01.6322-03:00 - INFO  - App.OnStartup - Begin Flow Launcher startup ----------------------------------------------------
+02:08:01.6489-03:00 - INFO  - App.OnStartup - Runtime info:
+Flow Launcher version: 1.19.5
+OS Version: 22631.5189
+IntPtr Length: 8
+x64: True
+02:08:05.4127-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Plugin Indicator> is <42ms>
+02:08:05.4127-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Process Killer> is <55ms>
+02:08:05.4127-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <System Commands> is <69ms>
+02:08:05.4207-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <URL> is <114ms>
+02:08:05.4325-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Shell> is <236ms>
+02:08:05.4532-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Windows Settings> is <146ms>
+02:08:05.4532-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Web Searches> is <121ms>
+02:08:05.4771-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - Preload programs cost <39ms>
+02:08:05.4771-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - Number of preload win32 programs <538>
+02:08:05.4771-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - Number of preload uwps <37>
+02:08:05.6858-03:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://fastly.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@plugin_api_v2/plugins.json
+02:08:05.7285-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Explorer> is <782ms>
+02:08:05.7540-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Browser Bookmarks> is <424ms>
+02:08:05.7640-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Program> is <983ms>
+02:08:05.7640-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Calculator> is <409ms>
+02:08:05.8744-03:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://gcore.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@plugin_api_v2/plugins.json
+02:08:05.8744-03:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@plugin_api_v2/plugins.json
+02:08:05.8744-03:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.PluginsManifest/plugin_api_v2/plugins.json
+02:08:06.0844-03:00 - INFO  - CommunityPluginSource.FetchAsync - Loaded 242 plugins from https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.PluginsManifest/plugin_api_v2/plugins.json
+02:08:06.0871-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Plugins Manager> is <782ms>
+02:08:06.6603-03:00 - INFO  - App.OnStartup - Dependencies Info:
+Python Path: 
+Node Path: 
+02:08:06.9460-03:00 - INFO  - App.OnStartup - End Flow Launcher startup ----------------------------------------------------  
+02:08:06.9468-03:00 - INFO  - App.OnStartup - Startup cost <6047ms>
+02:08:17.9173-03:00 - INFO  - ImageLoader.Initialize - Preload images cost <12481ms>
+02:08:17.9203-03:00 - INFO  - ImageLoader.Initialize - Number of preload images is <150>, Images Number: 150, Unique Items 37
+11:17:38.3845-03:00 - INFO  - App.OnStartup - Begin Flow Launcher startup ----------------------------------------------------
+11:17:38.3845-03:00 - INFO  - App.OnStartup - Runtime info:
+Flow Launcher version: 1.19.5
+OS Version: 22631.5189
+IntPtr Length: 8
+x64: True
+11:17:42.1535-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Process Killer> is <76ms>
+11:17:42.1535-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <System Commands> is <77ms>
+11:17:42.1535-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Plugin Indicator> is <100ms>
+11:17:42.1535-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <URL> is <124ms>
+11:17:42.1743-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Shell> is <119ms>
+11:17:42.1996-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Web Searches> is <144ms>
+11:17:42.1996-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Windows Settings> is <164ms>
+11:17:42.1996-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - Preload programs cost <31ms>
+11:17:42.1996-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - Number of preload win32 programs <538>
+11:17:42.1996-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - Number of preload uwps <37>
+11:17:42.4146-03:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://fastly.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@plugin_api_v2/plugins.json
+11:17:42.4571-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Explorer> is <678ms>
+11:17:42.4855-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Browser Bookmarks> is <403ms>
+11:17:42.4957-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Program> is <1181ms>
+11:17:42.4957-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Calculator> is <401ms>
+11:17:42.6051-03:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://gcore.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@plugin_api_v2/plugins.json
+11:17:42.6051-03:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@plugin_api_v2/plugins.json
+11:17:42.6051-03:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.PluginsManifest/plugin_api_v2/plugins.json
+11:17:43.0368-03:00 - INFO  - CommunityPluginSource.FetchAsync - Loaded 242 plugins from https://gcore.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@plugin_api_v2/plugins.json
+11:17:43.0368-03:00 - INFO  - PluginManager.InitializePlugins - Total init cost for <Plugins Manager> is <1022ms>
+11:17:43.7669-03:00 - INFO  - App.OnStartup - Dependencies Info:
+Python Path: 
+Node Path: 
+11:17:44.0823-03:00 - INFO  - App.OnStartup - End Flow Launcher startup ----------------------------------------------------  
+11:17:44.0889-03:00 - INFO  - App.OnStartup - Startup cost <6482ms>
+11:17:55.2317-03:00 - INFO  - ImageLoader.Initialize - Preload images cost <13057ms>
+11:17:55.2317-03:00 - INFO  - ImageLoader.Initialize - Number of preload images is <150>, Images Number: 150, Unique Items 37
+12:28:21.2363-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+12:28:21.2363-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+12:28:21.2363-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+12:28:21.2626-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+12:28:21.2626-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+12:28:21.2626-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+12:28:21.2910-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - UWPProgram index cost <376ms>
+12:29:10.8459-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - Win32Program index cost <49931ms>
+12:42:37.1835-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+12:42:37.1835-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+12:42:37.1835-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+12:42:37.1976-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+12:42:37.1976-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+12:42:37.1976-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+12:45:14.8574-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+12:45:14.8574-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+12:45:14.8574-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+12:45:14.8574-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+12:45:14.8574-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+12:45:14.8574-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+12:45:52.0827-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+12:45:52.0827-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+12:45:52.0827-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+12:45:52.0975-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+12:45:52.0975-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+12:45:52.0975-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:23:11.4229-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:23:11.4229-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:23:11.4229-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:23:11.4373-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:23:11.4373-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:23:11.4373-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:27:47.4709-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:27:47.4709-03:00 - ERROR -  - 
+Exception full name: System.IO.FileNotFoundException
+Error status: UNKNOWN
+Class name: Win32
+Calling method: ExeProgram
+Program path: C:\Program Files (x86)\VMware\VMware Workstation\vmplayer.exe
+InnerException number: 1
+Exception message: C:\Program Files (x86)\VMware\VMware Workstation\vmplayer.exe
+Exception error type: HResult -2147024894
+Exception thrown in called method: System.Diagnostics.FileVersionInfo GetVersionInfo(System.String)
+Possible interpretation of the error: File not found when trying to load the program from C:\Program Files (x86)\VMware\VMware Workstation\vmplayer.exe
+Possible resolution: Not yet known
+13:27:47.4709-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:27:47.4709-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:27:47.4709-03:00 - ERROR -  - 
+Exception full name: System.IO.FileNotFoundException
+Error status: UNKNOWN
+Class name: Win32
+Calling method: ExeProgram
+Program path: C:\Program Files (x86)\VMware\VMware Workstation\vmware.exe
+InnerException number: 1
+Exception message: C:\Program Files (x86)\VMware\VMware Workstation\vmware.exe
+Exception error type: HResult -2147024894
+Exception thrown in called method: System.Diagnostics.FileVersionInfo GetVersionInfo(System.String)
+Possible interpretation of the error: File not found when trying to load the program from C:\Program Files (x86)\VMware\VMware Workstation\vmware.exe
+Possible resolution: Not yet known
+13:27:47.4709-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:27:47.5192-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:27:47.5192-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:27:47.5192-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:27:47.5311-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:27:47.5311-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:27:47.5311-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:32:23.7908-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:32:23.7908-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:32:23.7908-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:32:23.8046-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:32:23.8046-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:32:23.8046-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:45:33.4712-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:45:33.4712-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:45:33.4712-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:45:33.4878-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:45:33.4878-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:45:33.4878-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:45:37.5065-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:45:37.5065-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:45:37.5065-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:45:37.5176-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:45:37.5176-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:45:37.5176-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:45:40.0706-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:45:40.0706-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:45:40.0706-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:45:40.0706-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:45:40.0706-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:45:40.0706-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:46:13.8112-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:46:13.8112-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:46:13.8112-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:46:13.8112-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:46:13.8112-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:46:13.8112-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:46:14.1154-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - UWPProgram index cost <348ms>
+13:46:14.2040-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - Win32Program index cost <437ms>
+13:46:20.4796-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:46:20.4796-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:46:20.4796-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:46:20.4796-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:46:20.4796-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:46:20.4796-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+14:01:33.1582-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+14:01:33.1582-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+14:01:33.1582-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+14:01:33.1709-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+14:01:33.1709-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+14:01:33.1709-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+14:01:33.4424-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - UWPProgram index cost <333ms>
+14:01:33.6673-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - Win32Program index cost <558ms>
+14:01:50.1513-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+14:01:50.1513-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+14:01:50.1513-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+14:01:50.1642-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+14:01:50.1642-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+14:01:50.1642-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+14:01:50.4206-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - UWPProgram index cost <316ms>
+14:01:50.5596-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - Win32Program index cost <455ms>
+14:01:57.9286-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+14:01:57.9286-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+14:01:57.9286-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+14:01:57.9406-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+14:01:57.9406-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+14:01:57.9406-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+14:04:43.1497-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+14:04:43.1497-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+14:04:43.1497-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+14:04:43.1666-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+14:04:43.1666-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+14:04:43.1666-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+14:34:05.1854-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+14:34:05.1854-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+14:34:05.1854-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+14:34:05.2156-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+14:34:05.2156-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+14:34:05.2156-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+14:34:13.4509-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+14:34:13.4509-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+14:34:13.4509-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+14:34:13.4706-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+14:34:13.4706-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+14:34:13.4706-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+14:34:16.5169-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+14:34:16.5169-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+14:34:16.5169-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+14:34:16.5359-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+14:34:16.5359-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+14:34:16.5359-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+14:40:55.7126-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+14:40:55.7126-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+14:40:55.7126-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+14:40:55.7276-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+14:40:55.7276-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+14:40:55.7276-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+14:52:48.7829-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+14:52:48.7829-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+14:52:48.7829-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+14:52:48.8009-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+14:52:48.8009-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+14:52:48.8009-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+14:59:14.7092-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+14:59:14.7092-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+14:59:14.7092-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+14:59:14.7413-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+14:59:14.7413-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+14:59:14.7413-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+15:19:09.6064-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+15:19:09.6064-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+15:19:09.6064-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+15:19:09.6344-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+15:19:09.6344-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+15:19:09.6344-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+16:41:57.9510-03:00 - ERROR - ImageLoader.Load - Failed to get thumbnail for D:\OneDrive\media\photos\fotos-Bruh\Bruh chocolate fundo transparente.png on first try
+EXCEPTION OCCURS: System.Runtime.InteropServices.COMException (0x80004005): Error while extracting thumbnail for D:\OneDrive\media\photos\fotos-Bruh\Bruh chocolate fundo transparente.png
+ ---> System.Runtime.InteropServices.COMException (0x8004B205): 0x8004B205
+   at IntPtr Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetHBitmap(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 129
+   at BitmapSource Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetThumbnail(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 120
+   at ImageResult Flow.Launcher.Infrastructure.Image.ImageLoader.GetThumbnailResult(ref string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 248
+   at async ValueTask<ImageResult> Flow.Launcher.Infrastructure.Image.ImageLoader.LoadInternalAsync(string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 170
+
+16:41:57.9510-03:00 - ERROR - ImageLoader.Load - Failed to get thumbnail for D:\OneDrive\media\photos\fotos-Bruh\Bruh chocolate fundo transparente.png on second try
+EXCEPTION OCCURS: System.Runtime.InteropServices.COMException (0x80004005): Error while extracting thumbnail for D:\OneDrive\media\photos\fotos-Bruh\Bruh chocolate fundo transparente.png
+ ---> System.Runtime.InteropServices.COMException (0x8004B205): 0x8004B205
+   at IntPtr Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetHBitmap(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 129
+   at BitmapSource Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetThumbnail(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 120
+   at ImageResult Flow.Launcher.Infrastructure.Image.ImageLoader.GetThumbnailResult(ref string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 248
+   at async ValueTask<ImageResult> Flow.Launcher.Infrastructure.Image.ImageLoader.LoadInternalAsync(string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 170
+
+16:41:57.9928-03:00 - ERROR - ImageLoader.Load - Failed to get thumbnail for D:\OneDrive\media\photos\takeout-20250105T184319Z-001\Takeout\Google Photos\Photos from 2024\Bruh chocolate fundo transparente.png on first try
+EXCEPTION OCCURS: System.Runtime.InteropServices.COMException (0x80004005): Error while extracting thumbnail for D:\OneDrive\media\photos\takeout-20250105T184319Z-001\Takeout\Google Photos\Photos from 2024\Bruh chocolate fundo transparente.png
+ ---> System.Runtime.InteropServices.COMException (0x8004B205): 0x8004B205
+   at IntPtr Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetHBitmap(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 129
+   at BitmapSource Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetThumbnail(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 120
+   at ImageResult Flow.Launcher.Infrastructure.Image.ImageLoader.GetThumbnailResult(ref string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 248
+   at async ValueTask<ImageResult> Flow.Launcher.Infrastructure.Image.ImageLoader.LoadInternalAsync(string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 170
+
+16:41:57.9928-03:00 - ERROR - ImageLoader.Load - Failed to get thumbnail for D:\OneDrive\media\photos\takeout-20250105T184319Z-001\Takeout\Google Photos\Photos from 2024\Bruh chocolate fundo transparente.png on second try
+EXCEPTION OCCURS: System.Runtime.InteropServices.COMException (0x80004005): Error while extracting thumbnail for D:\OneDrive\media\photos\takeout-20250105T184319Z-001\Takeout\Google Photos\Photos from 2024\Bruh chocolate fundo transparente.png
+ ---> System.Runtime.InteropServices.COMException (0x8004B205): 0x8004B205
+   at IntPtr Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetHBitmap(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 129
+   at BitmapSource Flow.Launcher.Infrastructure.Image.WindowsThumbnailProvider.GetThumbnail(string fileName, int width, int height, ThumbnailOptions options) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ThumbnailReader.cs:line 120
+   at ImageResult Flow.Launcher.Infrastructure.Image.ImageLoader.GetThumbnailResult(ref string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 248
+   at async ValueTask<ImageResult> Flow.Launcher.Infrastructure.Image.ImageLoader.LoadInternalAsync(string path, bool loadFullImage) in C:/projects/flow-launcher/Flow.Launcher.Infrastructure/Image/ImageLoader.cs:line 170
+
+16:50:17.4030-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+16:50:17.4030-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+16:50:17.4030-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+16:50:17.4339-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+16:50:17.4339-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+16:50:17.4339-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+16:50:21.2512-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+16:50:21.2512-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+16:50:21.2512-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+16:50:21.2683-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+16:50:21.2683-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+16:50:21.2683-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+16:50:21.7852-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - UWPProgram index cost <628ms>
+16:50:21.8869-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - Win32Program index cost <730ms>
+18:02:30.4127-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+18:02:30.4127-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+18:02:30.4127-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+18:02:30.4400-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+18:02:30.4400-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+18:02:30.4400-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+18:51:18.4338-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+18:51:18.4338-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+18:51:18.4338-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+18:51:18.4482-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+18:51:18.4482-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+18:51:18.4482-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+20:11:26.0629-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+20:11:26.0629-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+20:11:26.0629-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+20:11:26.0967-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+20:11:26.0967-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+20:11:26.0967-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+20:23:30.9417-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+20:23:30.9417-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+20:23:30.9417-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+20:23:30.9541-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+20:23:30.9541-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+20:23:30.9541-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+21:35:12.0818-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+21:35:12.0818-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+21:35:12.0818-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+21:35:12.0982-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+21:35:12.0982-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+21:35:12.0982-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+21:46:50.0578-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+21:46:50.0578-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+21:46:50.0578-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+21:46:50.0712-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+21:46:50.0712-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+21:46:50.0712-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+22:48:56.1296-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+22:48:56.1296-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+22:48:56.1296-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+22:48:56.1435-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+22:48:56.1435-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+22:48:56.1435-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+23:27:56.1233-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+23:27:56.1233-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+23:27:56.1233-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+23:27:56.1364-03:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+23:27:56.1364-03:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: IShellLinkW
+Calling method: retrieveTargetPath
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+InnerException number: 1
+Exception message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(System.Text.StringBuilder, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+23:27:56.1364-03:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+23:27:56.3884-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - UWPProgram index cost <388ms>
+23:27:56.5929-03:00 - INFO  - Flow.Launcher.Plugin.Program.Main - Win32Program index cost <592ms>
