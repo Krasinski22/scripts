@@ -17,6 +17,10 @@
     "keybindings": 
     [
         {
+            "id": "Terminal.OpenNewTab",
+            "keys": "ctrl+t"
+        },
+        {
             "id": null,
             "keys": "ctrl+c"
         },
@@ -26,11 +30,11 @@
         },
         {
             "id": null,
-            "keys": "ctrl+shift+f"
+            "keys": "ctrl+v"
         },
         {
             "id": null,
-            "keys": "ctrl+v"
+            "keys": "ctrl+shift+f"
         },
         {
             "id": "Terminal.FindText",
@@ -43,6 +47,14 @@
         {
             "id": null,
             "keys": "win+sc(41)"
+        },
+        {
+            "id": null,
+            "keys": "ctrl+shift+t"
+        },
+        {
+            "id": "Terminal.OpenNewTabProfile0",
+            "keys": "ctrl+shift+1"
         }
     ],
     "newTabMenu": 

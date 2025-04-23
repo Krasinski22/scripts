@@ -6283,3 +6283,29 @@
 2025-04-23 14:59:14 | Info | ThemeHandler.RefreshDwmFull: dwm management: refresh performed by theme handler 
 2025-04-23 14:59:14 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\USER\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
 2025-04-23 14:59:14 | Info | ThemeManager.UpdateTheme: refreshed light theme, source: SystemUnlock 
+2025-04-23 16:17:55 | Info | PostponeManager.Remove: postpone queue cleared 
+2025-04-23 16:17:55 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2025-04-23 16:17:55 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\USER\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2025-04-23 16:17:55 | Info | ThemeManager.UpdateTheme: dwm management: provided refresh type none insufficent, minimum: full 
+2025-04-23 16:17:55 | Info | ThemeHandler.RefreshDwmFull: dwm management: refresh performed by theme handler 
+2025-04-23 16:17:56 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\USER\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2025-04-23 16:17:56 | Info | ThemeManager.UpdateTheme: refreshed light theme, source: SystemUnlock 
+2025-04-23 16:47:53 | Info | PostponeManager.Remove: postpone queue cleared 
+2025-04-23 16:47:53 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2025-04-23 16:47:53 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\USER\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2025-04-23 16:47:53 | Info | ThemeManager.UpdateTheme: dwm management: provided refresh type none insufficent, minimum: full 
+2025-04-23 16:47:53 | Info | ThemeHandler.RefreshDwmFull: dwm management: refresh performed by theme handler 
+2025-04-23 16:47:54 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\USER\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2025-04-23 16:47:54 | Info | ThemeManager.UpdateTheme: refreshed light theme, source: SystemUnlock 
+2025-04-23 17:15:04 | Info | PostponeManager.Remove: postpone queue cleared 
+2025-04-23 17:15:04 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2025-04-23 17:15:05 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\USER\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2025-04-23 17:15:05 | Info | ThemeManager.UpdateTheme: dwm management: provided refresh type none insufficent, minimum: full 
+2025-04-23 17:15:05 | Info | ThemeHandler.RefreshDwmFull: dwm management: refresh performed by theme handler 
+2025-04-23 17:15:05 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\USER\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2025-04-23 17:15:06 | Info | ThemeManager.UpdateTheme: refreshed light theme, source: SystemUnlock 
+2025-04-23 17:58:24 | Info | MessageParser.Parse: signal received: request for running status 
+2025-04-23 17:58:24 | Info | MessageParser.Parse: signal received: validate autostart entries 
+2025-04-23 17:58:25 | Info | TaskSchdHandler.GetLogonTask: logon task folder does not exist 
+2025-04-23 17:58:51 | Info | Service.Exit: exiting service 
+2025-04-23 17:58:51 | Info | Program.Main: service shutdown successful 
