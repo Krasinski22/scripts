@@ -1,5 +1,24 @@
 oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/M365Princess.omp.json" | Invoke-Expression
 
+function lightWin {
+    start-process start-process -filepath $HOME\AppData\Local\Microsoft\Windows\Themes\light\light.theme
+}
+
+
+function darkWin {
+    start-process start-process -filepath $HOME\AppData\Local\Microsoft\Windows\Themes\dark\dark.theme
+}
+
+function light {
+    start-process start-process -filepath $HOME\scripts\windows-themes\light.deskthemepack
+}
+
+function dark {
+    start-process start-process -filepath $HOME\scripts\windows-themes\dark.deskthemepack
+}
+
+
+
 Function yt {
     param (
         [string]$Link,
