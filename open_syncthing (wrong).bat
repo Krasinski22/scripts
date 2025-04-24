@@ -1,1 +1,0 @@
-"C:\Users\USER\AppData\Local\Microsoft\WinGet\Links\syncthing.exe" --no-console --no-browser --home "D:\OneDrive\configs\Syncthing"
