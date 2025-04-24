@@ -187,10 +187,10 @@ widgets:
     options:
       label: "<span>{icon}</span> {temp}"
       label_alt: "{location}: Min {min_temp}, Max {max_temp}, Humidity {humidity}"
-      api_key: "3bf4cf9a7c3f40d6b31174128242807"
+      api_key: "26e6092f53a7463497611235251004"
       update_interval: 600
       hide_decimal: true
-      location: "USA Los Angeles 90006"
+      location: "Rio de Janeiro"
       callbacks:
         on_left: "toggle_label"
       icons:
