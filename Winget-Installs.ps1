@@ -31,3 +31,5 @@ winget install Google.Chrome
 winget install gerardog.gsudo 
 winget install voidtools.Everything
 winget install gnu.wget2
+winget install voidtools.Everything.Alpha
+winget install CrystalDewWorld.CrystalDiskInfo.KureiKeiEdition
