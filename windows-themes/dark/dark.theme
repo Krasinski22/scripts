@@ -1,0 +1,81 @@
+; Copyright � Microsoft Corp.
+
+[Theme]
+UnmanagedOriginalName=light1.2
+ThemeId={CA3F9B05-EB16-4708-8B02-189AD461E458}
+; Windows - IDS_THEME_DISPLAYNAME_THEMEA
+DisplayName=dark
+
+; Computer - SHIDI_SERVER
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=computer.ico
+
+; UsersFiles - SHIDI_USERFILES
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue=usericon.ico
+
+; Network - SHIDI_MYNETWORK
+[CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-25
+
+; Recycle Bin - SHIDI_RECYCLERFULL SHIDI_RECYCLER
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+Full=recycle-bin-full-miku.ico
+Empty=recycle-bin-empty-miku.ico
+
+[Control Panel\Cursors]
+Arrow=%SystemRoot%\Cursors\Makise Kurisu Cursor ver.1.0.0\01-Normal.ani
+Help=%SystemRoot%\Cursors\Makise Kurisu Cursor ver.1.0.0\04-Help.ani
+AppStarting=%SystemRoot%\Cursors\Makise Kurisu Cursor ver.1.0.0\03-Loading.ani
+Wait=%SystemRoot%\Cursors\Makise Kurisu Cursor ver.1.0.0\03-Loading.ani
+Crosshair=%SystemRoot%\Cursors\Makise Kurisu Cursor ver.1.0.0\07-Precision.ani
+IBeam=%SystemRoot%\Cursors\Makise Kurisu Cursor ver.1.0.0\05-Text Select.ani
+NWPen=%SystemRoot%\Cursors\Makise Kurisu Cursor ver.1.0.0\06-Handwriting.ani
+No=%SystemRoot%\Cursors\Makise Kurisu Cursor ver.1.0.0\08-Unavailable.ani
+SizeNS=%SystemRoot%\Cursors\Makise Kurisu Cursor ver.1.0.0\11-Vertical Resize.ani
+SizeWE=%SystemRoot%\Cursors\Makise Kurisu Cursor ver.1.0.0\12-Horizontal Resize.ani
+SizeNWSE=%SystemRoot%\Cursors\Makise Kurisu Cursor ver.1.0.0\13-Diagonal Resize 1.ani
+SizeNESW=%SystemRoot%\Cursors\Makise Kurisu Cursor ver.1.0.0\14-Diagonal Resize 2.ani
+SizeAll=%SystemRoot%\Cursors\Makise Kurisu Cursor ver.1.0.0\15-Move.ani
+UpArrow=%SystemRoot%\Cursors\Makise Kurisu Cursor ver.1.0.0\16-Alternate Select.ani
+Hand=%SystemRoot%\Cursors\Makise Kurisu Cursor ver.1.0.0\02-Link.ani
+Pin=%SystemRoot%\cursors\aero_pin.cur
+Person=%SystemRoot%\cursors\aero_person.cur
+DefaultValue=Makise Kurisu Cursor ver 1.0.0
+
+[Control Panel\Desktop]
+Wallpaper=DesktopBackground\amadeus.jpg
+Pattern=
+MultimonBackgrounds=0
+PicturePosition=4
+Wallpaper1=D:\OneDrive\customization\wallpapers\light-1.jpg
+WindowsSpotlight=0
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\Aero.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=0
+ColorizationColor=0XC400B7C3
+VisualStyleVersion=10
+AppMode=Dark
+SystemMode=Dark
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=@mmres.dll,-800
+
+[Control Panel\Colors]
+Background=0 0 0
+InfoText=0 0 0
+[Theme.A]
+[Theme.W]
+DisplayName=Tema N+AOM-o Salvo
+[Slideshow]
+
+Interval=21600000
+Shuffle=1
+ImagesRootPath=DesktopBackground
