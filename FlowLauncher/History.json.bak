@@ -459,6 +459,34 @@
     {
       "Query": "\u003E explorer $HOME\\AppData\\Roaming\\",
       "ExecutedDateTime": "2025-04-23T18:28:31.4509244-03:00"
+    },
+    {
+      "Query": "ever",
+      "ExecutedDateTime": "2025-04-23T22:01:57.504282-03:00"
+    },
+    {
+      "Query": "e",
+      "ExecutedDateTime": "2025-04-23T22:03:15.8682502-03:00"
+    },
+    {
+      "Query": "\u003E subl .\\scripts\\Winget-Installs.ps1",
+      "ExecutedDateTime": "2025-04-23T22:09:07.5251917-03:00"
+    },
+    {
+      "Query": "f light.desk",
+      "ExecutedDateTime": "2025-04-23T22:51:19.2561255-03:00"
+    },
+    {
+      "Query": "hib",
+      "ExecutedDateTime": "2025-04-24T19:22:04.6960713-03:00"
+    },
+    {
+      "Query": "shut",
+      "ExecutedDateTime": "2025-04-24T20:27:07.3993077-03:00"
+    },
+    {
+      "Query": "rest",
+      "ExecutedDateTime": "2025-04-24T20:38:36.4529332-03:00"
     }
   ]
 }
