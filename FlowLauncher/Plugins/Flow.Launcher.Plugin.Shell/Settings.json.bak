@@ -14,6 +14,7 @@
     "Set-Wallpaper.ps1 raw.github.com/Krasinski22/wallpapers/main/light-1.png": 1,
     "mpv https://twitch.tv/sonicorochi --ytdl-format=\u0022480p\u0022": 1,
     "procexp": 3,
-    "explorer $HOME\\AppData\\Roaming\\": 1
+    "explorer $HOME\\AppData\\Roaming\\": 1,
+    "subl .\\scripts\\Winget-Installs.ps1": 1
   }
 }

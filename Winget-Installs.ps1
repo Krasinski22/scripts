@@ -4,6 +4,7 @@ if (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
     exit
 }
 
+winget install 7zip
 winget install AutoHotkey.AutoHotkey
 winget install Cloudflare.Warp
 winget install Discord.Discord
