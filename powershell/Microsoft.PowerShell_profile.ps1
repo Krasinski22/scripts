@@ -23,7 +23,7 @@ Function yt {
     param (
         [string]$Link,
         [string]$Directory = "$env:USERPROFILE",
-        [string]$Mode = "default"  # "default" ou "normal"
+        [string]$Mode = "default"  # "default" ou "normal" ou "mp3"
     )
 
     ### Tratamento do diretório (igual à versão anterior) ###
