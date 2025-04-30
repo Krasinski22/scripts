@@ -9,9 +9,6 @@
 #
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
-# scale
-exec --no-startup-id xrandr --output HDMI-0 --scale 0.8x0.8
-
 set $mod Mod1
 
 # Font for window titles. Will also be used by the bar unless a different font
@@ -37,9 +34,6 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 # and nm-applet is a desktop environment-independent system tray GUI for it.
 exec --no-startup-id nm-applet
 
-# wallpaper
-exec --no-startup-id feh --bg-scale /home/user/amadeus.jpg
-
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_i3status killall -SIGUSR1 i3status
 bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +10% && $refresh_i3status
@@ -55,10 +49,7 @@ floating_modifier $mod
 tiling_drag modifier titlebar
 
 # start a terminal
-bindsym $mod+Return exec kitty
-
-# browser
-bindsym $mod+Shift+b exec --no-startup-id google-chrome
+bindsym $mod+Return exec i3-sensible-terminal
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -198,4 +189,3 @@ bar {
         status_command i3status
 }
 
-exec --no-startup-id feh --bg-scale /home/user/amadeus.jpg
