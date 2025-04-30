@@ -19,6 +19,9 @@ exec --no-startup-id xrandr --output HDMI-0 --scale 0.7x0.7
 # shutdown
 bindsym Ctrl+Mod1+Shift+s exec --no-startup-id systemctl poweroff
 
+# hibernate
+# bindsym Ctrl+Mod1+Shift+h exec --no-startup-id systemctl hibernate
+
 # reboot
 bindsym Ctrl+Mod1+Shift+r exec --no-startup-id systemctl reboot
 
