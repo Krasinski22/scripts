@@ -1,19 +1,24 @@
 #!/bin/bash
 
-# Define direção: +1 ou -1
-direction=$1
+direction=$1  # -1 ou 1
 
-# Pega a workspace atual (número)
-current=$(i3-msg -t get_workspaces | jq '.[] | select(.focused==true).num')
+# Coleta workspaces com janelas, ordenadas
+mapfile -t workspaces < <(i3-msg -t get_workspaces | jq '.[] | select(.visible or .focused or .urgent or .output != null) | .num' | sort -n)
 
-# Se falhar, sai
-[ -z "$current" ] && exit 1
+# Workspace atual
+current=$(i3-msg -t get_workspaces | jq '.[] | select(.focused).num')
 
-# Calcula próxima workspace
-next=$((current + direction))
+# Índice da atual
+for i in "${!workspaces[@]}"; do
+    if [ "${workspaces[$i]}" -eq "$current" ]; then
+        index=$i
+        break
+    fi
+done
 
-# Evita workspaces com número zero ou negativo
-[ "$next" -le 0 ] && exit 1
+# Wrap-around no índice
+count=${#workspaces[@]}
+next_index=$(( (index + direction + count) % count ))
 
-# Vai para a nova workspace
-i3-msg workspace number "$next"
+# Muda de workspace
+i3-msg workspace number "${workspaces[$next_index]}"
