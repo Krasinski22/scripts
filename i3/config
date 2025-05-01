@@ -181,6 +181,9 @@ bindsym $mod+r mode "resize"
 bindsym $mod+a exec --no-startup-id ~/.config/i3/workspace_switch.sh -1
 bindsym $mod+s exec --no-startup-id ~/.config/i3/workspace_switch.sh 1
 
+# flameshot
+bindsym Print exec --no-startup-id flameshot gui
+
 
 # polybar
 #exec --no-startup-id sleep 1 && /usr/bin/polybar
