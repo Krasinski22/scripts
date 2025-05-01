@@ -206,6 +206,9 @@ exec --no-startup-id sleep 3 && picom --config ~/.config/picom/picom.conf
 # syncthing
 exec --no-startup-id syncthing --no-browser
 
+# nemo
+bindsym Mod4+e exec --no-startup-id nemo
+
 # shutdown
 bindsym Ctrl+Mod1+Shift+s exec --no-startup-id systemctl poweroff
 
