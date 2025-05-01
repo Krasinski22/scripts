@@ -17,28 +17,28 @@
     "keybindings": 
     [
         {
-            "id": null,
-            "keys": "ctrl+c"
-        },
-        {
             "id": "Terminal.OpenNewTab",
             "keys": "ctrl+t"
         },
         {
-            "id": "Terminal.FindText",
-            "keys": "ctrl+f"
+            "id": null,
+            "keys": "ctrl+c"
         },
         {
-            "id": null,
-            "keys": "ctrl+shift+f"
+            "id": "User.quakeMode.F1E129A4",
+            "keys": "ctrl+shift+q"
         },
         {
             "id": null,
             "keys": "ctrl+v"
         },
         {
-            "id": "User.quakeMode.F1E129A4",
-            "keys": "ctrl+shift+q"
+            "id": null,
+            "keys": "ctrl+shift+f"
+        },
+        {
+            "id": "Terminal.FindText",
+            "keys": "ctrl+f"
         },
         {
             "id": null,
@@ -106,7 +106,7 @@
                 "source": "Windows.Terminal.Azure"
             },
             {
-                "backgroundImage": "%USERPROFILE%\\scripts\\images\\amadeus.jpg",
+                "backgroundImage": "%USERPROFILE%\\scripts\\images\\dark\\amadeus.jpg",
                 "backgroundImageOpacity": 0.22,
                 "commandline": "\"C:\\Program Files\\PowerShell\\7\\pwsh.exe\" -NoLogo",
                 "experimental.retroTerminalEffect": false,
