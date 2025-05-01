@@ -57,3 +57,4 @@ Safe-Symlink "$HOME\.config\yasb\styles.css" "$HOME\scripts\yasb\styles.css"
 
 Safe-Symlink "$HOME\Documents\PowerShell\Microsoft.PowerShell_profile.ps1" "$HOME\scripts\powershell\Microsoft.PowerShell_profile.ps1"
 
+Safe-Symlink "$HOME\.wezterm.lua" "$HOME\scripts\wezterm\wezterm-windows.lua" 
