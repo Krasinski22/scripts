@@ -1,5 +1,5 @@
 {
-  "Hotkey": "Alt \u002B Space",
+  "Hotkey": "Ctrl \u002B Space",
   "OpenResultModifiers": "Alt",
   "ColorScheme": "System",
   "ShowOpenResultHotkey": true,
@@ -128,7 +128,7 @@
   "CustomWindowTop": 0,
   "KeepMaxResults": false,
   "MaxResultsToShow": 5,
-  "ActivateTimes": 1,
+  "ActivateTimes": 2,
   "CustomPluginHotkeys": [],
   "CustomShortcuts": [],
   "DontPromptUpdateMsg": false,
