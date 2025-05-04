@@ -487,6 +487,10 @@
     {
       "Query": "rest",
       "ExecutedDateTime": "2025-04-24T20:38:36.4529332-03:00"
+    },
+    {
+      "Query": "event",
+      "ExecutedDateTime": "2025-05-04T15:28:46.4872503-03:00"
     }
   ]
 }
