@@ -1,5 +1,9 @@
 oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/M365Princess.omp.json" | Invoke-Expression
 
+function poweroff {
+    Stop-Computer -Force
+}
+
 function lightWin {
     start-process start-process -filepath $HOME\AppData\Local\Microsoft\Windows\Themes\light\light.theme
 }
