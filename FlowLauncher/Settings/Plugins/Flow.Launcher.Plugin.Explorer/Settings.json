@@ -28,7 +28,7 @@
   "PreviewPanelDateFormat": "yyyy-MM-dd",
   "PreviewPanelTimeFormat": "HH:mm",
   "IndexSearchEngine": 1,
-  "PathEnumerationEngine": 2,
+  "PathEnumerationEngine": 1,
   "ContentSearchEngine": 1,
   "EverythingInstalledPath": null,
   "SortOption": 1,

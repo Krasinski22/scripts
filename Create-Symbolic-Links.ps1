@@ -47,7 +47,7 @@ Safe-Symlink "$HOME\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bb
 Safe-Symlink "$HOME\AppData\Roaming\mpv\input.conf" "$HOME\scripts\mpv\input.conf"
 Safe-Symlink "$HOME\AppData\Roaming\mpv\mpv.conf" "$HOME\scripts\mpv\mpv.conf"
 
-Safe-Symlink "$HOME\AppData\Roaming\FlowLauncher\Settings" "$HOME\scripts\FlowLauncher"
+Safe-Symlink "$HOME\AppData\Roaming\FlowLauncher\Settings" "$HOME\scripts\FlowLauncher\Settings"
 
 Safe-Symlink "$HOME\.glzr\glazewm\config.yaml" "$HOME\scripts\glazewm\config.yaml"
 
