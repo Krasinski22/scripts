@@ -13,7 +13,7 @@ winget install git.git
 winget install glzr-io.glazewm
 winget install KeePassXCTeam.KeePassXC
 winget install CrystalRich.LockHunter
-# winget install Neovim.Neovim
+winget install Neovim.Neovim
 winget install Microsoft.PowerShell
 # winget install AntoineAflalo.SoundSwitch
 winget install Valve.Steam
