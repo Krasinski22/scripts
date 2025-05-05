@@ -75,7 +75,8 @@
     {
         "defaults": 
         {
-            "backgroundImageOpacity": 0,
+            "backgroundImage": "%USERPROFILE%\\scripts\\images\\dark\\amadeus.jpg",
+            "backgroundImageOpacity": 0.22,
             "colorScheme": "Solarized Dark Patched",
             "font": 
             {
