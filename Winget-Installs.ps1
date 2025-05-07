@@ -5,7 +5,7 @@ if (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
 }
 
 $apps = @(
-    "7zip",
+    "7zip.7zip",
     "Cloudflare.Warp",
     "File-New-Project.EarTrumpet",
     "git.git",
@@ -28,7 +28,8 @@ $apps = @(
     "gerardog.gsudo",
     "voidtools.Everything",
     "gnu.wget2",
-    "CrystalDewWorld.CrystalDiskInfo.KureiKeiEdition"
+    "CrystalDewWorld.CrystalDiskInfo.KureiKeiEdition",
+    "Rclone.Rclone"
 )
 
 foreach ($app in $apps) {
