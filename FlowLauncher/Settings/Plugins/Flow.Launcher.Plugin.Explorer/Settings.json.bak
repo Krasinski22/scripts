@@ -1,17 +1,26 @@
 {
   "MaxResult": 100,
   "QuickAccessLinks": [],
-  "IndexSearchExcludedSubdirectoryPaths": [],
+  "IndexSearchExcludedSubdirectoryPaths": [
+    {
+      "Path": "D:\\$RECYCLE.BIN",
+      "Type": 1
+    },
+    {
+      "Path": "C:\\$Recycle.Bin",
+      "Type": 1
+    }
+  ],
   "EditorPath": "",
   "FolderEditorPath": "",
-  "ShellPath": "cmd",
+  "ShellPath": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
   "ExcludedFileTypes": "",
   "UseLocationAsWorkingDir": false,
   "ShowInlinedWindowsContextMenu": false,
   "WindowsContextMenuIncludedItems": "",
   "WindowsContextMenuExcludedItems": "",
   "DefaultOpenFolderInFileManager": false,
-  "SearchActionKeyword": "*",
+  "SearchActionKeyword": "f",
   "SearchActionKeywordEnabled": true,
   "FileContentSearchActionKeyword": "doc:",
   "FileContentSearchKeywordEnabled": true,
@@ -27,13 +36,13 @@
   "ShowModifiedDateInPreviewPanel": true,
   "PreviewPanelDateFormat": "yyyy-MM-dd",
   "PreviewPanelTimeFormat": "HH:mm",
-  "IndexSearchEngine": 0,
-  "PathEnumerationEngine": 0,
-  "ContentSearchEngine": 0,
+  "IndexSearchEngine": 1,
+  "PathEnumerationEngine": 1,
+  "ContentSearchEngine": 1,
   "EverythingInstalledPath": null,
   "SortOption": 1,
   "EnableEverythingContentSearch": false,
-  "EverythingEnabled": false,
+  "EverythingEnabled": true,
   "EverythingSearchFullPath": false,
   "EverythingEnableRunCount": true
 }
