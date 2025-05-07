@@ -1,3 +1,5 @@
+$myuser = $env:username
+
 function Safe-Symlink {
     param (
         [string]$LinkPath,
@@ -57,3 +59,5 @@ Safe-Symlink "$HOME\.config\yasb\styles.css" "$HOME\scripts\yasb\styles.css"
 Safe-Symlink "$HOME\Documents\PowerShell\Microsoft.PowerShell_profile.ps1" "$HOME\scripts\powershell\Microsoft.PowerShell_profile.ps1"
 
 Safe-Symlink "$HOME\.wezterm.lua" "$HOME\scripts\wezterm\wezterm-windows.lua" 
+
+Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Default (Windows).sublime-keymap" "$HOME\scripts\sublime-keymap.sublime-keymap"
