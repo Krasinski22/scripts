@@ -4,23 +4,14 @@ function poweroff {
     Stop-Computer -Force
 }
 
-function lightWin {
-    start-process start-process -filepath $HOME\AppData\Local\Microsoft\Windows\Themes\light\light.theme
-}
+#function lightWin {
+#    start-process start-process -filepath $HOME\AppData\Local\Microsoft\Windows\Themes\light\light.theme
+#}
 
 
-function darkWin {
-    start-process start-process -filepath $HOME\AppData\Local\Microsoft\Windows\Themes\dark\dark.theme
-}
-
-function light {
-    start-process start-process -filepath $HOME\scripts\windows-themes\light.deskthemepack
-}
-
-function dark {
-    start-process start-process -filepath $HOME\scripts\windows-themes\dark.deskthemepack
-}
-
+#function darkWin {
+#    start-process start-process -filepath $HOME\AppData\Local\Microsoft\Windows\Themes\dark\dark.theme
+#}
 
 
 Function yt {
@@ -107,17 +98,11 @@ function iconset {
 
 
 function winutil {
-	irm "https://christitus.com/win" | iex
+    irm "https://christitus.com/win" | iex
 }
 
 function reload-profile {
     . $profile
-}
-
-function unzip ($file) {
-    Write-Output("Extracting", $file, "to", $pwd)
-    $fullFile = Get-ChildItem -Path $pwd -Filter $file | ForEach-Object { $_.FullName }
-    Expand-Archive -Path $fullFile -DestinationPath $pwd
 }
 
 function unzip ($file) {
