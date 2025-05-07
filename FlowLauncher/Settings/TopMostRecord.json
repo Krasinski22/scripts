@@ -1,3 +1,49 @@
 {
-  "records": {}
+  "records": {
+    "ch": {
+      "Title": "Google Chrome",
+      "SubTitle": "",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "hw": {
+      "Title": "HWiNFOPortable",
+      "SubTitle": "",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "sublim": {
+      "Title": "Sublime Text",
+      "SubTitle": "",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "su": {
+      "Title": "Sublime Text",
+      "SubTitle": "",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "bcuninstaller": {
+      "Title": "BCUninstaller",
+      "SubTitle": "",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "tel": {
+      "Title": "TelegramDesktopPortable",
+      "SubTitle": "",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "f scripts": {
+      "Title": "scripts",
+      "SubTitle": "C:\\Users\\user\\scripts",
+      "PluginID": "572be03c74c642baae319fc283e561a8"
+    },
+    "autod": {
+      "Title": "AutoDarkModeApp",
+      "SubTitle": "",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "e": {
+      "Title": "Everything 1.5a",
+      "SubTitle": "",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    }
+  }
 }
