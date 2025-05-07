@@ -1,10 +1,28 @@
 {
-  "Shell": 0,
-  "ReplaceWinR": false,
+  "Shell": 3,
+  "ReplaceWinR": true,
   "CloseShellAfterPress": false,
   "LeaveShellOpen": false,
-  "RunAsAdministrator": true,
+  "RunAsAdministrator": false,
   "ShowOnlyMostUsedCMDs": false,
-  "ShowOnlyMostUsedCMDsNumber": 0,
-  "CommandHistory": {}
+  "ShowOnlyMostUsedCMDsNumber": 5,
+  "CommandHistory": {
+    "kill explorer.exe": 1,
+    "kill explorer": 1,
+    "kill -n explorer": 2,
+    "iconset": 14,
+    "Set-Wallpaper.ps1 raw.github.com/Krasinski22/wallpapers/main/light-1.png": 1,
+    "mpv https://twitch.tv/sonicorochi --ytdl-format=\u0022480p\u0022": 1,
+    "procexp": 3,
+    "explorer $HOME\\AppData\\Roaming\\": 1,
+    "subl .\\scripts\\Winget-Installs.ps1": 1,
+    "mmsys": 1,
+    "timedate": 1,
+    "sysdm": 4,
+    "sysdm.cpl": 1,
+    "ncpa": 4,
+    "desk.cpl": 1,
+    "shell32": 1,
+    "shell32.dll": 1
+  }
 }

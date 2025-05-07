@@ -1,0 +1,22 @@
+sysdm.cpl
+system device management
+
+appwiz.cpl
+
+mmsys.cpl
+multimedia
+
+ncpa.cpl
+network control
+
+timedate.cpl
+
+powercfg.cpl
+
+hdwiz.cpl
+
+main.cpl
+mouse
+
+desk.cpl
+screen
