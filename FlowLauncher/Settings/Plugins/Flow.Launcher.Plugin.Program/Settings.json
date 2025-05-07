@@ -1,7 +1,44 @@
 {
-  "LastIndexTime": "2025-05-05T13:18:27.5096797-03:00",
+  "LastIndexTime": "2025-05-07T16:24:11.5041154-03:00",
   "ProgramSources": [],
-  "DisabledProgramSources": [],
+  "DisabledProgramSources": [
+    {
+      "Location": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\my-software\\portableapps\\PortableApps\\TelegramDesktopPortable\\App\\Telegram",
+      "Name": "Telegram",
+      "Enabled": false,
+      "UniqueIdentifier": "c:\\programdata\\microsoft\\windows\\start menu\\programs\\my-software\\portableapps\\portableapps\\telegramdesktopportable\\app\\telegram\\telegram.exe"
+    },
+    {
+      "Location": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\my-software\\portableapps\\PortableApps\\HWiNFOPortable\\App\\HWiNFO",
+      "Name": "HWiNFO32",
+      "Enabled": false,
+      "UniqueIdentifier": "c:\\programdata\\microsoft\\windows\\start menu\\programs\\my-software\\portableapps\\portableapps\\hwinfoportable\\app\\hwinfo\\hwinfo32.exe"
+    },
+    {
+      "Location": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\my-software\\hwi_824",
+      "Name": "HWiNFO_ARM64",
+      "Enabled": false,
+      "UniqueIdentifier": "c:\\programdata\\microsoft\\windows\\start menu\\programs\\my-software\\hwi_824\\hwinfo_arm64.exe"
+    },
+    {
+      "Location": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\my-software\\portableapps\\PortableApps\\HWiNFOPortable\\App\\HWiNFO",
+      "Name": "HWiNFOPortable64Shim",
+      "Enabled": false,
+      "UniqueIdentifier": "c:\\programdata\\microsoft\\windows\\start menu\\programs\\my-software\\portableapps\\portableapps\\hwinfoportable\\app\\hwinfo\\hwinfoportable64shim.exe"
+    },
+    {
+      "Location": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\my-software\\portableapps\\PortableApps\\HWiNFOPortable",
+      "Name": "HWiNFOPortable",
+      "Enabled": false,
+      "UniqueIdentifier": "c:\\programdata\\microsoft\\windows\\start menu\\programs\\my-software\\portableapps\\portableapps\\hwinfoportable\\hwinfoportable.exe"
+    },
+    {
+      "Location": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\my-software\\Anki",
+      "Name": "mpv",
+      "Enabled": false,
+      "UniqueIdentifier": "c:\\programdata\\microsoft\\windows\\start menu\\programs\\my-software\\anki\\mpv.exe"
+    }
+  ],
   "CustomSuffixes": [],
   "CustomProtocols": [],
   "BuiltinSuffixesStatus": {
