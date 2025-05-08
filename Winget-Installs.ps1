@@ -1,3 +1,5 @@
+winget install gerardog.gsudo
+
 # Verifica se o script está sendo executado como administrador
 if (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")) {
     Write-Host "Run as admin"
@@ -6,6 +8,7 @@ if (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
 
 $apps = @(
     "7zip.7zip",
+    "Chocolatey.Chocolatey",
     "Cloudflare.Warp",
     "File-New-Project.EarTrumpet",
     "git.git",
@@ -25,7 +28,6 @@ $apps = @(
     "GNU.Nano",
     "JanDeDobbeleer.OhMyPosh",
     "Google.Chrome",
-    "gerardog.gsudo",
     "voidtools.Everything",
     "gnu.wget2",
     "CrystalDewWorld.CrystalDiskInfo.KureiKeiEdition",
