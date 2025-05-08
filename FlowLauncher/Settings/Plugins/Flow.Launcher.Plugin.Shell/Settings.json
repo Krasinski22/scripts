@@ -2,7 +2,7 @@
   "Shell": 3,
   "ReplaceWinR": true,
   "CloseShellAfterPress": false,
-  "LeaveShellOpen": true,
+  "LeaveShellOpen": false,
   "RunAsAdministrator": false,
   "ShowOnlyMostUsedCMDs": false,
   "ShowOnlyMostUsedCMDsNumber": 5,
@@ -44,6 +44,9 @@
     "pwsh Start-Process \u0022C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack\u0022": 3,
     "pwsh \u0022Start-Process C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack\u0022": 1,
     "C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack": 2,
-    "C:\\Program Files\\PowerShell\\7\\pwsh.exe": 1
+    "control intl.cpl": 1,
+    "Control main.cpl keyboard": 1,
+    "Control main.cpl": 1,
+    "rundll32 shell32.dll,Control_RunDLL input.dll": 2
   }
 }
