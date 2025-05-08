@@ -41,7 +41,7 @@ window_effects:
   focused_window:
     border:
       enabled: true
-      color: '#3903fc'
+      color: '#ffdbb5'
 
     hide_title_bar:
       enabled: false
@@ -58,8 +58,8 @@ window_effects:
   # Visual effects to apply to non-focused windows.
   other_windows:
     border:
-      enabled: true
-      color: '#FFA500'
+      enabled: false
+      color: '#ffdbb5'
     hide_title_bar:
       enabled: false
     corner_style:
