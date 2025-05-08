@@ -2,7 +2,7 @@
   "Shell": 3,
   "ReplaceWinR": true,
   "CloseShellAfterPress": false,
-  "LeaveShellOpen": false,
+  "LeaveShellOpen": true,
   "RunAsAdministrator": false,
   "ShowOnlyMostUsedCMDs": false,
   "ShowOnlyMostUsedCMDsNumber": 5,
@@ -38,6 +38,11 @@
     "msconfig": 1,
     "dskmgmt": 1,
     "compmgmt": 1,
-    "diskmgmt": 1
+    "diskmgmt": 1,
+    "pwsh start \u0022C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack\u0022": 3,
+    "Start-Process \u0022C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack\u0022": 3,
+    "pwsh Start-Process \u0022C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack\u0022": 3,
+    "pwsh \u0022Start-Process C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack\u0022": 1,
+    "C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack": 2
   }
 }
