@@ -141,7 +141,7 @@ keybindings:
   
   # theme light
   - commands: ['shell-exec C:\Users\user\scripts\windows-themes\light.deskthemepack']
-    bindings: ['alt+shift+t']
+    bindings: ['1+shift+t']
   
   # theme dark
   - commands: ['shell-exec C:\Users\user\scripts\windows-themes\dark.deskthemepack']
@@ -249,8 +249,9 @@ keybindings:
   - commands: ['move --workspace 9', 'focus --workspace 9']
     bindings: ['alt+shift+9']
 
-
-
+  # Change the focused window to be tiling.
+  - commands: ['toggle-tiling']
+    bindings: ['alt+t']
 
   # Resize focused window by a percentage or pixel amount.
 #  - commands: ['resize --width -2%']
@@ -287,9 +288,6 @@ keybindings:
 #  - commands: ['toggle-floating --centered']
 #    bindings: ['alt+shift+space']
 
-  # Change the focused window to be tiling.
-#  - commands: ['toggle-tiling']
-#    bindings: ['alt+t']
 
   # Change the focused window to be fullscreen.
  # - commands: ['toggle-fullscreen']
