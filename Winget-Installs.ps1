@@ -9,6 +9,7 @@ if (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
 $apps = @(
     "7zip.7zip",
     "Chocolatey.Chocolatey",
+    "Flow-Launcher.Flow-Launcher",
     "Cloudflare.Warp",
     "File-New-Project.EarTrumpet",
     "git.git",
