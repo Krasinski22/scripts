@@ -671,6 +671,74 @@
     {
       "Query": "sub",
       "ExecutedDateTime": "2025-05-07T17:09:18.5743635-03:00"
+    },
+    {
+      "Query": "macri",
+      "ExecutedDateTime": "2025-05-07T17:11:50.0025994-03:00"
+    },
+    {
+      "Query": "emp",
+      "ExecutedDateTime": "2025-05-07T17:15:31.3307237-03:00"
+    },
+    {
+      "Query": "hi",
+      "ExecutedDateTime": "2025-05-07T17:16:41.9363283-03:00"
+    },
+    {
+      "Query": "\u003E pwsh start \u0022C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack\u0022",
+      "ExecutedDateTime": "2025-05-07T21:08:39.8014671-03:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-05-07T21:08:45.6015099-03:00"
+    },
+    {
+      "Query": "\u003E pwsh start \u0022C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack\u0022",
+      "ExecutedDateTime": "2025-05-07T21:09:31.7458928-03:00"
+    },
+    {
+      "Query": "\u003E Start-Process \u0022C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack\u0022",
+      "ExecutedDateTime": "2025-05-07T21:09:51.8302311-03:00"
+    },
+    {
+      "Query": "\u003E pwsh Start-Process \u0022C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack\u0022",
+      "ExecutedDateTime": "2025-05-07T21:10:07.9033107-03:00"
+    },
+    {
+      "Query": "\u003E Start-Process \u0022C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack\u0022",
+      "ExecutedDateTime": "2025-05-07T21:10:45.0198749-03:00"
+    },
+    {
+      "Query": "\u003E pwsh Start-Process \u0022C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack\u0022",
+      "ExecutedDateTime": "2025-05-07T21:11:31.8841996-03:00"
+    },
+    {
+      "Query": "\u003E pwsh \u0022Start-Process C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack\u0022",
+      "ExecutedDateTime": "2025-05-07T21:12:14.9655149-03:00"
+    },
+    {
+      "Query": "\u003E pwsh Start-Process \u0022C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack\u0022",
+      "ExecutedDateTime": "2025-05-07T21:12:36.7139667-03:00"
+    },
+    {
+      "Query": "\u003E C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack",
+      "ExecutedDateTime": "2025-05-07T21:14:03.5375617-03:00"
+    },
+    {
+      "Query": "hi",
+      "ExecutedDateTime": "2025-05-07T23:25:32.8336594-03:00"
+    },
+    {
+      "Query": "shut",
+      "ExecutedDateTime": "2025-05-07T23:26:16.8384138-03:00"
+    },
+    {
+      "Query": "emp",
+      "ExecutedDateTime": "2025-05-08T11:34:11.649598-03:00"
+    },
+    {
+      "Query": "shut",
+      "ExecutedDateTime": "2025-05-08T11:34:27.7021472-03:00"
     }
   ]
 }
