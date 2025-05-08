@@ -12,3 +12,12 @@ curl	-b	--cookie	"Biscuit" ou "Bearer"
 curl	-j	--junk-session-cookies	"Junk" (descartar lixo)
 wget	--save-cookies	-	Ação direta ("salvar cookies")
 wget	--load-cookies	-	Ação direta ("carregar cookies")
+
+
+
+C:\Windows\Resources\Themes
+
+
+
+powershell - add to path all files in text files
+cat .\Paths.ps1 | foreach { .\Add-Path.ps1 $_ }
