@@ -43,6 +43,7 @@
     "Start-Process \u0022C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack\u0022": 3,
     "pwsh Start-Process \u0022C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack\u0022": 3,
     "pwsh \u0022Start-Process C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack\u0022": 1,
-    "C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack": 2
+    "C:\\Users\\user\\scripts\\windows-themes\\dark.deskthemepack": 2,
+    "C:\\Program Files\\PowerShell\\7\\pwsh.exe": 1
   }
 }
