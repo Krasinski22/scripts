@@ -141,7 +141,7 @@ keybindings:
   
   # theme light
   - commands: ['shell-exec C:\Users\user\scripts\windows-themes\light.deskthemepack']
-    bindings: ['1+shift+t']
+    bindings: ['alt+shift+t']
   
   # theme dark
   - commands: ['shell-exec C:\Users\user\scripts\windows-themes\dark.deskthemepack']
