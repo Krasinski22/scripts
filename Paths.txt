@@ -1,5 +1,1 @@
 "C:\Program Files\Sublime Text\"
-"D:\teste1"
-"D:\teste2"
-"D:\teste3"
-"D:\teste4"
