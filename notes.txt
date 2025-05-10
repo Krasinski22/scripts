@@ -21,3 +21,6 @@ C:\Windows\Resources\Themes
 
 powershell - add to path all files in text files
 cat .\Paths.ps1 | foreach { .\Add-Path.ps1 $_ }
+
+#adicioando à path a partir de um arquivo
+.\Add-Path.ps1 (cat Paths.txt)
