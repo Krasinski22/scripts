@@ -27,3 +27,4 @@ cat .\Paths.ps1 | foreach { .\Add-Path.ps1 $_ }
 poi 16
 poi 17
 poi 19
+poi 21
