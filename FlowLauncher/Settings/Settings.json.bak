@@ -3,7 +3,7 @@
   "OpenResultModifiers": "Alt",
   "ColorScheme": "System",
   "ShowOpenResultHotkey": true,
-  "WindowSize": 464,
+  "WindowSize": 580,
   "PreviewHotkey": "F1",
   "AutoCompleteHotkey": "Ctrl \u002B Tab",
   "AutoCompleteHotkey2": "",
@@ -47,7 +47,7 @@
   "DateFormat": "MM\u0027/\u0027dd ddd",
   "FirstLaunch": false,
   "SettingWindowWidth": 1536,
-  "SettingWindowHeight": 784,
+  "SettingWindowHeight": 832,
   "SettingWindowTop": 32,
   "SettingWindowLeft": 0,
   "SettingWindowState": 0,
@@ -82,7 +82,7 @@
       "Editable": true
     }
   ],
-  "CustomBrowserIndex": 4,
+  "CustomBrowserIndex": 0,
   "CustomBrowserList": [
     {
       "Name": "Default",
@@ -115,28 +115,20 @@
       "EnablePrivate": false,
       "OpenInTab": true,
       "Editable": false
-    },
-    {
-      "Name": "Chrome Portable",
-      "Path": "D:\\software\\GoogleChromePortable\\App\\Chrome-bin\\chrome.exe",
-      "PrivateArg": null,
-      "EnablePrivate": false,
-      "OpenInTab": true,
-      "Editable": true
     }
   ],
   "ShouldUsePinyin": false,
   "AlwaysPreview": false,
   "AlwaysStartEn": false,
   "QuerySearchPrecision": "Regular",
-  "AutoUpdates": true,
-  "WindowLeft": 536,
-  "WindowTop": 217.60000000000002,
+  "AutoUpdates": false,
+  "WindowLeft": 478.40000000000003,
+  "WindowTop": 230.4,
   "CustomWindowLeft": 0,
   "CustomWindowTop": 0,
   "KeepMaxResults": false,
   "MaxResultsToShow": 5,
-  "ActivateTimes": 456,
+  "ActivateTimes": 54,
   "CustomPluginHotkeys": [],
   "CustomShortcuts": [],
   "DontPromptUpdateMsg": false,
