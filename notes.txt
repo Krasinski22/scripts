@@ -25,3 +25,4 @@ cat .\Paths.ps1 | foreach { .\Add-Path.ps1 $_ }
 #adicioando à path a partir de um arquivo
 .\Add-Path.ps1 (cat Paths.txt)
 poi 22
+poi 23
