@@ -17,28 +17,24 @@
     "keybindings": 
     [
         {
-            "id": null,
-            "keys": "ctrl+c"
-        },
-        {
             "id": "Terminal.OpenNewTab",
             "keys": "ctrl+t"
         },
         {
-            "id": "Terminal.FindText",
-            "keys": "ctrl+f"
+            "id": null,
+            "keys": "ctrl+c"
         },
         {
-            "id": null,
-            "keys": "ctrl+shift+f"
+            "id": "User.quakeMode.F1E129A4",
+            "keys": "ctrl+shift+q"
         },
         {
             "id": null,
             "keys": "ctrl+v"
         },
         {
-            "id": "User.quakeMode.F1E129A4",
-            "keys": "ctrl+shift+q"
+            "id": "Terminal.FindText",
+            "keys": "ctrl+shift+f"
         },
         {
             "id": null,
