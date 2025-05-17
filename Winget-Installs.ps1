@@ -8,6 +8,7 @@ if (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
 
 $apps = @(
     "7zip.7zip",
+    "Obsidian.Obsidian",
     "DuongDieuPhap.ImageGlass",
     "Chocolatey.Chocolatey",
     "Flow-Launcher.Flow-Launcher",
