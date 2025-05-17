@@ -67,7 +67,7 @@ Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Default (Windo
 
 Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\PowerShell.sublime-settings" "$HOME\scripts\Sublime-PowerShell.sublime-settings"
 
-
 Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Preferences.sublime-settings" "$HOME\scripts\Preferences.sublime-settings"
 
 Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Package Control.sublime-settings" "$HOME\scripts\Package Control.sublime-settings"
+
