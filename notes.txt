@@ -26,3 +26,6 @@ cat .\Paths.ps1 | foreach { .\Add-Path.ps1 $_ }
 .\Add-Path.ps1 (cat Paths.txt)
 poi 22
 poi 23
+
+curl -L -C - -O "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/Obsidian-1.8.10.exe"
+curl -L -C - -O ""
