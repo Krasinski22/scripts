@@ -4,8 +4,8 @@ mostrar caminho inteiro na aba do explorer
 mostrar arquivos ocultos
 mostrar arquivos protegidos pelo OS
 mostrar extensao de arquivos
-buscar alternativa ao autodarkmode, talvez aplicar temas themepack (tarefas agendadas para tema escuro/claro, para alterar o wallpaper, para definir a cor de realce, para habilitar a cor na taskbar/iniciar e barra de titulo)
 definir a imagem de lockscreen
 desabilitar autorun discord, steam
 salvar dados do keepassxc
-deixar a config do yt-dlp no local correto (com link simbolico)
+automatizar yt-dlp com atalho
+link simbolico para config do yt-dlp
