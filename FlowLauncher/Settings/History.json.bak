@@ -287,6 +287,46 @@
     {
       "Query": "res",
       "ExecutedDateTime": "2025-05-15T00:03:12.5077213-03:00"
+    },
+    {
+      "Query": "hiber",
+      "ExecutedDateTime": "2025-05-15T00:30:01.4423674-03:00"
+    },
+    {
+      "Query": "qb",
+      "ExecutedDateTime": "2025-05-15T09:29:40.9031816-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-15T14:41:32.4308395-03:00"
+    },
+    {
+      "Query": "te",
+      "ExecutedDateTime": "2025-05-15T16:17:54.7279912-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-16T01:28:13.5105893-03:00"
+    },
+    {
+      "Query": "hiber",
+      "ExecutedDateTime": "2025-05-16T01:55:50.3612445-03:00"
+    },
+    {
+      "Query": "f linear bounded",
+      "ExecutedDateTime": "2025-05-17T12:36:51.9961347-03:00"
+    },
+    {
+      "Query": "f linear boun",
+      "ExecutedDateTime": "2025-05-17T13:20:04.4035086-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-17T23:10:51.9785948-03:00"
+    },
+    {
+      "Query": "hiber",
+      "ExecutedDateTime": "2025-05-18T00:04:04.9860878-03:00"
     }
   ]
 }
