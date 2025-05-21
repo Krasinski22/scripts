@@ -327,6 +327,50 @@
     {
       "Query": "hiber",
       "ExecutedDateTime": "2025-05-18T00:04:04.9860878-03:00"
+    },
+    {
+      "Query": "f monster ka",
+      "ExecutedDateTime": "2025-05-19T18:08:22.5262664-03:00"
+    },
+    {
+      "Query": "f D:\\OneDrive\\storage\\media\\text\\manga\\Naoki Urasawa\\Monster Kansenban Vol 01 (92)\\",
+      "ExecutedDateTime": "2025-05-19T18:08:23.5071903-03:00"
+    },
+    {
+      "Query": "kee",
+      "ExecutedDateTime": "2025-05-19T18:51:30.2803286-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-19T20:55:54.1192949-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-05-19T20:57:55.1963175-03:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2025-05-19T20:58:10.5737907-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-19T22:32:50.8015782-03:00"
+    },
+    {
+      "Query": "hiber",
+      "ExecutedDateTime": "2025-05-20T09:47:10.4023368-03:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2025-05-20T10:05:58.0576452-03:00"
+    },
+    {
+      "Query": "remote",
+      "ExecutedDateTime": "2025-05-20T10:08:30.2212946-03:00"
+    },
+    {
+      "Query": "shut",
+      "ExecutedDateTime": "2025-05-20T10:56:44.1489721-03:00"
     }
   ]
 }
