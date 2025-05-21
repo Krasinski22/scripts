@@ -371,6 +371,110 @@
     {
       "Query": "shut",
       "ExecutedDateTime": "2025-05-20T10:56:44.1489721-03:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2025-05-20T18:23:56.1149766-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-20T18:30:25.5829394-03:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-05-20T18:30:33.7846434-03:00"
+    },
+    {
+      "Query": "SETT",
+      "ExecutedDateTime": "2025-05-20T19:29:56.0184944-03:00"
+    },
+    {
+      "Query": "f  C:\\ProgramData\\Jellyfin\\Server\\config\\system.xml",
+      "ExecutedDateTime": "2025-05-20T19:32:56.106329-03:00"
+    },
+    {
+      "Query": "set",
+      "ExecutedDateTime": "2025-05-20T20:24:32.5454789-03:00"
+    },
+    {
+      "Query": "robo",
+      "ExecutedDateTime": "2025-05-20T22:30:33.7029694-03:00"
+    },
+    {
+      "Query": "\u003E explorer .",
+      "ExecutedDateTime": "2025-05-21T00:46:14.995226-03:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-05-21T00:46:59.6859181-03:00"
+    },
+    {
+      "Query": "\u003E exp",
+      "ExecutedDateTime": "2025-05-21T00:47:35.3984964-03:00"
+    },
+    {
+      "Query": "\u003E ~/rne-guide.pdf",
+      "ExecutedDateTime": "2025-05-21T00:48:00.2250419-03:00"
+    },
+    {
+      "Query": "\u003E %USERPROFILE%/rne-guide.pdf",
+      "ExecutedDateTime": "2025-05-21T00:48:16.9878575-03:00"
+    },
+    {
+      "Query": "\u003E C:\\users\\user\\rne-guide.pdf",
+      "ExecutedDateTime": "2025-05-21T00:48:42.3879249-03:00"
+    },
+    {
+      "Query": "\u003E explorer .C:\\users\\user\\",
+      "ExecutedDateTime": "2025-05-21T00:48:58.4540106-03:00"
+    },
+    {
+      "Query": "\u003E explorer C:\\users\\user\\",
+      "ExecutedDateTime": "2025-05-21T00:49:06.5277955-03:00"
+    },
+    {
+      "Query": "\u003E explorer C:\\users\\user\\rne-guide.pdf",
+      "ExecutedDateTime": "2025-05-21T00:49:18.9433419-03:00"
+    },
+    {
+      "Query": "\u003E chrome C:\\users\\user\\rne-guide.pdf",
+      "ExecutedDateTime": "2025-05-21T00:49:31.0884833-03:00"
+    },
+    {
+      "Query": "\u003E explorer C:\\users\\user\\",
+      "ExecutedDateTime": "2025-05-21T00:49:56.3184755-03:00"
+    },
+    {
+      "Query": "\u003E subl C:\\users\\user\\rne-guide.txt",
+      "ExecutedDateTime": "2025-05-21T00:50:18.167911-03:00"
+    },
+    {
+      "Query": "\u003E subl C:\\users\\user\\rne-guide.pdf",
+      "ExecutedDateTime": "2025-05-21T00:50:47.9635246-03:00"
+    },
+    {
+      "Query": "\u003E C:\\users\\user\\rne-guide.pdf",
+      "ExecutedDateTime": "2025-05-21T00:50:55.32457-03:00"
+    },
+    {
+      "Query": "\u003E chrome C:\\users\\user\\rne-guide.pdf",
+      "ExecutedDateTime": "2025-05-21T00:51:04.0792365-03:00"
+    },
+    {
+      "Query": "\u003E subl C:\\users\\user\\rne-guide.pdf",
+      "ExecutedDateTime": "2025-05-21T00:51:11.2657869-03:00"
+    },
+    {
+      "Query": "\u003E C:\\users\\user\\rne-guide.pdf",
+      "ExecutedDateTime": "2025-05-21T00:52:30.2201441-03:00"
+    },
+    {
+      "Query": "contr",
+      "ExecutedDateTime": "2025-05-21T00:54:19.3413867-03:00"
+    },
+    {
+      "Query": "shut",
+      "ExecutedDateTime": "2025-05-21T00:55:27.4470209-03:00"
     }
   ]
 }
