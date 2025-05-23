@@ -58,7 +58,7 @@
     },
     {
       "Title": "Google Translate",
-      "ActionKeyword": "translate",
+      "ActionKeyword": "tra",
       "Icon": "google_translate.png",
       "CustomIcon": false,
       "Url": "https://translate.google.com/#auto|en|{q}",

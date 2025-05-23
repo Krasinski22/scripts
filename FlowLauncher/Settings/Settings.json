@@ -1,5 +1,5 @@
 {
-  "Hotkey": "Alt \u002B Space",
+  "Hotkey": "LWin",
   "OpenResultModifiers": "Alt",
   "ColorScheme": "System",
   "ShowOpenResultHotkey": true,
@@ -20,6 +20,7 @@
   "Language": "en",
   "Theme": "Win11Light",
   "UseDropShadowEffect": true,
+  "BackdropType": 0,
   "WindowHeightSize": 42,
   "ItemHeightSize": 58,
   "QueryBoxFontSize": 20,
@@ -41,16 +42,24 @@
   "UseAnimation": true,
   "UseSound": true,
   "SoundVolume": 50,
+  "ShowBadges": false,
+  "ShowBadgesGlobalOnly": false,
+  "SettingWindowFont": "Segoe UI",
   "UseClock": true,
   "UseDate": false,
   "TimeFormat": "hh:mm tt",
   "DateFormat": "MM\u0027/\u0027dd ddd",
   "FirstLaunch": false,
-  "SettingWindowWidth": 940,
-  "SettingWindowHeight": 784,
-  "SettingWindowTop": 64,
-  "SettingWindowLeft": 596,
-  "SettingWindowState": 0,
+  "SettingWindowWidth": 734.6666666666666,
+  "SettingWindowHeight": 1262.6666666666665,
+  "SettingWindowTop": 32,
+  "SettingWindowLeft": 0,
+  "SettingWindowState": 2,
+  "ShowPlaceholder": true,
+  "PlaceholderText": "",
+  "ShowHomePage": true,
+  "ShowHistoryResultsForHomePage": false,
+  "MaxHistoryResultsToShowForHomePage": 5,
   "CustomExplorerIndex": 0,
   "CustomExplorerList": [
     {
@@ -117,27 +126,35 @@
       "Editable": false
     }
   ],
+  "LogLevel": "INFO",
   "ShouldUsePinyin": false,
   "AlwaysPreview": false,
   "AlwaysStartEn": false,
   "QuerySearchPrecision": "Regular",
   "AutoUpdates": false,
-  "WindowLeft": 478.40000000000003,
-  "WindowTop": 217.60000000000002,
+  "WindowLeft": 478,
+  "WindowTop": 229.6,
+  "PreviousScreenWidth": 0,
+  "PreviousScreenHeight": 0,
+  "PreviousDpiX": 0,
+  "PreviousDpiY": 0,
   "CustomWindowLeft": 0,
   "CustomWindowTop": 0,
   "KeepMaxResults": false,
   "MaxResultsToShow": 5,
-  "ActivateTimes": 207,
+  "ActivateTimes": 339,
   "CustomPluginHotkeys": [],
   "CustomShortcuts": [],
   "DontPromptUpdateMsg": false,
   "EnableUpdateLog": false,
   "StartFlowLauncherOnSystemStartup": true,
+  "UseLogonTaskForStartup": false,
   "HideOnStartup": true,
   "HideNotifyIcon": false,
   "LeaveCmdOpen": false,
   "HideWhenDeactivated": true,
+  "SearchQueryResultsWithDelay": false,
+  "SearchDelayTime": 150,
   "SearchWindowScreen": "Cursor",
   "SearchWindowAlign": "Center",
   "CustomScreenNumber": 1,
@@ -153,7 +170,7 @@
   "AnimationSpeed": "Medium",
   "CustomAnimationLength": 360,
   "PluginSettings": {
-    "PythonExecutablePath": "",
+    "PythonExecutablePath": "C:\\Users\\USER\\AppData\\Local\\Programs\\Python\\Python313\\pythonw.exe",
     "NodeExecutablePath": "",
     "Plugins": {
       "0ECADE17459B49F587BF81DC3A125110": {
@@ -164,7 +181,9 @@
           "b"
         ],
         "Priority": 0,
-        "Disabled": false
+        "SearchDelayTime": null,
+        "Disabled": false,
+        "HomeDisabled": false
       },
       "CEA0FDFC6D3B4085823D60DC76F28855": {
         "ID": "CEA0FDFC6D3B4085823D60DC76F28855",
@@ -174,7 +193,9 @@
           "*"
         ],
         "Priority": 0,
-        "Disabled": false
+        "SearchDelayTime": null,
+        "Disabled": false,
+        "HomeDisabled": false
       },
       "572be03c74c642baae319fc283e561a8": {
         "ID": "572be03c74c642baae319fc283e561a8",
@@ -188,7 +209,9 @@
           "f"
         ],
         "Priority": 0,
-        "Disabled": false
+        "SearchDelayTime": null,
+        "Disabled": false,
+        "HomeDisabled": false
       },
       "6A122269676E40EB86EB543B945932B9": {
         "ID": "6A122269676E40EB86EB543B945932B9",
@@ -198,7 +221,9 @@
           "?"
         ],
         "Priority": 0,
-        "Disabled": false
+        "SearchDelayTime": null,
+        "Disabled": false,
+        "HomeDisabled": false
       },
       "9f8f9b14-2518-4907-b211-35ab6290dee7": {
         "ID": "9f8f9b14-2518-4907-b211-35ab6290dee7",
@@ -208,7 +233,9 @@
           "pm"
         ],
         "Priority": 0,
-        "Disabled": false
+        "SearchDelayTime": null,
+        "Disabled": false,
+        "HomeDisabled": false
       },
       "b64d0a79-329a-48b0-b53f-d658318a1bf6": {
         "ID": "b64d0a79-329a-48b0-b53f-d658318a1bf6",
@@ -218,7 +245,9 @@
           "kill"
         ],
         "Priority": 0,
-        "Disabled": false
+        "SearchDelayTime": null,
+        "Disabled": false,
+        "HomeDisabled": false
       },
       "791FC278BA414111B8D1886DFE447410": {
         "ID": "791FC278BA414111B8D1886DFE447410",
@@ -228,7 +257,9 @@
           "*"
         ],
         "Priority": 0,
-        "Disabled": false
+        "SearchDelayTime": null,
+        "Disabled": false,
+        "HomeDisabled": false
       },
       "D409510CD0D2481F853690A07E6DC426": {
         "ID": "D409510CD0D2481F853690A07E6DC426",
@@ -238,7 +269,9 @@
           "\u003E"
         ],
         "Priority": 0,
-        "Disabled": false
+        "SearchDelayTime": null,
+        "Disabled": false,
+        "HomeDisabled": false
       },
       "CEA08895D2544B019B2E9C5009600DF4": {
         "ID": "CEA08895D2544B019B2E9C5009600DF4",
@@ -248,7 +281,9 @@
           "*"
         ],
         "Priority": 0,
-        "Disabled": false
+        "SearchDelayTime": null,
+        "Disabled": false,
+        "HomeDisabled": false
       },
       "0308FD86DE0A4DEE8D62B9B535370992": {
         "ID": "0308FD86DE0A4DEE8D62B9B535370992",
@@ -258,7 +293,9 @@
           "*"
         ],
         "Priority": 0,
-        "Disabled": false
+        "SearchDelayTime": null,
+        "Disabled": false,
+        "HomeDisabled": false
       },
       "565B73353DBF4806919830B9202EE3BF": {
         "ID": "565B73353DBF4806919830B9202EE3BF",
@@ -272,7 +309,6 @@
           "facebook",
           "twitter",
           "maps",
-          "translate",
           "duckduckgo",
           "github",
           "gist",
@@ -285,10 +321,13 @@
           "bing",
           "yahoo",
           "bd",
-          "yt"
+          "yt",
+          "tra"
         ],
         "Priority": 0,
-        "Disabled": false
+        "SearchDelayTime": null,
+        "Disabled": false,
+        "HomeDisabled": false
       },
       "5043CETYU6A748679OPA02D27D99677A": {
         "ID": "5043CETYU6A748679OPA02D27D99677A",
@@ -298,7 +337,33 @@
           "s"
         ],
         "Priority": 0,
-        "Disabled": false
+        "SearchDelayTime": null,
+        "Disabled": false,
+        "HomeDisabled": false
+      },
+      "1b7c732781f94b748ed08351f8200894": {
+        "ID": "1b7c732781f94b748ed08351f8200894",
+        "Name": "Flow.Launcher.Plugin.DirectTranslate",
+        "Version": "2.1.0",
+        "ActionKeywords": [
+          "tr"
+        ],
+        "Priority": 0,
+        "SearchDelayTime": null,
+        "Disabled": true,
+        "HomeDisabled": false
+      },
+      "e47fca5f-4305-4c14-9928-57d2c319d78e": {
+        "ID": "e47fca5f-4305-4c14-9928-57d2c319d78e",
+        "Name": "Google Translate",
+        "Version": "1.1.1",
+        "ActionKeywords": [
+          "tr"
+        ],
+        "Priority": 0,
+        "SearchDelayTime": null,
+        "Disabled": false,
+        "HomeDisabled": false
       }
     }
   }

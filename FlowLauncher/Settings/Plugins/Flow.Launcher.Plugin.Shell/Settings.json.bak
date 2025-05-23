@@ -3,7 +3,8 @@
   "ReplaceWinR": false,
   "CloseShellAfterPress": false,
   "LeaveShellOpen": false,
-  "RunAsAdministrator": true,
+  "RunAsAdministrator": false,
+  "UseWindowsTerminal": false,
   "ShowOnlyMostUsedCMDs": false,
   "ShowOnlyMostUsedCMDsNumber": 5,
   "CommandHistory": {
@@ -16,6 +17,7 @@
     "explorer C:\\users\\user\\rne-guide.pdf": 1,
     "chrome C:\\users\\user\\rne-guide.pdf": 2,
     "subl C:\\users\\user\\rne-guide.txt": 1,
-    "subl C:\\users\\user\\rne-guide.pdf": 2
+    "subl C:\\users\\user\\rne-guide.pdf": 2,
+    "winver": 1
   }
 }

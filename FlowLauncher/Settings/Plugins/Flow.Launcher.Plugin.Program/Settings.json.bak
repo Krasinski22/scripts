@@ -1,5 +1,5 @@
 {
-  "LastIndexTime": "2025-05-21T07:26:34.5788175-03:00",
+  "LastIndexTime": "2025-05-23T13:41:31.0145439-03:00",
   "ProgramSources": [],
   "DisabledProgramSources": [],
   "CustomSuffixes": [],
@@ -22,5 +22,6 @@
   "HideUninstallers": false,
   "EnableRegistrySource": true,
   "EnablePathSource": false,
-  "EnableUWP": true
+  "EnableUWP": true,
+  "HideDuplicatedWindowsApp": false
 }
