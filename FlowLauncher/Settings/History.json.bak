@@ -475,6 +475,234 @@
     {
       "Query": "shut",
       "ExecutedDateTime": "2025-05-21T00:55:27.4470209-03:00"
+    },
+    {
+      "Query": "shopee.com.br/user/purchase",
+      "ExecutedDateTime": "2025-05-21T10:37:19.2075614-03:00"
+    },
+    {
+      "Query": "shopee.com/user/purchase",
+      "ExecutedDateTime": "2025-05-21T10:50:38.2229668-03:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-05-21T10:50:49.3540542-03:00"
+    },
+    {
+      "Query": "set",
+      "ExecutedDateTime": "2025-05-21T10:50:52.5548674-03:00"
+    },
+    {
+      "Query": "b purc",
+      "ExecutedDateTime": "2025-05-21T10:51:23.5542309-03:00"
+    },
+    {
+      "Query": "jac",
+      "ExecutedDateTime": "2025-05-21T11:12:03.3197336-03:00"
+    },
+    {
+      "Query": "gl",
+      "ExecutedDateTime": "2025-05-21T11:44:00.5826813-03:00"
+    },
+    {
+      "Query": "psr",
+      "ExecutedDateTime": "2025-05-21T11:55:07.8585051-03:00"
+    },
+    {
+      "Query": "rem",
+      "ExecutedDateTime": "2025-05-21T11:56:30.5946929-03:00"
+    },
+    {
+      "Query": "remo",
+      "ExecutedDateTime": "2025-05-21T12:02:41.2070863-03:00"
+    },
+    {
+      "Query": "rem",
+      "ExecutedDateTime": "2025-05-21T12:08:31.2911378-03:00"
+    },
+    {
+      "Query": "wha",
+      "ExecutedDateTime": "2025-05-21T12:51:27.0134411-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-21T17:02:50.3681261-03:00"
+    },
+    {
+      "Query": "rest",
+      "ExecutedDateTime": "2025-05-21T17:06:49.3624458-03:00"
+    },
+    {
+      "Query": "ob",
+      "ExecutedDateTime": "2025-05-21T17:15:19.333501-03:00"
+    },
+    {
+      "Query": "f moonlightset",
+      "ExecutedDateTime": "2025-05-21T17:31:47.389793-03:00"
+    },
+    {
+      "Query": "kill warp",
+      "ExecutedDateTime": "2025-05-21T17:47:12.8163385-03:00"
+    },
+    {
+      "Query": "clo",
+      "ExecutedDateTime": "2025-05-21T17:47:28.2843996-03:00"
+    },
+    {
+      "Query": "serv",
+      "ExecutedDateTime": "2025-05-21T17:47:41.8977527-03:00"
+    },
+    {
+      "Query": "wha",
+      "ExecutedDateTime": "2025-05-21T17:59:37.612135-03:00"
+    },
+    {
+      "Query": "te",
+      "ExecutedDateTime": "2025-05-21T18:00:53.3623361-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-21T18:00:57.3919834-03:00"
+    },
+    {
+      "Query": "s power",
+      "ExecutedDateTime": "2025-05-21T20:24:05.8146254-03:00"
+    },
+    {
+      "Query": "ter",
+      "ExecutedDateTime": "2025-05-21T20:24:25.2907661-03:00"
+    },
+    {
+      "Query": "s power",
+      "ExecutedDateTime": "2025-05-21T20:26:00.4382108-03:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2025-05-21T20:29:44.1034185-03:00"
+    },
+    {
+      "Query": "s power",
+      "ExecutedDateTime": "2025-05-21T20:35:50.3085003-03:00"
+    },
+    {
+      "Query": "s performance",
+      "ExecutedDateTime": "2025-05-21T20:40:35.7860342-03:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2025-05-21T20:44:43.6579461-03:00"
+    },
+    {
+      "Query": "s power",
+      "ExecutedDateTime": "2025-05-21T20:46:37.223325-03:00"
+    },
+    {
+      "Query": "kee",
+      "ExecutedDateTime": "2025-05-21T21:51:05.1101742-03:00"
+    },
+    {
+      "Query": "qb",
+      "ExecutedDateTime": "2025-05-21T21:56:01.0745453-03:00"
+    },
+    {
+      "Query": "moonl",
+      "ExecutedDateTime": "2025-05-21T21:58:26.7847758-03:00"
+    },
+    {
+      "Query": "ev",
+      "ExecutedDateTime": "2025-05-21T22:05:51.7457536-03:00"
+    },
+    {
+      "Query": "eve",
+      "ExecutedDateTime": "2025-05-21T22:17:09.4339864-03:00"
+    },
+    {
+      "Query": "f rne pdf",
+      "ExecutedDateTime": "2025-05-21T22:34:08.1762689-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-21T23:33:44.8180246-03:00"
+    },
+    {
+      "Query": "qb",
+      "ExecutedDateTime": "2025-05-22T16:46:50.3633484-03:00"
+    },
+    {
+      "Query": "hw",
+      "ExecutedDateTime": "2025-05-22T17:42:37.3562835-03:00"
+    },
+    {
+      "Query": "f 2025-05-21.png",
+      "ExecutedDateTime": "2025-05-22T17:44:36.5853995-03:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2025-05-22T18:36:13.0231514-03:00"
+    },
+    {
+      "Query": "\u003E winver",
+      "ExecutedDateTime": "2025-05-22T18:42:01.3972539-03:00"
+    },
+    {
+      "Query": "ter",
+      "ExecutedDateTime": "2025-05-22T18:58:29.8670858-03:00"
+    },
+    {
+      "Query": "kill task",
+      "ExecutedDateTime": "2025-05-22T18:59:18.3474161-03:00"
+    },
+    {
+      "Query": "tas",
+      "ExecutedDateTime": "2025-05-22T18:59:53.1369399-03:00"
+    },
+    {
+      "Query": "ter",
+      "ExecutedDateTime": "2025-05-22T19:00:32.809084-03:00"
+    },
+    {
+      "Query": "eve",
+      "ExecutedDateTime": "2025-05-22T19:02:44.29279-03:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2025-05-22T19:09:35.2653742-03:00"
+    },
+    {
+      "Query": "jack",
+      "ExecutedDateTime": "2025-05-22T19:10:31.6290022-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-22T19:13:06.4676306-03:00"
+    },
+    {
+      "Query": "hiber",
+      "ExecutedDateTime": "2025-05-23T11:30:28.7224432-03:00"
+    },
+    {
+      "Query": "s blue",
+      "ExecutedDateTime": "2025-05-23T13:19:54.8421025-03:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-05-23T13:37:22.1094778-03:00"
+    },
+    {
+      "Query": "pm install Direct Translate",
+      "ExecutedDateTime": "2025-05-23T13:38:51.3225517-03:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-05-23T13:40:35.0767686-03:00"
+    },
+    {
+      "Query": "reload",
+      "ExecutedDateTime": "2025-05-23T13:41:27.0722865-03:00"
+    },
+    {
+      "Query": "pm install Google Translate",
+      "ExecutedDateTime": "2025-05-23T13:42:20.342303-03:00"
     }
   ]
 }
