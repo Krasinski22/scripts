@@ -441,7 +441,7 @@
 }
 .memory-widget .label {
     min-width: 34px;
-    max-width: 34px;
+    max-width: 80px;
 }
 .cpu-widget .label {
     min-width: 34px;
