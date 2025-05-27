@@ -86,7 +86,7 @@
 }
 .glazewm-workspaces .offline-status {
     color: rgb(205, 214, 244);
-    font-size: 12px;
+    font-size: 10px;
     padding: 0 4px;
     font-weight: 900;
 }
@@ -95,7 +95,8 @@
     background-color: var(--surface2);
     margin: 0px 4px;
     padding: 0;
-    color: rgba(0, 0, 0, 0);
+/*    color: rgba(0, 0, 0, 0); */
+    color: white;
     border-radius: 5px;
     height: 10px;
     width: 10px;
@@ -105,7 +106,8 @@
 }
 .glazewm-workspaces .ws-btn.active_populated,
 .glazewm-workspaces .ws-btn.active_empty {
-    color: rgba(0, 68, 255, 0);
+/*  color: rgba(0, 68, 255, 0);
+*/  color: black;
     background-color:var(--mauve);
     width: 28px;
     height: 10px;
