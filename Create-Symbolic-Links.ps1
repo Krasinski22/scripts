@@ -71,3 +71,4 @@ Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Preferences.su
 
 Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Package Control.sublime-settings" "$HOME\scripts\Package Control.sublime-settings"
 
+Safe-Symlink "$HOME\monitors.cfg" "$HOME\scripts\monitors.cfg"

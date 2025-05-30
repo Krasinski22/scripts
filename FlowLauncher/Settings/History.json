@@ -1155,6 +1155,50 @@
     {
       "Query": "shutd",
       "ExecutedDateTime": "2025-05-29T02:17:16.5969941-03:00"
+    },
+    {
+      "Query": "su",
+      "ExecutedDateTime": "2025-05-29T12:13:19.8944133-03:00"
+    },
+    {
+      "Query": "ter",
+      "ExecutedDateTime": "2025-05-29T12:17:49.3906396-03:00"
+    },
+    {
+      "Query": "kee",
+      "ExecutedDateTime": "2025-05-29T12:25:53.9210192-03:00"
+    },
+    {
+      "Query": "qb",
+      "ExecutedDateTime": "2025-05-29T16:46:18.5744592-03:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2025-05-29T16:47:13.9125379-03:00"
+    },
+    {
+      "Query": "relo",
+      "ExecutedDateTime": "2025-05-29T19:07:49.1069031-03:00"
+    },
+    {
+      "Query": "rip",
+      "ExecutedDateTime": "2025-05-29T19:07:58.014892-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-29T21:42:37.4762831-03:00"
+    },
+    {
+      "Query": "jell",
+      "ExecutedDateTime": "2025-05-29T21:44:22.1281723-03:00"
+    },
+    {
+      "Query": "das",
+      "ExecutedDateTime": "2025-05-29T22:33:40.5810607-03:00"
+    },
+    {
+      "Query": "shutd",
+      "ExecutedDateTime": "2025-05-30T00:10:45.8622019-03:00"
     }
   ]
 }
