@@ -138,13 +138,17 @@ keybindings:
   # browser chrome
   - commands: ['shell-exec C:\Program Files\Google\Chrome\Application\chrome.exe']
     bindings: ['alt+shift+b']
+
+  # monitor portatil
+  - commands: ['shell-exec %USERPROFILE%\scripts\monitor-portatil.bat']
+    bindings: ['alt+shift+m']
   
   # theme light
-  - commands: ['shell-exec C:\Users\user\scripts\windows-themes\light.deskthemepack']
+  - commands: ['shell-exec %USERPROFILE%\scripts\windows-themes\light.deskthemepack']
     bindings: ['alt+shift+t']
   
   # theme dark
-  - commands: ['shell-exec C:\Users\user\scripts\windows-themes\dark.deskthemepack']
+  - commands: ['shell-exec %USERPROFILE%\scripts\windows-themes\dark.deskthemepack']
     bindings: ['alt+shift+g']
 
   # Shift focus in a given direction.
