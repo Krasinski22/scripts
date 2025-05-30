@@ -1,0 +1,2 @@
+bookmarks brave
+"C:\Users\USER\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Bookmarks"
