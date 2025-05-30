@@ -1,0 +1,7 @@
+Itag	Resolução	Áudio	Container
+18	360p	Sim	MP4
+22	720p	Sim	MP4
+137	1080p	Não	MP4
+
+no mpv usar
+--ytdl-format=idtag
