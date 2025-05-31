@@ -1,82 +1,6 @@
 {
   "Items": [
     {
-      "Query": "sett",
-      "ExecutedDateTime": "2025-05-05T13:18:52.3974836-03:00"
-    },
-    {
-      "Query": "reload",
-      "ExecutedDateTime": "2025-05-05T13:19:53.8357186-03:00"
-    },
-    {
-      "Query": "empt",
-      "ExecutedDateTime": "2025-05-05T15:51:21.2420076-03:00"
-    },
-    {
-      "Query": "sub",
-      "ExecutedDateTime": "2025-05-05T17:22:43.5226563-03:00"
-    },
-    {
-      "Query": "s dis",
-      "ExecutedDateTime": "2025-05-05T18:17:12.7396579-03:00"
-    },
-    {
-      "Query": "s d",
-      "ExecutedDateTime": "2025-05-05T18:17:59.2602985-03:00"
-    },
-    {
-      "Query": "ro",
-      "ExecutedDateTime": "2025-05-05T18:39:09.5875933-03:00"
-    },
-    {
-      "Query": "emp",
-      "ExecutedDateTime": "2025-05-05T19:49:00.6291099-03:00"
-    },
-    {
-      "Query": "f dna",
-      "ExecutedDateTime": "2025-05-06T01:07:38.6164991-03:00"
-    },
-    {
-      "Query": "hi",
-      "ExecutedDateTime": "2025-05-06T03:03:28.0706877-03:00"
-    },
-    {
-      "Query": "tele",
-      "ExecutedDateTime": "2025-05-06T11:01:53.7700912-03:00"
-    },
-    {
-      "Query": "keep",
-      "ExecutedDateTime": "2025-05-06T18:40:30.774684-03:00"
-    },
-    {
-      "Query": "hiber",
-      "ExecutedDateTime": "2025-05-06T20:55:10.9020084-03:00"
-    },
-    {
-      "Query": "f input.conf",
-      "ExecutedDateTime": "2025-05-07T02:02:57.1305108-03:00"
-    },
-    {
-      "Query": "f mpv.conf",
-      "ExecutedDateTime": "2025-05-07T02:50:54.3485564-03:00"
-    },
-    {
-      "Query": "hiber",
-      "ExecutedDateTime": "2025-05-07T04:45:06.7396196-03:00"
-    },
-    {
-      "Query": "s mouse",
-      "ExecutedDateTime": "2025-05-07T12:28:20.8662354-03:00"
-    },
-    {
-      "Query": "f monika",
-      "ExecutedDateTime": "2025-05-07T12:28:39.4531876-03:00"
-    },
-    {
-      "Query": "D:\\OneDrive\\configs\\Monika After Story\\",
-      "ExecutedDateTime": "2025-05-07T12:28:40.408066-03:00"
-    },
-    {
       "Query": "kill glaz",
       "ExecutedDateTime": "2025-05-07T14:05:17.7486527-03:00"
     },
@@ -1199,6 +1123,82 @@
     {
       "Query": "shutd",
       "ExecutedDateTime": "2025-05-30T00:10:45.8622019-03:00"
+    },
+    {
+      "Query": "yasb",
+      "ExecutedDateTime": "2025-05-30T10:51:32.772075-03:00"
+    },
+    {
+      "Query": "ripc",
+      "ExecutedDateTime": "2025-05-30T10:54:14.6754241-03:00"
+    },
+    {
+      "Query": "ter",
+      "ExecutedDateTime": "2025-05-30T10:56:43.9764918-03:00"
+    },
+    {
+      "Query": "qb",
+      "ExecutedDateTime": "2025-05-30T11:01:48.2423824-03:00"
+    },
+    {
+      "Query": "s displ",
+      "ExecutedDateTime": "2025-05-30T11:09:22.465369-03:00"
+    },
+    {
+      "Query": "s path",
+      "ExecutedDateTime": "2025-05-30T11:10:51.4023135-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-05-30T11:16:20.1961452-03:00"
+    },
+    {
+      "Query": "s theme",
+      "ExecutedDateTime": "2025-05-30T12:08:22.2864855-03:00"
+    },
+    {
+      "Query": "brave",
+      "ExecutedDateTime": "2025-05-30T12:09:39.0022914-03:00"
+    },
+    {
+      "Query": "f brave-browser",
+      "ExecutedDateTime": "2025-05-30T12:13:34.5970319-03:00"
+    },
+    {
+      "Query": "f C:\\Users\\USER\\AppData\\Local\\BraveSoftware\\Brave-Browser\\",
+      "ExecutedDateTime": "2025-05-30T12:13:36.0609735-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-05-30T12:14:46.7454733-03:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2025-05-30T12:29:17.4285361-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-05-30T13:36:25.29855-03:00"
+    },
+    {
+      "Query": "hiber",
+      "ExecutedDateTime": "2025-05-30T21:52:31.5363754-03:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2025-05-30T21:53:51.9962598-03:00"
+    },
+    {
+      "Query": "kill",
+      "ExecutedDateTime": "2025-05-30T21:54:05.7815039-03:00"
+    },
+    {
+      "Query": "kill gla",
+      "ExecutedDateTime": "2025-05-30T21:54:11.3375552-03:00"
+    },
+    {
+      "Query": "kill yas",
+      "ExecutedDateTime": "2025-05-30T21:54:55.7395681-03:00"
     }
   ]
 }
