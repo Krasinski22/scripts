@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"MarkdownLivePreview",
-		"Quick File Move",
+		"PowerShell"
 	],
 }
