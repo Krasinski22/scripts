@@ -8,3 +8,7 @@ picom
 scripts e links simbolicos
 i3lockfancy
 pacote jq para usar atalhos tipo o glazewm
+
+
+appimaged - bom para integrar appimages na pasta ~/Applications
+
