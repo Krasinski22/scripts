@@ -42,7 +42,7 @@ floating_modifier $mod
 tiling_drag modifier titlebar
 
 # start a terminal
-bindsym $mod+Return exec wezterm
+bindsym $mod+Return exec kitty
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -86,12 +86,12 @@ bindsym $mod+h split h
 bindsym $mod+v split v
 
 # enter fullscreen mode for the focused container
-bindsym $mod+f fullscreen toggle
+# bindsym $mod+f fullscreen toggle
 
 # change container layout (stacked, tabbed, toggle split)
 # bindsym $mod+s layout stacking
-bindsym $mod+w layout tabbed
-bindsym $mod+e layout toggle split
+# bindsym $mod+w layout tabbed
+# bindsym $mod+e layout toggle split
 
 # toggle tiling / floating
 bindsym $mod+Shift+space floating toggle
@@ -144,8 +144,10 @@ bindsym $mod+Shift+0 move container to workspace number $ws10
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
+
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
 bindsym $mod+Shift+r restart
+
 # exit i3 (logs you out of your X session)
 bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
 
@@ -190,13 +192,13 @@ bindsym Print exec --no-startup-id flameshot gui
 exec --no-startup-id /usr/bin/polybar
 
 # scale
-exec --no-startup-id xrandr --output HDMI-0 --scale 0.7x0.7
+# exec --no-startup-id xrandr --output HDMI-0 --scale 0.7x0.7
 
 # rofi
 bindsym ctrl+space exec rofi -show drun
 
 # browser
-bindsym $mod+Shift+b exec --no-startup-id google-chrome
+bindsym $mod+Shift+b exec --no-startup-id brave-browser
 
 # wallpaper
 exec --no-startup-id feh --bg-scale /home/user/scripts/images/dark/amadeus.jpg
@@ -204,8 +206,8 @@ exec --no-startup-id feh --bg-scale /home/user/scripts/images/dark/amadeus.jpg
 # compositor
 exec --no-startup-id sleep 3 && picom --config ~/.config/picom/picom.conf
 
-# syncthing
-exec --no-startup-id syncthing --no-browser
+# syncthingtray
+exec --no-startup-id syncthingtray --no-browser
 
 # nemo
 bindsym Mod4+e exec --no-startup-id nemo
