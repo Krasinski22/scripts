@@ -4,3 +4,7 @@ copiar com:
 rsync --partial --append-verify --progress -avz origem destino
 
 
+
+
+
+
