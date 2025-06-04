@@ -1,4 +1,3 @@
-
 copiar arquivos do onedrive (principalmente os grandes):
 montar com rclone mount
 copiar com:
