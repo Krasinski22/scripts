@@ -1,0 +1,9 @@
+software:
+i3wm
+fish
+ohmyfish
+picom
+i3lockfancy
+jq
+appimaged - daemon bom para integrar appimages na pasta ~/Applications
+

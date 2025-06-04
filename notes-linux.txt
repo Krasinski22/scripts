@@ -1,0 +1,6 @@
+copiar arquivos do onedrive (principalmente os grandes):
+montar com rclone mount
+copiar com:
+rsync --partial --append-verify --progress -avz origem destino
+
+
