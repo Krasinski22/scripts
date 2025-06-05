@@ -13,3 +13,6 @@ se o rofi ficar muito pequeno (ao usar display scaling):
 -dpi 1
 
 
+o MPR é o AUR dos sistemas Ubuntu
+
+
