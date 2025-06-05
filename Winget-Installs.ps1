@@ -34,7 +34,8 @@ $apps = @(
     "voidtools.Everything",
     "gnu.wget2",
     "CrystalDewWorld.CrystalDiskInfo.KureiKeiEdition",
-    "Rclone.Rclone"
+    "Rclone.Rclone",
+    "Ventoy.Ventoy"
 )
 
 foreach ($app in $apps) {

@@ -63,12 +63,14 @@ Safe-Symlink "$HOME\.wezterm.lua" "$HOME\scripts\wezterm\wezterm-windows.lua"
 Safe-Symlink "$HOME\AppData\Roaming\DS4Windows" "$HOME\scripts\ds4windows"
 
 
-Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Default (Windows).sublime-keymap" "$HOME\scripts\sublime-keymap.sublime-keymap"
+#Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Default (Windows).sublime-keymap" "$HOME\scripts\sublime-keymap.sublime-keymap"
 
-Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\PowerShell.sublime-settings" "$HOME\scripts\Sublime-PowerShell.sublime-settings"
+#Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\PowerShell.sublime-settings" "$HOME\scripts\Sublime-PowerShell.sublime-settings"
 
-Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Preferences.sublime-settings" "$HOME\scripts\Preferences.sublime-settings"
+#Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Preferences.sublime-settings" "$HOME\scripts\Preferences.sublime-settings"
 
-Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Package Control.sublime-settings" "$HOME\scripts\Package Control.sublime-settings"
+#Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Package Control.sublime-settings" "$HOME\scripts\Package Control.sublime-settings"
+
+Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\User\" "$HOME\scripts\sublime\User"
 
 Safe-Symlink "$HOME\monitors.cfg" "$HOME\scripts\monitors.cfg"
