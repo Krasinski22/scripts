@@ -28,4 +28,8 @@ ln -sf "$HOME/scripts/i3status" "$HOME/.config/i3status"
 rm -rf "$HOME/.config/i3blocks"
 ln -sf "$HOME/scripts/i3blocks" "$HOME/.config/i3blocks"
 
+rm -rf "$HOME/.icons"
 ln -sf "$HOME/scripts/.icons" "$HOME/.icons"
+
+rm -rf "$HOME/.nanorc"
+ln -sf "$HOME/scripts/.nanorc" "$HOME/.nanorc"
