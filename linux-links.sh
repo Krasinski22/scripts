@@ -27,6 +27,11 @@ ln -sf "$USER_HOME/scripts/keepassxc" "$USER_HOME/.config/keepassxc"
 rm -rf "$USER_HOME/.config/kitty"
 ln -sf "$USER_HOME/scripts/kitty" "$USER_HOME/.config/kitty"
 
+
+
+rm -rf "$USER_HOME/.config/Thunar"
+ln -sf "$USER_HOME/scripts/Thunar" "$USER_HOME/.config/Thunar"
+
 rm -rf "$USER_HOME/.config/xfce4/"
 ln -sf "$USER_HOME/scripts/xfce4" "$USER_HOME/.config/xfce4"
 
