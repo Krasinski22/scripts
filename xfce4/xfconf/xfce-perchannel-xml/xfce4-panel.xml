@@ -80,6 +80,7 @@
     </property>
     <property name="plugin-9" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="known-players" type="string" value="firefox"/>
     </property>
     <property name="plugin-8" type="string" value="whiskermenu">
       <property name="button-icon" type="string" value="/usr/share/icons/whiskermenu-manjaro.svg"/>
@@ -94,16 +95,16 @@
         <value type="string" value="xfce4-mail-reader.desktop"/>
       </property>
       <property name="recent" type="array">
-        <value type="string" value="org.wezfurlong.wezterm.desktop"/>
+        <value type="string" value="rofi.desktop"/>
+        <value type="string" value="xfce-keyboard-settings.desktop"/>
+        <value type="string" value="rofi-theme-selector.desktop"/>
+        <value type="string" value="io.github.cboxdoerfer.FSearch.desktop"/>
         <value type="string" value="firefox.desktop"/>
+        <value type="string" value="org.wezfurlong.wezterm.desktop"/>
         <value type="string" value="xfce-display-settings.desktop"/>
         <value type="string" value="xfce-ui-settings.desktop"/>
         <value type="string" value="appimagekit_2244ba14dc461932e8da4dc3d99b2ccd.desktop"/>
         <value type="string" value="xfce4-settings-editor.desktop"/>
-        <value type="string" value="xfce4-terminal.desktop"/>
-        <value type="string" value="xfce-mouse-settings.desktop"/>
-        <value type="string" value="xfce-keyboard-settings.desktop"/>
-        <value type="string" value="org.xfce.mousepad.desktop"/>
       </property>
     </property>
     <property name="plugin-5" type="string" value="clock"/>
