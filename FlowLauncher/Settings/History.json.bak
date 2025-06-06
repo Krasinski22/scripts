@@ -1,42 +1,6 @@
 {
   "Items": [
     {
-      "Query": "sub",
-      "ExecutedDateTime": "2025-05-13T22:25:42.6182483-03:00"
-    },
-    {
-      "Query": "hib",
-      "ExecutedDateTime": "2025-05-14T01:33:48.1693668-03:00"
-    },
-    {
-      "Query": "tele",
-      "ExecutedDateTime": "2025-05-14T21:10:56.9547369-03:00"
-    },
-    {
-      "Query": "kill jell",
-      "ExecutedDateTime": "2025-05-14T23:20:29.7597039-03:00"
-    },
-    {
-      "Query": "kill jel",
-      "ExecutedDateTime": "2025-05-14T23:20:37.3517245-03:00"
-    },
-    {
-      "Query": "jell",
-      "ExecutedDateTime": "2025-05-14T23:21:09.5013635-03:00"
-    },
-    {
-      "Query": "res",
-      "ExecutedDateTime": "2025-05-15T00:03:12.5077213-03:00"
-    },
-    {
-      "Query": "hiber",
-      "ExecutedDateTime": "2025-05-15T00:30:01.4423674-03:00"
-    },
-    {
-      "Query": "qb",
-      "ExecutedDateTime": "2025-05-15T09:29:40.9031816-03:00"
-    },
-    {
       "Query": "tele",
       "ExecutedDateTime": "2025-05-15T14:41:32.4308395-03:00"
     },
@@ -1203,6 +1167,42 @@
     {
       "Query": "restar",
       "ExecutedDateTime": "2025-06-05T16:09:41.0149703-03:00"
+    },
+    {
+      "Query": "telegra",
+      "ExecutedDateTime": "2025-06-05T21:38:02.6982626-03:00"
+    },
+    {
+      "Query": "mana",
+      "ExecutedDateTime": "2025-06-05T21:54:09.211509-03:00"
+    },
+    {
+      "Query": "rest",
+      "ExecutedDateTime": "2025-06-05T21:55:01.7048727-03:00"
+    },
+    {
+      "Query": "yasb",
+      "ExecutedDateTime": "2025-06-05T21:58:04.4208718-03:00"
+    },
+    {
+      "Query": "kill yasb",
+      "ExecutedDateTime": "2025-06-05T21:58:35.2743019-03:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2025-06-05T21:59:48.2844615-03:00"
+    },
+    {
+      "Query": "f ventoy",
+      "ExecutedDateTime": "2025-06-05T22:35:59.6700335-03:00"
+    },
+    {
+      "Query": "jell",
+      "ExecutedDateTime": "2025-06-05T22:42:08.4142073-03:00"
+    },
+    {
+      "Query": "rest",
+      "ExecutedDateTime": "2025-06-05T23:03:39.6723632-03:00"
     }
   ]
 }
