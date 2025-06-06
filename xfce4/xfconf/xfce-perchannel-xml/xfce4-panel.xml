@@ -59,6 +59,7 @@
       </property>
       <property name="show-frame" type="bool" value="false"/>
       <property name="known-items" type="array">
+        <value type="string" value="Syncthing Tray"/>
         <value type="string" value="blueman"/>
         <value type="string" value="zero-trust-client"/>
       </property>
@@ -91,14 +92,15 @@
         <value type="string" value="xfce4-mail-reader.desktop"/>
       </property>
       <property name="recent" type="array">
+        <value type="string" value="xfce-display-settings.desktop"/>
         <value type="string" value="xfce-keyboard-settings.desktop"/>
+        <value type="string" value="org.xfce.mousepad.desktop"/>
+        <value type="string" value="syncthingtray.desktop"/>
         <value type="string" value="xfce4-mime-settings.desktop"/>
-        <value type="string" value="appimagekit_b48e636f2c8baddeab8efaf32af21119.desktop"/>
         <value type="string" value="xfce-mouse-settings.desktop"/>
         <value type="string" value="xfce4-terminal.desktop"/>
         <value type="string" value="firefox.desktop"/>
         <value type="string" value="xfce-wm-settings.desktop"/>
-        <value type="string" value="xfce-display-settings.desktop"/>
       </property>
     </property>
     <property name="plugin-5" type="string" value="clock"/>

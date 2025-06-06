@@ -55,7 +55,7 @@
       <property name="&lt;Primary&gt;&lt;Shift&gt;Print" type="string" value="xfce4-screenshooter -r"/>
       <property name="Super_L" type="string" value="xfce4-popup-whiskermenu"/>
       <property name="&lt;Super&gt;e" type="string" value="thunar"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;t" type="string" value="/home/user/Applications/WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;t" type="string" value="wezterm"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
