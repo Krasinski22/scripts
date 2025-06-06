@@ -15,8 +15,8 @@
       <property name="Primary" type="bool" value="false"/>
       <property name="Scale" type="double" value="1"/>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="1080"/>
-        <property name="Y" type="int" value="840"/>
+        <property name="X" type="int" value="1920"/>
+        <property name="Y" type="int" value="0"/>
       </property>
     </property>
     <property name="HDMI-1" type="string" value="GWD 16&quot;">
@@ -24,7 +24,7 @@
       <property name="EDID" type="string" value="4f05228b602c212644717d9d5092e5db95a08405"/>
       <property name="Resolution" type="string" value="1920x1080"/>
       <property name="RefreshRate" type="double" value="60"/>
-      <property name="Rotation" type="int" value="90"/>
+      <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>
       <property name="Scale" type="double" value="1"/>

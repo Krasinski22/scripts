@@ -27,16 +27,16 @@ configs:
       row: 0
       col: 0
     "/":
-      row: 1
-      col: 0
+      row: 0
+      col: 1
     "trash:///":
-      row: 2
-      col: 0
+      row: 0
+      col: 2
     "3A423F61423F20D5":
-      row: 3
-      col: 0
-      last_seen: 1749231833999184
+      row: 0
+      col: 3
+      last_seen: 1749236718539087
     "C62AB57B2AB568D7":
-      row: 4
-      col: 0
-      last_seen: 1749231834002235
+      row: 0
+      col: 4
+      last_seen: 1749236718541549

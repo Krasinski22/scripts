@@ -4,12 +4,11 @@ local config = {}
 
 -- Definindo o shell padrão (altere para o seu shell preferido)
 -- Exemplo para Zsh:
-config.default_prog = { '/usr/bin/zsh' }
+-- config.default_prog = { '/usr/bin/zsh' }
 -- Se usar Bash:
 -- config.default_prog = { '/usr/bin/bash' }
 -- Se usar Fish (com modo login):
--- config.default_prog = { '/usr/local/bin/fish', '-l' }
-
+config.default_prog = { '/usr/bin/fish', '-l' }
 -- Definindo o tom de azul petróleo suave e opacidade
 config.window_background_opacity = 0.85
 config.text_background_opacity = 0.8
