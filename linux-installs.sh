@@ -78,8 +78,7 @@ elif [ "$OS" == "arch_manjaro" ]; then
         brave-browser \
         git \
 	qbittorrent \
-	keepassxc
-
+	keepassxc 
     # Sublime Text is often installed manually or via AUR, uncomment if you have an AUR helper
     # yay -S --noconfirm sublime-text
 
@@ -87,7 +86,8 @@ elif [ "$OS" == "arch_manjaro" ]; then
     yay -S --noconfirm \
         cloudflare-warp-bin \
         fsearch \
-        qdirstat
+        qdirstat \
+	sublime-text-4
 fi
 
 echo "Package installation complete!"

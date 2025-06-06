@@ -1,0 +1,5 @@
+se nao conseguir aplicar temas, execute o xfce4-settings-manager pelo terminal
+se for problema de permissao, deve ser na pasta .config
+execute:
+
+sudo chown -R user:user ~/.config
