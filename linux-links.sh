@@ -43,6 +43,9 @@ ln -sf "$USER_HOME/scripts/.icons" "$USER_HOME/.icons"
 rm -rf "$USER_HOME/.nanorc"
 ln -sf "$USER_HOME/scripts/.nanorc" "$USER_HOME/.nanorc"
 
+rm -rf "$USER_HOME/.wezterm.lua"
+ln -sf "$USER_HOME/scripts/.wezterm.lua" "$USER_HOME/.wezterm.lua"
+
 rm -rf "$USER_HOME/.bashrc"
 ln -sf "$USER_HOME/scripts/.bashrc" "$USER_HOME/.bashrc"
 
