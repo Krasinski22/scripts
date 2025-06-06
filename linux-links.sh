@@ -22,12 +22,6 @@ rm -rf "$HOME/.config/sublime-text/Packages/User"
 mkdir -p "$HOME/.config/sublime-text/Packages"
 ln -sf "$HOME/scripts/sublime/User" "$HOME/.config/sublime-text/Packages/User"
 
-rm -rf "$HOME/.config/i3status"
-ln -sf "$HOME/scripts/i3status" "$HOME/.config/i3status"
-
-rm -rf "$HOME/.config/i3blocks"
-ln -sf "$HOME/scripts/i3blocks" "$HOME/.config/i3blocks"
-
 rm -rf "$HOME/.icons"
 ln -sf "$HOME/scripts/.icons" "$HOME/.icons"
 
