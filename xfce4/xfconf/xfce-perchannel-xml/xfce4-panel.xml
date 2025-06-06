@@ -93,11 +93,11 @@
         <value type="string" value="xfce4-mail-reader.desktop"/>
       </property>
       <property name="recent" type="array">
+        <value type="string" value="xfce-ui-settings.desktop"/>
+        <value type="string" value="xfce-mouse-settings.desktop"/>
         <value type="string" value="xfce4-terminal.desktop"/>
         <value type="string" value="firefox.desktop"/>
-        <value type="string" value="xfce-ui-settings.desktop"/>
         <value type="string" value="xfce-display-settings.desktop"/>
-        <value type="string" value="xfce-mouse-settings.desktop"/>
         <value type="string" value="xfce-keyboard-settings.desktop"/>
         <value type="string" value="org.wezfurlong.wezterm.desktop"/>
         <value type="string" value="org.xfce.mousepad.desktop"/>
