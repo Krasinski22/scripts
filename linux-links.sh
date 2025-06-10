@@ -33,6 +33,8 @@ ln -sf "$USER_HOME/scripts/Thunar" "$USER_HOME/.config/Thunar"
 rm -rf "$USER_HOME/.config/xfce4/"
 ln -sf "$USER_HOME/scripts/xfce4/" "$USER_HOME/.config/xfce4"
 
+ln -sf "$USER_HOME/scripts/hypr" "$USER_HOME/.config/hypr"
+
 rm -rf "$USER_HOME/.config/sublime-text/Packages/User"
 mkdir -p "$USER_HOME/.config/sublime-text/Packages"
 ln -sf "$USER_HOME/scripts/sublime/User" "$USER_HOME/.config/sublime-text/Packages/User"
