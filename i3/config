@@ -1,3 +1,9 @@
+# polybar
+#exec --no-startup-id sleep 1 && /usr/bin/polybar
+# exec_always --no-startup-id killall -q polybar && sleep 3
+# exec /usr/bin/polybar
+exec_always --no-startup-id killall -q polybar && sleep 1 && /usr/bin/polybar
+
 # bluetooth
 # exec --no-startup-id bluetoothctl connect 60:F4:3A:A2:41:0F
 
@@ -187,18 +193,16 @@ bindsym $mod+s exec --no-startup-id ~/.config/i3/workspace_switch.sh 1
 bindsym Print exec --no-startup-id flameshot gui
 
 
-# polybar
-#exec --no-startup-id sleep 1 && /usr/bin/polybar
-exec --no-startup-id /usr/bin/polybar
+
 
 # scale
 # exec --no-startup-id xrandr --output HDMI-0 --scale 0.7x0.7
 
 # rofi
-bindsym ctrl+space exec rofi -show drun
+bindsym $mod+d exec "rofi -show drun"
 
 # browser
-bindsym $mod+Shift+b exec --no-startup-id brave-browser
+bindsym $mod+Shift+b exec --no-startup-id firefox
 
 # wallpaper
 exec --no-startup-id feh --bg-scale /home/user/scripts/images/dark/amadeus.jpg
@@ -223,3 +227,6 @@ bindsym Ctrl+Mod1+Shift+r exec --no-startup-id systemctl reboot
 
 # suspend
 bindsym Ctrl+Mod1+Shift+d exec --no-startup-id systemctl suspend
+
+# monitores
+exec_always --no-startup-id xrandr --output eDP-1 --right-of HDMI-1
