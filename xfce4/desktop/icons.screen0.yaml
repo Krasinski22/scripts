@@ -50,6 +50,9 @@ configs:
     "/home/user/Desktop/Chicago95.rasi":
       row: 3
       col: 0
+    "/home/user/Desktop/galego?.png":
+      row: 0
+      col: 0
     "/home/user/Desktop/steam.desktop":
       row: 4
       col: 0

@@ -59,6 +59,7 @@
       </property>
       <property name="show-frame" type="bool" value="false"/>
       <property name="known-items" type="array">
+        <value type="string" value="Syncthing Tray"/>
         <value type="string" value="steam"/>
         <value type="string" value="blueman"/>
         <value type="string" value="zero-trust-client"/>
@@ -78,7 +79,7 @@
     </property>
     <property name="plugin-9" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="known-players" type="string" value="firefox"/>
+      <property name="known-players" type="string" value="Brave;firefox"/>
     </property>
     <property name="plugin-8" type="string" value="whiskermenu">
       <property name="button-icon" type="string" value="/usr/share/icons/whiskermenu-manjaro.svg"/>
