@@ -59,6 +59,8 @@
       </property>
       <property name="show-frame" type="bool" value="false"/>
       <property name="known-items" type="array">
+        <value type="string" value="KeePassXC"/>
+        <value type="string" value="qBittorrent"/>
         <value type="string" value="Syncthing Tray"/>
         <value type="string" value="steam"/>
         <value type="string" value="blueman"/>
