@@ -1,2 +1,0 @@
-usar:
-sudo echo "active-monitor=1" >> /etc/lightdm/lightdm-gtk-greeter.conf

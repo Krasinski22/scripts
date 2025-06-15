@@ -1,2 +1,0 @@
-compilar algo do 0
-usar o wine para rodar algo do windows
