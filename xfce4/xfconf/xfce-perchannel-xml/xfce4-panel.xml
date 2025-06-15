@@ -67,6 +67,7 @@
         <value type="string" value="zero-trust-client"/>
       </property>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="conexão de rede ethernet “conexão cabeada 1” ativa"/>
         <value type="string" value="xfce4-power-manager"/>
         <value type="string" value="pamac-tray"/>
         <value type="string" value="miniaplicativo gerenciador de redes"/>
@@ -81,7 +82,7 @@
     </property>
     <property name="plugin-9" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="known-players" type="string" value="Brave;firefox"/>
+      <property name="known-players" type="string" value="Brave;firefox;Thorium"/>
     </property>
     <property name="plugin-8" type="string" value="whiskermenu">
       <property name="button-icon" type="string" value="/usr/share/icons/whiskermenu-manjaro.svg"/>

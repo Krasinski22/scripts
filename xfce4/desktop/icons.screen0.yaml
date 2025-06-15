@@ -4,10 +4,39 @@
 configs:
 - level: 1
   monitors:
+  - id: "b687345765f09edbeed6ebd4c986e2873bba0254"
+    display_name: "PNP(GWD) ARZOPA 000000000000 (DP-1)"
+    geometry:
+      x: 0
+      y: 0
+      width: 1920
+      height: 1080
+  icons:
+    "/home/user":
+      row: 0
+      col: 0
+    "/":
+      row: 1
+      col: 0
+    "trash:///":
+      row: 2
+      col: 0
+    "/home/user/Desktop/galego?.png":
+      row: 3
+      col: 0
+- level: 1
+  monitors:
   - id: "f7391c9fe68d5cbe4459898ff59582edd76299ce"
     display_name: "PNP(GWD) ARZOPA 54\\x9d\\x96\\x18\\xcePS0000 (HDMI-1)"
     geometry:
       x: 1920
+      y: 0
+      width: 1920
+      height: 1080
+  - id: "b687345765f09edbeed6ebd4c986e2873bba0254"
+    display_name: "PNP(GWD) ARZOPA 000000000000 (DP-1)"
+    geometry:
+      x: 0
       y: 0
       width: 1920
       height: 1080
