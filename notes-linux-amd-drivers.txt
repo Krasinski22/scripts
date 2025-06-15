@@ -1,0 +1,8 @@
+Drivers AMD no Linux
+Existem 2 pares:
+
+Open source: AMDGPU (base) + RADV (Vulkan)
+
+Closed source: AMDGPU-PRO (base) + AMDVLK Closed (Vulkan)
+
+AMDGPU é obrigatório. RADV ou AMDVLK são complementares para apps Vulkan.
