@@ -1,27 +1,10 @@
-# polybar
-# exec_always --no-startup-id sleep 1 && /usr/bin/polybar
-# exec_always --no-startup-id killall -q polybar # && sleep 3
-# exec_always --no-startup-id pkill polybar
-# exec_always --no-startup-id /usr/bin/polybar
-# exec_always --no-startup-id killall -q polybar && sleep 1 && /usr/bin/polybar
-# exec_always --no-startup-id pkill polybar
-exec_always --no-startup-id ~/scripts/i3/start_polybar.sh
-
-# bluetooth
-# exec --no-startup-id bluetoothctl connect 60:F4:3A:A2:41:0F
-
-# teclado br
-# exec --no-startup-id setxkbmap -layout us -variant intl
-
 set $mod Mod1
 
-# Font for window titles. Will also be used by the bar unless a different font
-# is used in the bar {} block below.
-font pango:monospace 12
+font pango:monospace 12 # Font for window titles
 
-# This font is widely installed, provides lots of unicode glyphs, right-to-left
-# text rendering and scalability on retina/hidpi displays (thanks to pango).
-#font pango:DejaVu Sans Mono 10
+exec_always --no-startup-id ~/scripts/i3/start_polybar.sh
+
+font pango:DejaVu Sans Mono 10
 
 # Start XDG autostart .desktop files using dex. See also
 # https://wiki.archlinux.org/index.php/XDG_Autostart
@@ -209,16 +192,16 @@ bindsym $mod+d exec "rofi -show drun"
 bindsym $mod+Shift+b exec --no-startup-id google-chrome-stable
 
 # wallpaper
-exec --no-startup-id feh --bg-scale /home/user/scripts/images/dark/amadeus.jpg
+exec_always --no-startup-id feh --bg-scale /home/user/wallpapers/dark/amadeus.jpg
 
 # compositor
-exec --no-startup-id sleep 3 && picom --config ~/.config/picom/picom.conf
+#exec --no-startup-id sleep 3 && picom --config ~/.config/picom/picom.conf
+# exec --no-startup-id picom --config ~/.config/picom/picom.conf
+exec_always --no-startup-id picom
 
-# syncthingtray
-exec --no-startup-id syncthingtray --no-browser
+# thunar
+bindsym Mod4+e exec --no-startup-id thunar
 
-# nemo
-bindsym Mod4+e exec --no-startup-id nemo
 
 # shutdown
 bindsym Ctrl+Mod1+Shift+s exec --no-startup-id systemctl poweroff
@@ -241,3 +224,14 @@ bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl set +5%
 
 # Diminui o brilho em 5%
 bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl set 5%-
+
+
+
+
+
+# bluetooth
+# exec --no-startup-id bluetoothctl connect 60:F4:3A:A2:41:0F
+# teclado br
+# exec --no-startup-id setxkbmap -layout us -variant intl
+# syncthing
+# exec_always --no-startup-id syncthing --no-browser
