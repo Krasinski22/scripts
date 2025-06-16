@@ -18,9 +18,6 @@ configs:
     "/":
       row: 1
       col: 0
-    "trash:///":
-      row: 2
-      col: 0
     "/home/user/Desktop/galego?.png":
       row: 3
       col: 0
@@ -65,8 +62,8 @@ configs:
       row: 1
       col: 0
     "trash:///":
-      row: 2
-      col: 0
+      row: 0
+      col: 1
     "/home/user/Desktop/Chicago95.rasi":
       row: 3
       col: 0

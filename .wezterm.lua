@@ -15,7 +15,7 @@ config.text_background_opacity = 0.8
 
 -- Outras configurações
 -- config.font = wezterm.font("Fira Code") -- Descomente para usar Fira Code
-config.font_size = 11.5
+config.font_size = 20
 
 config.color_scheme = "Catppuccin Mocha"
 
