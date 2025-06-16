@@ -235,4 +235,9 @@ bindsym Ctrl+Mod1+Shift+d exec --no-startup-id systemctl suspend
 # monitores
 exec_always --no-startup-id xrandr --output eDP-1 --right-of HDMI-1
 
-exec_always --no-startup-id polybar
+# Brilho da tela
+# Aumenta o brilho em 5%
+bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl set +5%
+
+# Diminui o brilho em 5%
+bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl set 5%-
