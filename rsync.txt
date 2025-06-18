@@ -1,0 +1,2 @@
+usar --append e --partial para continuar download interrompido
+

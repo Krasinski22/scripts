@@ -1,0 +1,18 @@
+copiar arquivos do onedrive (principalmente os grandes):
+montar com rclone mount
+copiar com:
+rsync --partial --append-verify --progress -avz origem destino
+
+jackett
+systemctl start jackett.service
+systemctl stop jackett.service
+systemctl status jackett.service
+
+
+se o rofi ficar muito pequeno (ao usar display scaling):
+-dpi 1
+
+
+o MPR é o AUR dos sistemas Ubuntu
+
+

@@ -1,0 +1,27 @@
+pacotes linux
+
+para jogos:
+  intel: 
+  vulkan-intel
+  lib-32-vulkan-intel (para 32 bits)
+  
+  nvidia:
+  nvidia-utils
+  lib32-nvidia-utils (para 32 bits)
+  
+  amd: exitem três implementações, todas podem ser instaladas
+  1. vulkan-radeon
+     lib32-vuulkan-radeon
+     // ambos RADV (parte do projeto mesa)
+  2. AMDVLK Open (mantido pela AMD)
+  amdvlk
+  lib32-amdvlk
+
+  3. AMDVLK Closed (fechado, mantido pela AMD)
+  vulkan-amdgpu-pro
+  lib32-vulkan-amdgpu-pro
+
+  Software rasterizers (for devices that do not provide Vulkan support):
+  Lavapipe: vulkan-swrast (or lib32-vulkan-swrast)
+  SwiftShader: swiftshader-gitAUR
+

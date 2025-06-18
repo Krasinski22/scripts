@@ -1,0 +1,6 @@
+em vez de senha, fornecer o token
+
+para salvar credenciais e não precisar digitar sempre:
+git config --global credential.helper store
+
+

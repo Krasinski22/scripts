@@ -1,0 +1,7 @@
+daemon:
+sudo systemctl status warp-svc 
+sudo systemctl start warp-svc 
+
+autostart:
+sudo systemctl enable warp-svc
+

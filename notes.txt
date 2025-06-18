@@ -1,0 +1,84 @@
+# continue interrupted download
+wget link -c
+
+curl -C - -O link
+
+
+
+Comparação de Nomenclatura
+Ferramenta	Parâmetro	Nome por Extenso	Origem do Nome
+curl	-c	--cookie-jar	"Cookie" ou "Collect"
+curl	-b	--cookie	"Biscuit" ou "Bearer"
+curl	-j	--junk-session-cookies	"Junk" (descartar lixo)
+wget	--save-cookies	-	Ação direta ("salvar cookies")
+wget	--load-cookies	-	Ação direta ("carregar cookies")
+
+
+
+C:\Windows\Resources\Themes
+
+
+
+powershell - add to path all files in text files
+cat .\Paths.ps1 | foreach { .\Add-Path.ps1 $_ }
+
+#adicioando à path a partir de um arquivo
+.\Add-Path.ps1 (cat Paths.txt)
+poi 22
+poi 23
+
+curl -L -C - -O "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/Obsidian-1.8.10.exe"
+curl -L -C - -O ""
+
+link simbolico, powershell bash
+ln -s /caminho/original /caminho/do/link
+New-Item -ItemType SymbolicLink -Path "link" -Target "original"
+
+teclado americano linux
+sudo dpkg-reconfigure keyboard-configuration
+International (with dead keys)
+
+sudo nano/etc/environment
+adicionar:
+GTK_IM_MODULE=cedilla
+QT_IM_MODULE=cedilla
+
+
+
+linux backup teclado dconf
+
+dconf dump / > dconf-settings-backup.txt
+
+dconf load / < dconf-settings-backup.txt
+
+
+ver qual driver de video ta rodando no linux
+lspci -k | grep -A 3 -i vga
+
+
+Dependências windows 
+MSVCP140_1.dll - Visual C++ Redistributable
+
+swap linux
+sudo fallocate -l 20G /swapfile
+sudo chmod 600 /swapfile
+sudo mkswap /swapfile
+sudo swapon /swapfile
+
+echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab
+
+
+robotics notes linux proton radeon
+PROTON_USE_WINED3D=1 %command%
+ou
+PROTON_USE_WINED3D=1 WINED3D_CURSOR_MODE=gdi %command%
+
+temperatura linux
+instalar lm-sensors
+depois: watch -n 1 sensors
+
+linux alterar escala de resolução
+xrandr --output HDMI-0 --scale 0.9x0.9
+
+chrome padrão xdg linux
+xdg-settings set default-web-browser google-chrome.desktop

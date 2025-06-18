@@ -1,0 +1,10 @@
+pegar mirrors mais rapidos no pacman (arch):
+sudo pacman-mirrors -c all 
+
+
+cloudflare warp:
+yay -S cloudflare-warp-bin
+
+warp-cli registration new
+warp-cli connect
+warp-cli status

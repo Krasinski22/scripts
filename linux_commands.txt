@@ -1,0 +1,6 @@
+linux_commands.txt
+
+diretorios:
+ln -sf ~/scripts/polybar  ~/.config/polybar
+ln -sf ~/scripts/i3  .config/i3
+ln -sf ~/scripts/mpv ~/.config/mpv

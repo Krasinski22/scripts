@@ -1,0 +1,7 @@
+rclone sync [origem] [destino]
+
+rclone ls gdrive:           # lista arquivos
+rclone lsd gdrive:          # lista apenas pastas
+rclone tree gdrive:         # mostra estrutura em árvore
+rclone ncdu gdrive:         # navegação interativa com ncdu
+

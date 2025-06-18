@@ -1,0 +1,11 @@
+automatizar instalação de fontes (da pasta fonts)
+definir windows terminal como padrao em vez do conhost
+mostrar caminho inteiro na aba do explorer
+mostrar arquivos ocultos
+mostrar arquivos protegidos pelo OS
+mostrar extensao de arquivos
+definir a imagem de lockscreen
+desabilitar autorun discord, steam
+salvar dados do keepassxc
+automatizar yt-dlp com atalho
+link simbolico para config do yt-dlp

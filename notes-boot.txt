@@ -1,0 +1,5 @@
+como mexer na nvram da uefi bios (gpt)
+linux - usar efibootmgr
+windows - usar bcedit
+
+
