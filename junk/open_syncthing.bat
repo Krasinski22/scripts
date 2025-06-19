@@ -1,1 +1,0 @@
-C:\Users\user\AppData\Local\Microsoft\WinGet\Links\syncthing.exe --no-console --no-browser"

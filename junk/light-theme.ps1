@@ -1,1 +1,0 @@
-ii C:\Users\user\scripts\windows-themes\light.deskthemepack
