@@ -36,9 +36,8 @@ ln -sf "$USER_HOME/scripts/xfce4/" "$USER_HOME/.config/xfce4"
 
 ln -sf "$USER_HOME/scripts/hypr" "$USER_HOME/.config/hypr"
 
-rm -rf "$USER_HOME/.config/sublime-text/Packages/User"
-mkdir -p "$USER_HOME/.config/sublime-text/Packages"
-ln -sf "$USER_HOME/scripts/sublime/User" "$USER_HOME/.config/sublime-text/Packages/User"
+
+ln -sf "$USER_HOME/scripts/sublime-text" "$USER_HOME/.config/sublime-text"
 
 rm -rf "$USER_HOME/.icons"
 ln -sf "$USER_HOME/scripts/.icons" "$USER_HOME/.icons"
