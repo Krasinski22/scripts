@@ -19,9 +19,9 @@ ln -sf "$HOME/dotfiles/i3" "$HOME/.config/i3"
 rm -rf "$HOME/.config/mpv"
 ln -sf "$HOME/dotfiles/mpv" "$HOME/.config/mpv"
 
+mkdir -p "$HOME/.config/fish"
 rm -rf "$HOME/.config/fish/config.fish"
 ln -sf "$HOME/dotfiles/fish/config.fish" "$HOME/.config/fish/config.fish"
-
 rm -rf "$HOME/.config/fish/functions"
 ln -sf "$HOME/dotfiles/fish/functions" "$HOME/.config/fish/functions"
 
@@ -37,9 +37,10 @@ ln -sf "$HOME/dotfiles/thunar" "$HOME/.config/Thunar"
 rm -rf "$HOME/.config/xfce4/"
 ln -sf "$HOME/dotfiles/xfce4/" "$HOME/.config/xfce4"
 
+rm -rf "$HOME/.config/hypr"
 ln -sf "$HOME/dotfiles/hypr" "$HOME/.config/hypr"
 
-
+mkdir -p "$HOME/.config/sublime-text/Packages/User"
 ln -sf "$HOME/dotfiles/sublime-text" "$HOME/.config/sublime-text/Packages/User"
 
 rm -rf "$HOME/.icons"
