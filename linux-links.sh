@@ -37,7 +37,7 @@ ln -sf "$HOME/dotfiles/xfce4/" "$HOME/.config/xfce4"
 ln -sf "$HOME/dotfiles/hypr" "$HOME/.config/hypr"
 
 
-ln -sf "$HOME/dotfiles/sublime-text" "$HOME/.config/sublime-text"
+ln -sf "$HOME/dotfiles/sublime-text" "$HOME/.config/sublime-text/Packages/User"
 
 rm -rf "$HOME/.icons"
 ln -sf "$HOME/dotfiles/.icons" "$HOME/.icons"
