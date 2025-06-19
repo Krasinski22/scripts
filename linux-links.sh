@@ -66,4 +66,5 @@ sudo ln -sf "$HOME/dotfiles/pacman/pacman-mirrors.conf" "/etc/pacman-mirrors.con
 sudo rm -rf "/etc/pacman.d/mirrorlist"
 sudo ln -sf "$HOME/dotfiles/pacman/mirrorlist" "/etc/pacman.d/mirrorlist"
 
+sudo rm -rf "$HOME/.config/dconf"
 ln -sf "$HOME/dotfiles/dconf" "$HOME/.config/dconf"
