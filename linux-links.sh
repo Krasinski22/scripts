@@ -19,8 +19,11 @@ ln -sf "$HOME/dotfiles/i3" "$HOME/.config/i3"
 rm -rf "$HOME/.config/mpv"
 ln -sf "$HOME/dotfiles/mpv" "$HOME/.config/mpv"
 
-rm -rf "$HOME/.config/fish"
-ln -sf "$HOME/dotfiles/fish" "$HOME/.config/fish"
+rm -rf "$HOME/.config/fish/config.fish"
+ln -sf "$HOME/dotfiles/fish/config.fish" "$HOME/.config/fish/config.fish"
+
+rm -rf "$HOME/.config/fish/functions"
+ln -sf "$HOME/dotfiles/fish/functions" "$HOME/.config/fish/functions"
 
 rm -rf "$HOME/.config/keepassxc"
 ln -sf "$HOME/dotfiles/keepassxc" "$HOME/.config/keepassxc"
