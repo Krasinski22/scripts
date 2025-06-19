@@ -6,63 +6,64 @@
 #    exit 1
 #fi
 
-# Define a variável USER_HOME para ser o diretório home do usuário que invocou o sudo
-#USER_HOME=$(eval echo "~$SUDO_USER")
-USER_HOME=$HOME
+# Define a variável HOME para ser o diretório home do usuário que invocou o sudo
+#HOME=$(eval echo "~$SUDO_USER")
+# USER_HOME=$HOME
 
-rm -rf "$USER_HOME/.config/polybar"
-ln -sf "$USER_HOME/scripts/polybar" "$USER_HOME/.config/polybar"
+rm -rf "$HOME/.config/polybar"
+ln -sf "$HOME/scripts/polybar" "$HOME/.config/polybar"
 
-rm -rf "$USER_HOME/.config/i3"
-ln -sf "$USER_HOME/scripts/i3" "$USER_HOME/.config/i3"
+rm -rf "$HOME/.config/i3"
+ln -sf "$HOME/scripts/i3" "$HOME/.config/i3"
 
-rm -rf "$USER_HOME/.config/mpv"
-ln -sf "$USER_HOME/scripts/mpv" "$USER_HOME/.config/mpv"
+rm -rf "$HOME/.config/mpv"
+ln -sf "$HOME/scripts/mpv" "$HOME/.config/mpv"
 
-rm -rf "$USER_HOME/.config/fish"
-ln -sf "$USER_HOME/scripts/fish" "$USER_HOME/.config/fish"
+rm -rf "$HOME/.config/fish"
+ln -sf "$HOME/scripts/fish" "$HOME/.config/fish"
 
-rm -rf "$USER_HOME/.config/keepassxc"
-ln -sf "$USER_HOME/scripts/keepassxc" "$USER_HOME/.config/keepassxc"
+rm -rf "$HOME/.config/keepassxc"
+ln -sf "$HOME/scripts/keepassxc" "$HOME/.config/keepassxc"
 
-rm -rf "$USER_HOME/.config/kitty"
-ln -sf "$USER_HOME/scripts/kitty" "$USER_HOME/.config/kitty"
+rm -rf "$HOME/.config/kitty"
+ln -sf "$HOME/scripts/kitty" "$HOME/.config/kitty"
 
-rm -rf "$USER_HOME/.config/Thunar"
-ln -sf "$USER_HOME/scripts/Thunar" "$USER_HOME/.config/Thunar"
+rm -rf "$HOME/.config/Thunar"
+ln -sf "$HOME/scripts/thunar" "$HOME/.config/Thunar"
 
-rm -rf "$USER_HOME/.config/xfce4/"
-ln -sf "$USER_HOME/scripts/xfce4/" "$USER_HOME/.config/xfce4"
+rm -rf "$HOME/.config/xfce4/"
+ln -sf "$HOME/scripts/xfce4/" "$HOME/.config/xfce4"
 
-ln -sf "$USER_HOME/scripts/hypr" "$USER_HOME/.config/hypr"
+ln -sf "$HOME/scripts/hypr" "$HOME/.config/hypr"
 
 
-ln -sf "$USER_HOME/scripts/sublime-text" "$USER_HOME/.config/sublime-text"
+ln -sf "$HOME/scripts/sublime-text" "$HOME/.config/sublime-text"
 
-rm -rf "$USER_HOME/.icons"
-ln -sf "$USER_HOME/scripts/.icons" "$USER_HOME/.icons"
+rm -rf "$HOME/.icons"
+ln -sf "$HOME/scripts/.icons" "$HOME/.icons"
 
-rm -rf "$USER_HOME/.nanorc"
-ln -sf "$USER_HOME/scripts/.nanorc" "$USER_HOME/.nanorc"
+rm -rf "$HOME/.nanorc"
+ln -sf "$HOME/scripts/.nanorc" "$HOME/.nanorc"
 
-rm -rf "$USER_HOME/.wezterm.lua"
-ln -sf "$USER_HOME/scripts/.wezterm.lua" "$USER_HOME/.wezterm.lua"
+rm -rf "$HOME/.wezterm.lua"
+ln -sf "$HOME/scripts/.wezterm.lua" "$HOME/.wezterm.lua"
 
-rm -rf "$USER_HOME/.bashrc"
-ln -sf "$USER_HOME/scripts/.bashrc" "$USER_HOME/.bashrc"
+rm -rf "$HOME/.bashrc"
+ln -sf "$HOME/scripts/.bashrc" "$HOME/.bashrc"
 
-rm -rf "$USER_HOME/.zshrc"
-ln -sf "$USER_HOME/scripts/.zshrc" "$USER_HOME/.zshrc"
+rm -rf "$HOME/.zshrc"
+ln -sf "$HOME/scripts/.zshrc" "$HOME/.zshrc"
 
-rm -rf "$USER_HOME/.gitconfig"
-ln -sf "$USER_HOME/scripts/.gitconfig" "$USER_HOME/.gitconfig"
+rm -rf "$HOME/.gitconfig"
+ln -sf "$HOME/scripts/.gitconfig" "$HOME/.gitconfig"
 
 sudo rm -rf "/etc/pacman.conf"
-sudo ln -sf "$USER_HOME/scripts/pacman.conf" "/etc/pacman.conf"
+sudo ln -sf "$HOME/scripts/pacman/pacman.conf" "/etc/pacman.conf"
 
 sudo rm -rf "/etc/pacman-mirrors.conf"
-sudo ln -sf "$USER_HOME/scripts/pacman-mirrors.conf" "/etc/pacman-mirrors.conf"
+sudo ln -sf "$HOME/scripts/pacman/pacman-mirrors.conf" "/etc/pacman-mirrors.conf"
 
 sudo rm -rf "/etc/pacman.d/mirrorlist"
-sudo ln -sf "$USER_HOME/scripts/pacman.d/mirrorlist" "/etc/pacman.d/mirrorlist"
+sudo ln -sf "$HOME/scripts/pacman.d/mirrorlist" "/etc/pacman.d/mirrorlist"
 
+ln -sf "$HOME/scripts/dconf" "$HOME/.config/dconf"
