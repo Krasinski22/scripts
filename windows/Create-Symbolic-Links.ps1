@@ -36,41 +36,39 @@ if (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
     exit
 }
 
-Safe-Symlink "$HOME\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" "$HOME\scripts\windows-terminal\settings.json"
+Safe-Symlink "$HOME\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" "$HOME\dotfiles\windows\windows-terminal\settings.json"
+
+Safe-Symlink "$HOME\AppData\Roaming\mpv\input.conf" "$HOME\dotfiles\mpv\input.conf"
+Safe-Symlink "$HOME\AppData\Roaming\mpv\mpv.conf" "$HOME\dotfiles\mpv\mpv.conf"
+
+Safe-Symlink "$HOME\AppData\Roaming\FlowLauncher\Settings" "$HOME\dotfiles\windows\FlowLauncher\Settings"
+
+Safe-Symlink "$HOME\.glzr\glazewm\config.yaml" "$HOME\dotfiles\windows\glazewm\config.yaml"
+
+Safe-Symlink "$HOME\.config\yasb\config.yaml" "$HOME\dotfiles\windows\yasb\config.yaml"
+Safe-Symlink "$HOME\.config\yasb\styles.css" "$HOME\dotfiles\windows\yasb\styles.css"
+
+Safe-Symlink "$HOME\Documents\PowerShell\Microsoft.PowerShell_profile.ps1" "$HOME\dotfiles\windows\powershell\Microsoft.PowerShell_profile.ps1"
+
+# Safe-Symlink "$HOME\.wezterm.lua" "$HOME\dotfiles\wezterm\wezterm-windows.lua" 
+
+Safe-Symlink "$HOME\AppData\Roaming\DS4Windows" "$HOME\dotfiles\windows\ds4windows"
+
+Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\User\" "$HOME\dotfiles\sublime\User"
+
+
+# Safe-Symlink "$HOME\monitors.cfg" "$HOME\dotfiles\monitors.cfg"
 
 # Safe-Symlink "$HOME\AppData\Local\Google\Chrome" "D:\software\chrome-data"
 # Safe-Symlink "$HOME\AppData\Roaming\Telegram Desktop\tdata" "D:\software\telegram-data"
 # Safe-Symlink "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\my-software" "D:\software\"
+# Safe-Symlink "$HOME\AppData\Local\AutoDarkMode" "$HOME\dotfiles\autodarkmode"
+# Safe-Symlink "$HOME\AppData\Roaming\AutoDarkMode" "$HOME\dotfiles\autodarkmode"
 
+#Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Default (Windows).sublime-keymap" "$HOME\dotfiles\sublime-keymap.sublime-keymap"
 
-# Safe-Symlink "$HOME\AppData\Local\AutoDarkMode" "$HOME\scripts\autodarkmode"
-# Safe-Symlink "$HOME\AppData\Roaming\AutoDarkMode" "$HOME\scripts\autodarkmode"
+#Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\PowerShell.sublime-settings" "$HOME\dotfiles\Sublime-PowerShell.sublime-settings"
 
-Safe-Symlink "$HOME\AppData\Roaming\mpv\input.conf" "$HOME\scripts\mpv\input.conf"
-Safe-Symlink "$HOME\AppData\Roaming\mpv\mpv.conf" "$HOME\scripts\mpv\mpv.conf"
+#Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Preferences.sublime-settings" "$HOME\dotfiles\Preferences.sublime-settings"
 
-Safe-Symlink "$HOME\AppData\Roaming\FlowLauncher\Settings" "$HOME\scripts\FlowLauncher\Settings"
-
-Safe-Symlink "$HOME\.glzr\glazewm\config.yaml" "$HOME\scripts\glazewm\config.yaml"
-
-Safe-Symlink "$HOME\.config\yasb\config.yaml" "$HOME\scripts\yasb\config.yaml"
-Safe-Symlink "$HOME\.config\yasb\styles.css" "$HOME\scripts\yasb\styles.css"
-
-Safe-Symlink "$HOME\Documents\PowerShell\Microsoft.PowerShell_profile.ps1" "$HOME\scripts\powershell\Microsoft.PowerShell_profile.ps1"
-
-Safe-Symlink "$HOME\.wezterm.lua" "$HOME\scripts\wezterm\wezterm-windows.lua" 
-
-Safe-Symlink "$HOME\AppData\Roaming\DS4Windows" "$HOME\scripts\ds4windows"
-
-
-#Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Default (Windows).sublime-keymap" "$HOME\scripts\sublime-keymap.sublime-keymap"
-
-#Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\PowerShell.sublime-settings" "$HOME\scripts\Sublime-PowerShell.sublime-settings"
-
-#Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Preferences.sublime-settings" "$HOME\scripts\Preferences.sublime-settings"
-
-#Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Package Control.sublime-settings" "$HOME\scripts\Package Control.sublime-settings"
-
-Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\User\" "$HOME\scripts\sublime\User"
-
-Safe-Symlink "$HOME\monitors.cfg" "$HOME\scripts\monitors.cfg"
+#Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Package Control.sublime-settings" "$HOME\dotfiles\Package Control.sublime-settings"
