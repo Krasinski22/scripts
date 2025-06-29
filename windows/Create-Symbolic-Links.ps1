@@ -50,12 +50,11 @@ Safe-Symlink "$HOME\.config\yasb\styles.css" "$HOME\dotfiles\windows\yasb\styles
 
 Safe-Symlink "$HOME\Documents\PowerShell\Microsoft.PowerShell_profile.ps1" "$HOME\dotfiles\windows\powershell\Microsoft.PowerShell_profile.ps1"
 
-# Safe-Symlink "$HOME\.wezterm.lua" "$HOME\dotfiles\wezterm\wezterm-windows.lua" 
-
 Safe-Symlink "$HOME\AppData\Roaming\DS4Windows" "$HOME\dotfiles\windows\ds4windows"
 
-Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\User\" "$HOME\dotfiles\sublime\User"
+Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\User\" "$HOME\dotfiles\sublime-text"
 
+# Safe-Symlink "$HOME\.wezterm.lua" "$HOME\dotfiles\wezterm\wezterm-windows.lua" 
 
 # Safe-Symlink "$HOME\monitors.cfg" "$HOME\dotfiles\monitors.cfg"
 
