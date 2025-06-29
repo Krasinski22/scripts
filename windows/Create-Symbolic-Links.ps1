@@ -49,6 +49,7 @@ Safe-Symlink "$HOME\.config\yasb\config.yaml" "$HOME\dotfiles\windows\yasb\confi
 Safe-Symlink "$HOME\.config\yasb\styles.css" "$HOME\dotfiles\windows\yasb\styles.css"
 
 Safe-Symlink "$HOME\Documents\PowerShell\Microsoft.PowerShell_profile.ps1" "$HOME\dotfiles\windows\powershell\Microsoft.PowerShell_profile.ps1"
+Safe-Symlink "$HOME\Documents\PowerShell\Modules" "$HOME\dotfiles\windows\powershell\Modules"
 
 Safe-Symlink "$HOME\AppData\Roaming\DS4Windows" "$HOME\dotfiles\windows\ds4windows"
 
