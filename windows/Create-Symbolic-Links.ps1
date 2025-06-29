@@ -52,7 +52,9 @@ Safe-Symlink "$HOME\Documents\PowerShell\Microsoft.PowerShell_profile.ps1" "$HOM
 
 Safe-Symlink "$HOME\AppData\Roaming\DS4Windows" "$HOME\dotfiles\windows\ds4windows"
 
-Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\User\" "$HOME\dotfiles\sublime-text"
+Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\User\" "$HOME\dotfiles\sublime-text\User"
+
+Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Installed Packages" "$HOME\dotfiles\sublime-text\Installed Packages"
 
 # Safe-Symlink "$HOME\.wezterm.lua" "$HOME\dotfiles\wezterm\wezterm-windows.lua" 
 
