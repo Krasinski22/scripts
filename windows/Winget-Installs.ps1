@@ -36,7 +36,8 @@ $apps = @(
     "CrystalDewWorld.CrystalDiskInfo.KureiKeiEdition",
     "Rclone.Rclone",
     "Ventoy.Ventoy",
-    "WinFsp.WinFsp"
+    "WinFsp.WinFsp",
+    "qBittorrent.qBittorrent"
 )
 
 foreach ($app in $apps) {
