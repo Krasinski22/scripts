@@ -35,7 +35,8 @@ $apps = @(
     "gnu.wget2",
     "CrystalDewWorld.CrystalDiskInfo.KureiKeiEdition",
     "Rclone.Rclone",
-    "Ventoy.Ventoy"
+    "Ventoy.Ventoy",
+    "WinFsp.WinFsp"
 )
 
 foreach ($app in $apps) {
