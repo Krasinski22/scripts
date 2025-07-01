@@ -28,7 +28,7 @@ if [ "$OS" == "ubuntu_mint" ]; then
     sudo apt install -y \
         git \
         fish \
-        brave-browser \
+	feh \
         cloudflare-warp \
         i3 \
         kitty \
@@ -65,6 +65,7 @@ elif [ "$OS" == "arch_manjaro" ]; then
         i3-wm \
         kitty \
         mpv \
+	feh \
         picom \
         polybar \
         rclone \
