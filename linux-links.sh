@@ -27,6 +27,8 @@ ln -sf "$HOME/dotfiles/mpv" "$HOME/.config/mpv"
 sudo rm -rf "$HOME/.config/dconf"
 ln -sf "$HOME/dotfiles/dconf" "$HOME/.config/dconf"
 
+sudo rm -rf "$HOME/.config/rofi"
+ln -sf "$HOME/dotfiles/rofi" "$HOME/.config/rofi"
 
 #rm -rf "$HOME/.config/keepassxc"
 #ln -sf "$HOME/dotfiles/keepassxc" "$HOME/.config/keepassxc"
