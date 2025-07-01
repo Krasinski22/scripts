@@ -24,6 +24,10 @@ ln -sf "$HOME/dotfiles/i3" "$HOME/.config/i3"
 rm -rf "$HOME/.config/mpv"
 ln -sf "$HOME/dotfiles/mpv" "$HOME/.config/mpv"
 
+sudo rm -rf "$HOME/.config/dconf"
+ln -sf "$HOME/dotfiles/dconf" "$HOME/.config/dconf"
+
+
 #rm -rf "$HOME/.config/keepassxc"
 #ln -sf "$HOME/dotfiles/keepassxc" "$HOME/.config/keepassxc"
 
