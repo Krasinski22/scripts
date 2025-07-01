@@ -35,6 +35,7 @@ function Safe-Symlink {
     Write-Host "Criando link: $LinkPath -> $TargetPath"
     New-Item -ItemType SymbolicLink -Path $LinkPath -Target $TargetPath | Out-Null
 
+}
 
 ####
 
