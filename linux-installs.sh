@@ -63,31 +63,30 @@ elif [ "$OS" == "arch_manjaro" ]; then
 
     sudo pacman -S --noconfirm \
         i3-wm \
-        wezterm \
+        kitty \
         mpv \
         picom \
         polybar \
         rclone \
         rofi \
-        syncthingtray \
         xdotool \
         fish \
         zsh \
         steam \
         solaar \
-        brave-browser \
         git \
-	qbittorrent \
-	keepassxc 
-    # Sublime Text is often installed manually or via AUR, uncomment if you have an AUR helper
-    # yay -S --noconfirm sublime-text
+        qbittorrent \
+        keepassxc 
+        # Sublime Text is often installed manually or via AUR, uncomment if you have an AUR helper
+        # yay -S --noconfirm sublime-text
 
     echo "Installing AUR packages with yay..."
     yay -S --noconfirm \
         cloudflare-warp-bin \
         fsearch \
         qdirstat \
-	sublime-text-4
+        sublime-text-4 \
+        syncthingtray
 fi
 
 echo "Package installation complete!"
