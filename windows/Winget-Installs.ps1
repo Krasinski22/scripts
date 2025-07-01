@@ -1,5 +1,3 @@
-winget install gerardog.gsudo
-
 # Verifica se o script está sendo executado como administrador
 if (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")) {
     Write-Host "Run as admin"
@@ -7,6 +5,7 @@ if (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
 }
 
 $apps = @(
+    "gerardog.gsudo",
     "7zip.7zip",
     "Obsidian.Obsidian",
     "DuongDieuPhap.ImageGlass",
