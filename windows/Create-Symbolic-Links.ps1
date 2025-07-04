@@ -36,6 +36,8 @@ if (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
     exit
 }
 
+Safe-Symlink "$env:LOCALAPPDATA\nvim" "$HOME\dotfiles\nvim"
+
 Safe-Symlink "$HOME\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" "$HOME\dotfiles\windows\windows-terminal\settings.json"
 
 
