@@ -38,8 +38,14 @@ if (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
 
 Safe-Symlink "$HOME\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" "$HOME\dotfiles\windows\windows-terminal\settings.json"
 
-Safe-Symlink "$HOME\AppData\Roaming\mpv\input.conf" "$HOME\dotfiles\mpv\input.conf"
-Safe-Symlink "$HOME\AppData\Roaming\mpv\mpv.conf" "$HOME\dotfiles\mpv\mpv.conf"
+
+Safe-Symlink "$HOME\AppData\Roaming\mpv" "$HOME\dotfiles\mpv"
+
+#Safe-Symlink "$HOME\AppData\Roaming\mpv\input.conf" "$HOME\dotfiles\mpv\input.conf"
+#Safe-Symlink "$HOME\AppData\Roaming\mpv\mpv.conf" "$HOME\dotfiles\mpv\mpv.conf"
+#Safe-Symlink "$HOME\AppData\Roaming\mpv\scripts" "$HOME\dotfiles\mpv\scripts"
+#Safe-Symlink "$HOME\AppData\Roaming\mpv\script-opts" "$HOME\dotfiles\mpv\script-opts"
+
 
 Safe-Symlink "$HOME\AppData\Roaming\FlowLauncher\Settings" "$HOME\dotfiles\windows\FlowLauncher\Settings"
 
@@ -49,7 +55,6 @@ Safe-Symlink "$HOME\.config\yasb\config.yaml" "$HOME\dotfiles\windows\yasb\confi
 Safe-Symlink "$HOME\.config\yasb\styles.css" "$HOME\dotfiles\windows\yasb\styles.css"
 
 Safe-Symlink "$HOME\Documents\PowerShell\Microsoft.PowerShell_profile.ps1" "$HOME\dotfiles\windows\powershell\Microsoft.PowerShell_profile.ps1"
-Safe-Symlink "$HOME\Documents\PowerShell\Modules" "$HOME\dotfiles\windows\powershell\Modules"
 
 Safe-Symlink "$HOME\AppData\Roaming\DS4Windows" "$HOME\dotfiles\windows\ds4windows"
 
