@@ -43,10 +43,6 @@ Safe-Symlink "$HOME\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bb
 
 Safe-Symlink "$HOME\AppData\Roaming\mpv" "$HOME\dotfiles\mpv"
 
-#Safe-Symlink "$HOME\AppData\Roaming\mpv\input.conf" "$HOME\dotfiles\mpv\input.conf"
-#Safe-Symlink "$HOME\AppData\Roaming\mpv\mpv.conf" "$HOME\dotfiles\mpv\mpv.conf"
-#Safe-Symlink "$HOME\AppData\Roaming\mpv\scripts" "$HOME\dotfiles\mpv\scripts"
-#Safe-Symlink "$HOME\AppData\Roaming\mpv\script-opts" "$HOME\dotfiles\mpv\script-opts"
 
 
 Safe-Symlink "$HOME\AppData\Roaming\FlowLauncher\Settings" "$HOME\dotfiles\windows\FlowLauncher\Settings"
@@ -63,6 +59,11 @@ Safe-Symlink "$HOME\AppData\Roaming\DS4Windows" "$HOME\dotfiles\windows\ds4windo
 Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\User\" "$HOME\dotfiles\sublime-text\User"
 
 Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Installed Packages" "$HOME\dotfiles\sublime-text\Installed Packages"
+
+#Safe-Symlink "$HOME\AppData\Roaming\mpv\input.conf" "$HOME\dotfiles\mpv\input.conf"
+#Safe-Symlink "$HOME\AppData\Roaming\mpv\mpv.conf" "$HOME\dotfiles\mpv\mpv.conf"
+#Safe-Symlink "$HOME\AppData\Roaming\mpv\scripts" "$HOME\dotfiles\mpv\scripts"
+#Safe-Symlink "$HOME\AppData\Roaming\mpv\script-opts" "$HOME\dotfiles\mpv\script-opts"
 
 # Safe-Symlink "$HOME\.wezterm.lua" "$HOME\dotfiles\wezterm\wezterm-windows.lua" 
 
