@@ -36,7 +36,24 @@ $apps = @(
     "Rclone.Rclone",
     "Ventoy.Ventoy",
     "WinFsp.WinFsp",
-    "qBittorrent.qBittorrent"
+    "qBittorrent.qBittorrent",
+    "MusicBee",
+    "Telegram.TelegramDesktop",
+    "voidtools.Everything.Cli",
+    "voidtools.Everything",
+    "Obsidian.Obsidian",
+    "Rclone.Rclone",
+    "Gyan.FFmpeg",
+    "Jackett.Jackett",
+    "WinFsp.WinFsp.Beta",
+    "qBittorrent.qBittorrent",
+    "Valve.Steam",
+    "OBSProject.OBSStudio",
+    "KeePassXCTeam.KeePassXC",
+    "Cloudflare.Warp",
+    "DuongDieuPhap.ImageGlass",
+    "Google.Chrome",
+    "CrystalDewWorld.CrystalDiskInfo.KureiKeiEdition"
 )
 
 foreach ($app in $apps) {
