@@ -3,3 +3,4 @@
 & "C:\Users\user\AppData\Local\Microsoft\WinGet\Links\syncthingtray.exe"
 & "C:\Program Files\Everything\Everything.exe" -startup
 & "C:\Program Files\Cloudflare\Cloudflare WARP\Cloudflare WARP.exe"
+& "C:\ProgramData\chocolatey\lib\eartrumpet\tools\EarTrumpet\EarTrumpet.exe"
