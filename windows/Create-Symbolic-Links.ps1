@@ -36,23 +36,19 @@ if (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
     exit
 }
 
+Safe-Symlink "$HOME\Documents\PowerShell" "$HOME\dotfiles\windows\powershell"
+
 Safe-Symlink "$env:LOCALAPPDATA\nvim" "$HOME\dotfiles\nvim"
 
 Safe-Symlink "$HOME\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" "$HOME\dotfiles\windows\windows-terminal\settings.json"
 
-
 Safe-Symlink "$HOME\AppData\Roaming\mpv" "$HOME\dotfiles\mpv"
-
-
 
 Safe-Symlink "$HOME\AppData\Roaming\FlowLauncher\Settings" "$HOME\dotfiles\windows\FlowLauncher\Settings"
 
 Safe-Symlink "$HOME\.glzr\glazewm\config.yaml" "$HOME\dotfiles\windows\glazewm\config.yaml"
 
-Safe-Symlink "$HOME\.config\yasb\config.yaml" "$HOME\dotfiles\windows\yasb\config.yaml"
-Safe-Symlink "$HOME\.config\yasb\styles.css" "$HOME\dotfiles\windows\yasb\styles.css"
-
-Safe-Symlink "$HOME\Documents\PowerShell\Microsoft.PowerShell_profile.ps1" "$HOME\dotfiles\windows\powershell\Microsoft.PowerShell_profile.ps1"
+Safe-Symlink "$HOME\.config\yasb" "$HOME\dotfiles\windows\yasb"
 
 Safe-Symlink "$HOME\AppData\Roaming\DS4Windows" "$HOME\dotfiles\windows\ds4windows"
 

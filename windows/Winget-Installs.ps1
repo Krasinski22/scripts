@@ -6,6 +6,7 @@ if (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
 
 $apps = @(
     "gerardog.gsudo",
+    "FlorianHeidenreich.Mp3tag",
     "7zip.7zip",
     "Obsidian.Obsidian",
     "DuongDieuPhap.ImageGlass",
