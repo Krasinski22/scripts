@@ -1,4 +1,4 @@
-$myuser = $env:username
+
 
  function Safe-Symlink {
      param (
@@ -40,41 +40,43 @@ Safe-Symlink "$HOME\Documents\PowerShell" "$HOME\dotfiles\windows\powershell"
 
 Safe-Symlink "$env:LOCALAPPDATA\nvim" "$HOME\dotfiles\nvim"
 
-Safe-Symlink "$HOME\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" "$HOME\dotfiles\windows\windows-terminal\settings.json"
+Safe-Symlink "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" "$HOME\dotfiles\windows\windows-terminal\settings.json"
 
-Safe-Symlink "$HOME\AppData\Roaming\mpv" "$HOME\dotfiles\mpv"
+Safe-Symlink "$env:APPDATA\mpv" "$HOME\dotfiles\mpv"
 
-Safe-Symlink "$HOME\AppData\Roaming\FlowLauncher\Settings" "$HOME\dotfiles\windows\FlowLauncher\Settings"
+Safe-Symlink "$env:APPDATA\FlowLauncher\Settings" "$HOME\dotfiles\windows\FlowLauncher\Settings"
 
 Safe-Symlink "$HOME\.glzr\glazewm\config.yaml" "$HOME\dotfiles\windows\glazewm\config.yaml"
 
 Safe-Symlink "$HOME\.config\yasb" "$HOME\dotfiles\windows\yasb"
 
-Safe-Symlink "$HOME\AppData\Roaming\DS4Windows" "$HOME\dotfiles\windows\ds4windows"
+Safe-Symlink "$env:APPDATA\DS4Windows" "$HOME\dotfiles\windows\ds4windows"
 
-Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\User\" "$HOME\dotfiles\sublime-text\User"
+#sublime
+Safe-Symlink "$env:APPDATA\Sublime Text\Packages\User\" "$HOME\dotfiles\sublime-text\User"
+Safe-Symlink "$env:APPDATA\Sublime Text\Installed Packages" "$HOME\dotfiles\sublime-text\Installed Packages"
 
-Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Installed Packages" "$HOME\dotfiles\sublime-text\Installed Packages"
-
-#Safe-Symlink "$HOME\AppData\Roaming\mpv\input.conf" "$HOME\dotfiles\mpv\input.conf"
-#Safe-Symlink "$HOME\AppData\Roaming\mpv\mpv.conf" "$HOME\dotfiles\mpv\mpv.conf"
-#Safe-Symlink "$HOME\AppData\Roaming\mpv\scripts" "$HOME\dotfiles\mpv\scripts"
-#Safe-Symlink "$HOME\AppData\Roaming\mpv\script-opts" "$HOME\dotfiles\mpv\script-opts"
-
-# Safe-Symlink "$HOME\.wezterm.lua" "$HOME\dotfiles\wezterm\wezterm-windows.lua" 
+#shortcuts games
+Safe-Symlink "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Games" "$HOME\dotfiles\windows\shortcuts\Games"
 
 # Safe-Symlink "$HOME\monitors.cfg" "$HOME\dotfiles\monitors.cfg"
 
-# Safe-Symlink "$HOME\AppData\Local\Google\Chrome" "D:\software\chrome-data"
-# Safe-Symlink "$HOME\AppData\Roaming\Telegram Desktop\tdata" "D:\software\telegram-data"
+
+
+
+
+
+#Safe-Symlink "$env:APPDATA\mpv\input.conf" "$HOME\dotfiles\mpv\input.conf"
+#Safe-Symlink "$env:APPDATA\mpv\mpv.conf" "$HOME\dotfiles\mpv\mpv.conf"
+#Safe-Symlink "$env:APPDATA\mpv\scripts" "$HOME\dotfiles\mpv\scripts"
+#Safe-Symlink "$env:APPDATA\mpv\script-opts" "$HOME\dotfiles\mpv\script-opts"
+
+# Safe-Symlink "$HOME\.wezterm.lua" "$HOME\dotfiles\wezterm\wezterm-windows.lua" 
+
+# Safe-Symlink "$env:LOCALAPPDATA\Google\Chrome" "D:\software\chrome-data"
+# Safe-Symlink "$env:APPDATA\Telegram Desktop\tdata" "D:\software\telegram-data"
 # Safe-Symlink "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\my-software" "D:\software\"
-# Safe-Symlink "$HOME\AppData\Local\AutoDarkMode" "$HOME\dotfiles\autodarkmode"
-# Safe-Symlink "$HOME\AppData\Roaming\AutoDarkMode" "$HOME\dotfiles\autodarkmode"
+# Safe-Symlink "$env:LOCALAPPDATA\AutoDarkMode" "$HOME\dotfiles\autodarkmode"
+# Safe-Symlink "$env:APPDATA\AutoDarkMode" "$HOME\dotfiles\autodarkmode"
 
-#Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Default (Windows).sublime-keymap" "$HOME\dotfiles\sublime-keymap.sublime-keymap"
-
-#Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\PowerShell.sublime-settings" "$HOME\dotfiles\Sublime-PowerShell.sublime-settings"
-
-#Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Preferences.sublime-settings" "$HOME\dotfiles\Preferences.sublime-settings"
-
-#Safe-Symlink "$HOME\AppData\Roaming\Sublime Text\Packages\$myuser\Package Control.sublime-settings" "$HOME\dotfiles\Package Control.sublime-settings"
+#$myuser = $env:username
