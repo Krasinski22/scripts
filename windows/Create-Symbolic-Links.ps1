@@ -36,6 +36,8 @@ if (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
     exit
 }
 
+Safe-Symlink '$HOME\Documents\My Games\mages_steam' D:\games\saves\mages_steam\
+
 Safe-Symlink "$HOME\Documents\PowerShell" "$HOME\dotfiles\windows\powershell"
 
 Safe-Symlink "$env:LOCALAPPDATA\nvim" "$HOME\dotfiles\nvim"
