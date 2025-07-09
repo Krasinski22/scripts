@@ -14,6 +14,7 @@ $apps = @(
     "Flow-Launcher.Flow-Launcher",
     "Cloudflare.Warp",
     #"File-New-Project.EarTrumpet",
+    "Espanso.Espanso",
     "git.git",
     "glzr-io.glazewm",
     "KeePassXCTeam.KeePassXC",
