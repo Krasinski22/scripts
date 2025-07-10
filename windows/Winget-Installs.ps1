@@ -19,6 +19,7 @@ $apps = @(
     "glzr-io.glazewm",
     "KeePassXCTeam.KeePassXC",
     "CrystalRich.LockHunter",
+    "ShareX.ShareX",
     "Neovim.Neovim",
     "Microsoft.PowerShell",
     "Valve.Steam",
