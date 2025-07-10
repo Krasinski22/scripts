@@ -1,0 +1,7 @@
+# & "cd $env:ProgramFiles\glzr.io\GlazeWM\glazewm.exe"
+& "$env:localappdata\FlowLauncher\Flow.Launcher.exe"
+& "$env:localappdata\Microsoft\WinGet\Links\syncthingtray.exe"
+& "$env:ProgramFiles\Everything\Everything.exe" -startup
+& "$env:ProgramFiles\Cloudflare\Cloudflare WARP\Cloudflare WARP.exe"
+& "$env:ProgramData\chocolatey\lib\eartrumpet\tools\EarTrumpet\EarTrumpet.exe"
+& "$env:LocalAppData\Programs\Espanso\espansod.exe" launcher & 

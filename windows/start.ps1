@@ -1,6 +1,7 @@
-# & "C:\Program Files\glzr.io\GlazeWM\glazewm.exe"
-& "C:\Users\user\AppData\Local\FlowLauncher\Flow.Launcher.exe"
-& "C:\Users\user\AppData\Local\Microsoft\WinGet\Links\syncthingtray.exe"
-& "C:\Program Files\Everything\Everything.exe" -startup
-& "C:\Program Files\Cloudflare\Cloudflare WARP\Cloudflare WARP.exe"
-& "C:\ProgramData\chocolatey\lib\eartrumpet\tools\EarTrumpet\EarTrumpet.exe"
+Start-Process "$env:localappdata\FlowLauncher\Flow.Launcher.exe"
+Start-Process "$env:localappdata\Microsoft\WinGet\Links\syncthingtray.exe"
+Start-Process "$env:ProgramFiles\Everything\Everything.exe" -ArgumentList "-startup"
+Start-Process "$env:ProgramFiles\Cloudflare\Cloudflare WARP\Cloudflare WARP.exe"
+Start-Process "$env:ProgramData\chocolatey\lib\eartrumpet\tools\EarTrumpet\EarTrumpet.exe"
+#Start-Process "$env:LocalAppData\Programs\Espanso\espansod.exe" -ArgumentList "start"
+espanso start & 

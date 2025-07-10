@@ -1,0 +1,4 @@
+@echo off
+taskkill /f /im syncthingtray.exe
+taskkill /IM yasb.exe /F
+taskkill /f /im espandod.exe

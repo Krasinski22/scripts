@@ -1,33 +1,31 @@
+function Safe-Symlink {
+    param (
+        [string]$LinkPath,
+        [string]$TargetPath
+    )
 
+    # Verifica se o destino existe
+    if (-Not (Test-Path $TargetPath)) {
+        Write-Error "ERRO: O caminho de destino NÃO existe: $TargetPath"
+        exit 1
+    }
 
- function Safe-Symlink {
-     param (
-         [string]$LinkPath,
-         [string]$TargetPath
-     )
- 
-     # Verifica se o destino existe
-     if (-Not (Test-Path $TargetPath)) {
-         Write-Error "ERRO: O caminho de destino NÃO existe: $TargetPath"
-         exit 1
-     }
- 
-     # Cria o diretório pai do link, se necessário
-     $LinkParent = Split-Path $LinkPath -Parent
-     if (-Not (Test-Path $LinkParent)) {
-         Write-Host "Diretório pai do link não encontrado. Criando: $LinkParent"
+    # Cria o diretório pai do link, se necessário
+    $LinkParent = Split-Path $LinkPath -Parent
+    if (-Not (Test-Path $LinkParent)) {
+        Write-Host "Diretório pai do link não encontrado. Criando: $LinkParent"
          New-Item -ItemType Directory -Path $LinkParent -Force | Out-Null
-     }
- 
-     # Remove link ou pasta existente no caminho do link
-     if (Test-Path $LinkPath) {
-         Write-Host "Removendo: $LinkPath"
-         Remove-Item -Path $LinkPath -Force -Recurse
-     }
- 
-     Write-Host "Criando link: $LinkPath -> $TargetPath"
-     New-Item -ItemType SymbolicLink -Path $LinkPath -Target $TargetPath | Out-Null
- }
+    }
+
+    # Remove link ou pasta existente no caminho do link
+    if (Test-Path $LinkPath) {
+        Write-Host "Removendo: $LinkPath"
+        Remove-Item -Path $LinkPath -Force -Recurse
+    }
+
+    Write-Host "Criando link: $LinkPath -> $TargetPath"
+    New-Item -ItemType SymbolicLink -Path $LinkPath -Target $TargetPath | Out-Null
+}
 
 
 # Verifica se o script está sendo executado como administrador
@@ -35,6 +33,8 @@ if (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
     Write-Host "Run as admin"
     exit
 }
+
+Safe-Symlink "$env:APPDATA\alacritty\" "$HOME\dotfiles\alacritty"
 
 Safe-Symlink '$HOME\Documents\My Games\mages_steam' D:\games\saves\mages_steam\
 
